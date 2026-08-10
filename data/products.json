@@ -1,0 +1,4959 @@
+{
+ "categories": [
+  {
+   "slug": "molduras-decorativas",
+   "name": "Molduras decorativas",
+   "tagline": "Elegancia para techos y paredes",
+   "description": "Molduras decorativas de poliestireno para la terminación entre paredes y techos. Ligeras, fáciles de instalar y personalizables con pinturas al agua.",
+   "image": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-13.webp",
+   "order": 1
+  },
+  {
+   "slug": "antideslizantes",
+   "name": "Antideslizantes",
+   "tagline": "Seguridad en escaleras y rampas",
+   "description": "Antideslizantes de PVC y aluminio para escaleras, rampas y pasillos de alto tránsito. Previenen accidentes en interiores y exteriores, con opciones fotoluminiscentes para zonas de poca luz.",
+   "image": "/images/antideslizantes/grupal-antideslizantes.webp",
+   "order": 2
+  },
+  {
+   "slug": "crucetas-y-niveladores",
+   "name": "Crucetas y niveladores",
+   "tagline": "Instalación pareja y profesional",
+   "description": "Crucetas y sistemas de nivelación para la instalación de cerámicos, porcelanatos y bloques de vidrio. Separación constante y superficie pareja en menos tiempo.",
+   "image": "/images/crucetas/crucetas_ceramicos_procelanatos/foto-ambientada.webp",
+   "order": 3
+  },
+  {
+   "slug": "juntas",
+   "name": "Juntas",
+   "tagline": "Transiciones y dilatación de pisos",
+   "description": "Juntas de transición para pisos iguales o a desnivel, y juntas de dilatación para concreto, porcelanato y cerámica. Previenen fisuras y crean transiciones seguras.",
+   "image": "/images/juntas/junta_transicion_p-distinto_nivel/foto-ambientada.webp",
+   "order": 4
+  },
+  {
+   "slug": "zocalos",
+   "name": "Zócalos",
+   "tagline": "Acabados sanitarios y decorativos",
+   "description": "Zócalos sanitarios, decorativos y contrazócalos en PVC y aluminio. Uniones impecables entre pisos y paredes, ideales para hospitales, restaurantes y espacios de alta higiene.",
+   "image": "/images/zocalos/zocalos-grupal.webp",
+   "order": 5
+  },
+  {
+   "slug": "paneles-de-pvc",
+   "name": "Paneles de PVC",
+   "tagline": "Revestimiento de paredes y techos",
+   "description": "Paneles de PVC para revestir paredes y techos tipo cielorraso. Instalación rápida, limpieza sin esfuerzo y un acabado limpio y contemporáneo.",
+   "image": "/images/panel-de-pvc/foto-ambientada-2.webp",
+   "order": 6
+  },
+  {
+   "slug": "perfiles-para-acabados",
+   "name": "Perfiles para acabados",
+   "tagline": "Rodoplast en PVC y aluminio",
+   "description": "Perfiles Rodoplast de PVC y aluminio para proteger y embellecer los bordes de revestimientos en pisos y paredes, en interiores y exteriores.",
+   "image": "/images/rodoplast/rodoplast/bano-con-rodoplast.webp",
+   "order": 7
+  },
+  {
+   "slug": "listelos-para-pared",
+   "name": "Listelos para pared",
+   "tagline": "Detalles en acero y aluminio",
+   "description": "Listelos decorativos de acero inoxidable y aluminio para combinar con porcelanatos y cerámicos en baños, cocinas y recepciones.",
+   "image": "/images/listelos/listelo_acero_inoxidable/foto-ambientada.webp",
+   "order": 8
+  },
+  {
+   "slug": "otros-productos",
+   "name": "Otros productos",
+   "tagline": "Bordes, burletes y protectores",
+   "description": "Borde para jardín, burlete para puertas, ángulos protectores de acero, protector de lluvia y más soluciones que completan cada proyecto.",
+   "image": "/images/borde_jardin_nefusac/foto-ambientada-2.webp",
+   "order": 9
+  }
+ ],
+ "products": [
+  {
+   "slug": "moldura-decorativa-e2",
+   "name": "Moldura Decorativa E2",
+   "shortDescription": "Moldura de poliestireno de 17 x 25 mm para la unión entre pared y techo. Ligera, fácil de instalar y personalizable con pinturas al agua.",
+   "description": [
+    "La Moldura Decorativa E2 es el perfil más discreto de nuestra línea de molduras para techo. Con una sección aproximada de 17 x 25 mm y 2 metros de longitud, agrega un toque de elegancia y sofisticación a la terminación entre las paredes y el techo, ocultando las imperfecciones propias de esa intersección.",
+    "Está fabricada en XPS (poliestireno extruido) con una densidad aproximada de 85 g/dm³, lo que la hace muy ligera y facilita su adhesión al techo y su instalación. Además, el material permite personalizarla con pinturas al agua (emulsiones, acrílicas o látex) para integrarla con la decoración de cada ambiente.",
+    "Su instalación se realiza con adhesivo Titan Premium, aplicado directamente desde el cartucho sobre la parte posterior del producto en dos líneas por moldura. Para las esquinas, internas o externas, basta realizar cortes a 45° con una sierra de corte fino y una caja de ingletes; las juntas y pequeños defectos se rellenan con el sellador Titan.",
+    "Es un producto de uso exclusivo en interiores, que debe instalarse lejos de fuentes de calor y de disolventes orgánicos como acetona, bencina o gasolina. Cuenta con 1 año de garantía."
+   ],
+   "specs": [
+    {
+     "label": "Dimensiones",
+     "value": "17 x 25 mm (aprox.)"
+    },
+    {
+     "label": "Longitud",
+     "value": "2 m"
+    },
+    {
+     "label": "Material",
+     "value": "XPS (poliestireno extruido)"
+    },
+    {
+     "label": "Densidad",
+     "value": "Aprox. 85 g/dm³"
+    },
+    {
+     "label": "Acabado",
+     "value": "Pintable con pinturas al agua (emulsiones, acrílicos, látex)"
+    },
+    {
+     "label": "Uso",
+     "value": "Exclusivo para interiores (techo - pared)"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año"
+    }
+   ],
+   "usos": [
+    "Terminación decorativa entre pared y techo",
+    "Ocultar imperfecciones en la unión muro-techo",
+    "Decoración de salas, dormitorios y comedores",
+    "Proyectos de remodelación de interiores",
+    "Enmarcado de cielorrasos"
+   ],
+   "ficha": "/fichas/ft_molduras_decorativas.pdf",
+   "images": [
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/moldura-e2.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Moldura decorativa E2 instalada en la unión entre pared y techo de un ambiente interior"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-3.webp",
+     "w": 1500,
+     "h": 900,
+     "alt": "Ambiente interior decorado con molduras de poliestireno NEFUSAC en el techo"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-4.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Sala con molduras decorativas enmarcando el encuentro entre muro y cielorraso"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-5.webp",
+     "w": 1600,
+     "h": 1100
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-6.webp",
+     "w": 1500,
+     "h": 900
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-7.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-8.webp",
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-9.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-10.webp",
+     "w": 1500,
+     "h": 900
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-11.webp",
+     "w": 1500,
+     "h": 900
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-12.webp",
+     "w": 1500,
+     "h": 900
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-13.webp",
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-14.webp",
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-15.webp",
+     "w": 1500,
+     "h": 900
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-16.webp",
+     "w": 1600,
+     "h": 1100
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-17.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-18.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-19.webp",
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-20.webp",
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-21.webp",
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-22.webp",
+     "w": 1500,
+     "h": 900
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-23.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-24.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-25.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/post_ssm/post-molduras-e2.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Presentación de la moldura decorativa E2 de NEFUSAC"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-02/e-02.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Moldura decorativa E2 de poliestireno, vista del perfil"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-02/e-02-2.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Detalle del perfil de la moldura decorativa E2"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/moldura_e2.webp",
+     "w": 800,
+     "h": 600,
+     "alt": "Render del perfil de la moldura decorativa E2"
+    }
+   ],
+   "category": "molduras-decorativas",
+   "featured": false,
+   "cardImage": "/images/molduras-decorativas-de-poliestireno/moldura-e2.webp",
+   "hoverImage": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-3.webp"
+  },
+  {
+   "slug": "moldura-decorativa-e5",
+   "name": "Moldura Decorativa E5",
+   "shortDescription": "Moldura de XPS de 40 x 45 mm que da presencia a la transición entre muro y techo. Ligera, de instalación sencilla y pintable con pinturas al agua.",
+   "description": [
+    "La Moldura Decorativa E5, con una sección aproximada de 40 x 45 mm y 2 metros de longitud, es un perfil de proporciones generosas que enmarca con elegancia la unión entre las paredes y el techo, a la vez que disimula las imperfecciones de dicha intersección.",
+    "Fabricada en XPS (poliestireno extruido) con una densidad aproximada de 85 g/dm³, es una moldura muy ligera: su adhesión al techo es sencilla y no requiere mano de obra especializada. El material admite personalización con pinturas al agua (emulsiones, acrílicas o látex), lo que permite adaptarla al estilo de cada proyecto.",
+    "Para su instalación se recomienda el adhesivo Titan Premium, aplicado en dos líneas sobre la parte posterior de la moldura directamente desde el cartucho. Las esquinas se resuelven con cortes a 45° usando una sierra de corte fino y una caja de ingletes, y las juntas se rellenan con el sellador Titan para un acabado impecable.",
+    "Producto de uso exclusivo en interiores: debe instalarse lejos de fuentes de calor y no es resistente a disolventes orgánicos. Cuenta con 1 año de garantía."
+   ],
+   "specs": [
+    {
+     "label": "Dimensiones",
+     "value": "40 x 45 mm (aprox.)"
+    },
+    {
+     "label": "Longitud",
+     "value": "2 m"
+    },
+    {
+     "label": "Material",
+     "value": "XPS (poliestireno extruido)"
+    },
+    {
+     "label": "Densidad",
+     "value": "Aprox. 85 g/dm³"
+    },
+    {
+     "label": "Acabado",
+     "value": "Pintable con pinturas al agua (emulsiones, acrílicos, látex)"
+    },
+    {
+     "label": "Uso",
+     "value": "Exclusivo para interiores (techo - pared)"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año"
+    }
+   ],
+   "usos": [
+    "Terminación decorativa entre pared y techo",
+    "Ocultar imperfecciones en la unión muro-techo",
+    "Decoración de salas, comedores y recepciones",
+    "Proyectos de remodelación de interiores"
+   ],
+   "ficha": "/fichas/ft_molduras_decorativas.pdf",
+   "images": [
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/moldura-e5.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Moldura decorativa E5 instalada en la unión entre pared y techo de un ambiente interior"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/post_ssm/post-molduras-e5.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Presentación de la moldura decorativa E5 de NEFUSAC"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-05/e-5.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Moldura decorativa E5 de poliestireno, vista del perfil"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-05/e-05-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-05/e-05-3.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/moldura-decorativa_e5.webp",
+     "w": 800,
+     "h": 600,
+     "alt": "Render del perfil de la moldura decorativa E5"
+    }
+   ],
+   "category": "molduras-decorativas",
+   "featured": true,
+   "cardImage": "/images/molduras-decorativas-de-poliestireno/moldura-e5.webp",
+   "hoverImage": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-4.webp"
+  },
+  {
+   "slug": "moldura-decorativa-e6",
+   "name": "Moldura Decorativa E6",
+   "shortDescription": "Moldura decorativa de poliestireno para techos interiores. Realza la unión pared-techo con un perfil elegante, ligero y fácil de instalar.",
+   "description": [
+    "La Moldura Decorativa E6 forma parte de nuestra línea de molduras para techo, diseñada para agregar un toque de elegancia y sofisticación a cualquier ambiente. Es la solución ideal para la terminación entre las paredes y el techo en interiores, ocultando las imperfecciones de esa intersección.",
+    "Como toda la línea, está fabricada en poliestireno, un material muy ligero que hace que su adhesión al techo y su instalación sean sencillas. Además, admite personalización mediante pinturas al agua para integrarse con la paleta de cada proyecto.",
+    "Su instalación se realiza con adhesivo Titan Premium aplicado en la parte posterior de la moldura, con cortes a 45° en las esquinas usando sierra de corte fino y caja de ingletes. Es un producto de uso exclusivo en interiores, que debe instalarse lejos de fuentes de calor y de disolventes orgánicos."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Poliestireno"
+    },
+    {
+     "label": "Acabado",
+     "value": "Pintable con pinturas al agua (emulsiones, acrílicos, látex)"
+    },
+    {
+     "label": "Uso",
+     "value": "Exclusivo para interiores (techo - pared)"
+    }
+   ],
+   "usos": [
+    "Terminación decorativa entre pared y techo",
+    "Ocultar imperfecciones en la unión muro-techo",
+    "Decoración de dormitorios y salas",
+    "Proyectos de remodelación de interiores"
+   ],
+   "ficha": "/fichas/ft_molduras_decorativas.pdf",
+   "images": [
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/post_ssm/post-molduras-e6.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Presentación de la moldura decorativa E6 de NEFUSAC"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-06/e-06.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Moldura decorativa E6 de poliestireno, vista del perfil"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-06/e-06-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-06/e-06-3.webp",
+     "w": 1600,
+     "h": 1600
+    }
+   ],
+   "category": "molduras-decorativas",
+   "featured": false,
+   "cardImage": "/images/molduras-decorativas-de-poliestireno/post_ssm/post-molduras-e6.webp",
+   "hoverImage": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-5.webp"
+  },
+  {
+   "slug": "moldura-decorativa-e7",
+   "name": "Moldura Decorativa E7",
+   "shortDescription": "Moldura de XPS de 46 x 50 mm, de gran presencia, para un acabado sofisticado en la unión entre pared y techo. Ligera y fácil de instalar.",
+   "description": [
+    "La Moldura Decorativa E7 es el perfil de mayor sección de nuestra línea: aproximadamente 46 x 50 mm en 2 metros de longitud. Su presencia convierte la unión entre muros y techos en un elemento decorativo protagonista, a la vez que oculta las imperfecciones de la intersección.",
+    "Está fabricada en XPS (poliestireno extruido) con una densidad aproximada de 85 g/dm³. Gracias a su ligereza, la adhesión al techo es sencilla y la instalación resulta rápida. El material permite personalizarla con pinturas al agua (emulsiones, acrílicas o látex) para lograr el acabado deseado.",
+    "Se instala con adhesivo Titan Premium, aplicando dos líneas de pegamento sobre la parte posterior de la moldura directamente desde el cartucho. Las esquinas, internas o externas, se resuelven con cortes a 45° usando sierra de corte fino y caja de ingletes; las juntas y defectos se rellenan con el sellador Titan.",
+    "Producto de uso exclusivo en interiores: debe instalarse lejos de fuentes de calor y no es resistente a disolventes orgánicos como acetona, bencina o gasolina. Cuenta con 1 año de garantía."
+   ],
+   "specs": [
+    {
+     "label": "Dimensiones",
+     "value": "46 x 50 mm (aprox.)"
+    },
+    {
+     "label": "Longitud",
+     "value": "2 m"
+    },
+    {
+     "label": "Material",
+     "value": "XPS (poliestireno extruido)"
+    },
+    {
+     "label": "Densidad",
+     "value": "Aprox. 85 g/dm³"
+    },
+    {
+     "label": "Acabado",
+     "value": "Pintable con pinturas al agua (emulsiones, acrílicos, látex)"
+    },
+    {
+     "label": "Uso",
+     "value": "Exclusivo para interiores (techo - pared)"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año"
+    }
+   ],
+   "usos": [
+    "Terminación decorativa entre pared y techo",
+    "Ambientes amplios que requieren molduras de mayor presencia",
+    "Ocultar imperfecciones en la unión muro-techo",
+    "Decoración de salas, comedores y recepciones",
+    "Proyectos de remodelación de interiores"
+   ],
+   "ficha": "/fichas/ft_molduras_decorativas.pdf",
+   "images": [
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/moldura-e7.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Moldura decorativa E7 instalada en la unión entre pared y techo de un ambiente interior"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/post_ssm/post-molduras-e7.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Presentación de la moldura decorativa E7 de NEFUSAC"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-07/e-07.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Moldura decorativa E7 de poliestireno, vista del perfil"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-07/e-07-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-07/e-07-3.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/moldura-decorativa_e7.webp",
+     "w": 800,
+     "h": 600,
+     "alt": "Render del perfil de la moldura decorativa E7"
+    }
+   ],
+   "category": "molduras-decorativas",
+   "featured": false,
+   "cardImage": "/images/molduras-decorativas-de-poliestireno/moldura-e7.webp",
+   "hoverImage": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-6.webp"
+  },
+  {
+   "slug": "moldura-decorativa-e11",
+   "name": "Moldura Decorativa E11",
+   "shortDescription": "Moldura simétrica de 35 x 35 mm en XPS. Perfil equilibrado para enmarcar techos interiores con un acabado limpio y elegante.",
+   "description": [
+    "La Moldura Decorativa E11 presenta una sección simétrica de aproximadamente 35 x 35 mm en 2 metros de longitud. Su proporción equilibrada la hace muy versátil: enmarca la unión entre pared y techo con un resultado limpio y elegante, ocultando las imperfecciones de la intersección.",
+    "Fabricada en XPS (poliestireno extruido) con una densidad aproximada de 85 g/dm³, es un producto muy ligero que se adhiere al techo con facilidad. Su superficie admite pinturas al agua (emulsiones, acrílicas o látex), lo que permite personalizarla según la decoración de cada ambiente.",
+    "La instalación se realiza con adhesivo Titan Premium, aplicando dos líneas de pegamento en la parte posterior de la moldura directamente desde el cartucho. Para las esquinas se realizan cortes a 45° con sierra de corte fino y caja de ingletes, y las juntas se rellenan con el sellador Titan.",
+    "Es de uso exclusivo en interiores: debe instalarse lejos de fuentes de calor y no es resistente a disolventes orgánicos. Cuenta con 1 año de garantía."
+   ],
+   "specs": [
+    {
+     "label": "Dimensiones",
+     "value": "35 x 35 mm (aprox.)"
+    },
+    {
+     "label": "Longitud",
+     "value": "2 m"
+    },
+    {
+     "label": "Material",
+     "value": "XPS (poliestireno extruido)"
+    },
+    {
+     "label": "Densidad",
+     "value": "Aprox. 85 g/dm³"
+    },
+    {
+     "label": "Acabado",
+     "value": "Pintable con pinturas al agua (emulsiones, acrílicos, látex)"
+    },
+    {
+     "label": "Uso",
+     "value": "Exclusivo para interiores (techo - pared)"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año"
+    }
+   ],
+   "usos": [
+    "Terminación decorativa entre pared y techo",
+    "Ocultar imperfecciones en la unión muro-techo",
+    "Decoración de dormitorios, salas y pasillos",
+    "Proyectos de remodelación de interiores"
+   ],
+   "ficha": "/fichas/ft_molduras_decorativas.pdf",
+   "images": [
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/moldura-e11.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Moldura decorativa E11 instalada en la unión entre pared y techo de un ambiente interior"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/post_ssm/post-molduras-e11.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Presentación de la moldura decorativa E11 de NEFUSAC"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-11/e-11-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Moldura decorativa E11 de poliestireno, vista del perfil"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-11/e-11-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-11/e-11-3.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/moldura-decorativa_e11.webp",
+     "w": 800,
+     "h": 600,
+     "alt": "Render del perfil de la moldura decorativa E11"
+    }
+   ],
+   "category": "molduras-decorativas",
+   "featured": false,
+   "cardImage": "/images/molduras-decorativas-de-poliestireno/moldura-e11.webp",
+   "hoverImage": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-7.webp"
+  },
+  {
+   "slug": "moldura-decorativa-e40",
+   "name": "Moldura Decorativa E40",
+   "shortDescription": "Moldura de XPS de 45 x 45 mm con diseño clásico para coronar la unión muro-techo. Ligera, pintable y de rápida instalación.",
+   "description": [
+    "La Moldura Decorativa E40, de sección aproximada de 45 x 45 mm y 2 metros de longitud, aporta un diseño clásico y de buena presencia a la terminación entre las paredes y el techo, ocultando las imperfecciones de esa intersección y elevando el acabado de cualquier ambiente interior.",
+    "Está fabricada en XPS (poliestireno extruido) con una densidad aproximada de 85 g/dm³. Su ligereza facilita la adhesión al techo y agiliza la instalación, mientras que el material permite personalizarla con pinturas al agua (emulsiones, acrílicas o látex).",
+    "Para instalarla se utiliza adhesivo Titan Premium, aplicado en dos líneas sobre la parte posterior de la moldura directamente desde el cartucho. Las esquinas se resuelven con cortes a 45° usando sierra de corte fino y caja de ingletes; las juntas y pequeños defectos se rellenan con el sellador Titan.",
+    "Producto de uso exclusivo en interiores: debe instalarse lejos de fuentes de calor y no es resistente a disolventes orgánicos como acetona, bencina o gasolina. Cuenta con 1 año de garantía."
+   ],
+   "specs": [
+    {
+     "label": "Dimensiones",
+     "value": "45 x 45 mm (aprox.)"
+    },
+    {
+     "label": "Longitud",
+     "value": "2 m"
+    },
+    {
+     "label": "Material",
+     "value": "XPS (poliestireno extruido)"
+    },
+    {
+     "label": "Densidad",
+     "value": "Aprox. 85 g/dm³"
+    },
+    {
+     "label": "Acabado",
+     "value": "Pintable con pinturas al agua (emulsiones, acrílicos, látex)"
+    },
+    {
+     "label": "Uso",
+     "value": "Exclusivo para interiores (techo - pared)"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año"
+    }
+   ],
+   "usos": [
+    "Terminación decorativa entre pared y techo",
+    "Ocultar imperfecciones en la unión muro-techo",
+    "Decoración de salas, comedores y ambientes clásicos",
+    "Proyectos de remodelación de interiores"
+   ],
+   "ficha": "/fichas/ft_molduras_decorativas.pdf",
+   "images": [
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/post_ssm/post-molduras-e40.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Presentación de la moldura decorativa E40 de NEFUSAC"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-40/e-40-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Moldura decorativa E40 de poliestireno, vista del perfil"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-40/e-40-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-40/e-40-3.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/e-40/e-40-4.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/e40.webp",
+     "w": 1256,
+     "h": 944,
+     "alt": "Perfil de la moldura decorativa E40"
+    }
+   ],
+   "category": "molduras-decorativas",
+   "featured": false,
+   "cardImage": "/images/molduras-decorativas-de-poliestireno/post_ssm/post-molduras-e40.webp",
+   "hoverImage": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-8.webp"
+  },
+  {
+   "slug": "moldura-titan-premium",
+   "name": "Adhesivo Titan Premium",
+   "shortDescription": "Adhesivo recomendado para el montaje de molduras decorativas de poliestireno en techos y paredes interiores. Fijación firme desde el cartucho.",
+   "description": [
+    "Titan Premium es el adhesivo recomendado por NEFUSAC para la instalación de nuestras molduras decorativas de poliestireno. Forma parte del grupo de adhesivos TITAN, fabricados por MARBET, y está pensado para el montaje de molduras y escuadras decorativas en paredes y techos de interiores.",
+    "Su aplicación es muy sencilla: se coloca directamente desde el cartucho sobre la parte posterior de la moldura, recomendándose dos líneas de pegamento por pieza. Luego se posiciona la moldura sobre la superficie y se presiona ligeramente para asegurar la adherencia, sin ejercer demasiada fuerza para evitar daños mecánicos en el producto.",
+    "En las esquinas, internas o externas, se aplica adhesivo en las uniones de los cortes a 45° para lograr un buen ensamblaje y una fijación firme entre las piezas. Para rellenar las juntas y los defectos se recomienda complementar con el sellador Titan.",
+    "Antes de la instalación, la superficie debe estar uniforme, seca y libre de polvo y grasa; las pinturas viejas o descascaradas y el yeso agrietado deben eliminarse, y las superficies desgastadas o polvorientas deben tratarse con una imprimación."
+   ],
+   "specs": [
+    {
+     "label": "Presentación",
+     "value": "Cartucho"
+    },
+    {
+     "label": "Aplicación recomendada",
+     "value": "2 líneas de adhesivo por moldura"
+    },
+    {
+     "label": "Uso",
+     "value": "Montaje de molduras decorativas en interiores"
+    }
+   ],
+   "usos": [
+    "Montaje de molduras decorativas en techos y paredes",
+    "Ensamblaje de uniones y esquinas con cortes a 45°",
+    "Fijación de escuadras decorativas en interiores"
+   ],
+   "ficha": "/fichas/ft_molduras_decorativas.pdf",
+   "images": [
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/post_ssm/post-molduras-titan.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Presentación del adhesivo Titan Premium para molduras decorativas NEFUSAC"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/titan-premium/titam-premium.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Cartucho de adhesivo Titan Premium"
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/titan-premium/titam-premium-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/titan-premium/titam-premium-3.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/titan-premium/titam-premium-4.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/titan-premium/titam-premium-5.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/molduras-decorativas-de-poliestireno/fotos/titan-premium/titam-premium-png.webp",
+     "w": 1600,
+     "h": 1600
+    }
+   ],
+   "category": "molduras-decorativas",
+   "featured": false,
+   "cardImage": "/images/molduras-decorativas-de-poliestireno/post_ssm/post-molduras-titan.webp",
+   "hoverImage": "/images/molduras-decorativas-de-poliestireno/fotos-ambientadas/unspecified-9.webp"
+  },
+  {
+   "slug": "antideslizante-pvc",
+   "name": "Antideslizante para escalera",
+   "code": "100408",
+   "ficha": "/fichas/ft_antideslizante-adhesivo.pdf",
+   "aPedido": false,
+   "shortDescription": "Perfil de PVC flexible con ranuras longitudinales que previene resbalones en escaleras de alto tránsito. Disponible en 4 colores y 3 longitudes.",
+   "description": [
+    "El antideslizante para escalera de NEFUSAC se fabrica mediante el proceso de extrusión de PVC flexible con materia prima de la más alta calidad. Sus ranuras longitudinales en la superficie superior brindan un agarre seguro al caminar, previniendo los accidentes que pueden ocurrir al transitar una escalera; además, es resistente y adaptable a zonas de alto tránsito.",
+    "Se instala en peldaños de escaleras metálicas, de concreto, de madera o con revestimientos cerámicos. La instalación es sencilla: basta limpiar y demarcar el área, aplicar un pegamento adecuado para superficies de PVC, presionar el perfil para asegurar la fijación y retirar los excedentes de pegamento para un acabado limpio.",
+    "Con dureza de 80 Shore A (ASTM D2240) y resistencia a la propagación de llama, está diseñado para uso interior. Al no ser de superficie porosa evita la acumulación de bacterias y suciedad, por lo que su mantenimiento solo requiere agua, detergente de uso común y escobilla."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC flexible"
+    },
+    {
+     "label": "Ancho",
+     "value": "35 mm, 45 mm y 50 mm"
+    },
+    {
+     "label": "Alto",
+     "value": "18 mm y 33 mm (según ancho)"
+    },
+    {
+     "label": "Longitud",
+     "value": "1.0 m, 1.5 m y 2.4 m"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "80 Shore A"
+    },
+    {
+     "label": "Textura exterior",
+     "value": "Ranuras longitudinales"
+    },
+    {
+     "label": "Uso",
+     "value": "Interior"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Negro",
+    "Tabaco",
+    "Mármol"
+   ],
+   "usos": [
+    "Peldaños de escaleras metálicas",
+    "Escaleras de concreto o madera",
+    "Escaleras revestidas con cerámico",
+    "Zonas de alto tránsito en interiores"
+   ],
+   "images": [
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/foto-ambientada.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Antideslizante de PVC instalado en los peldaños de una escalera"
+    },
+    {
+     "src": "/images/antideslizantes/grupal-antideslizantes.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Familia de antideslizantes NEFUSAC en sus distintos colores y presentaciones"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/adhesivo-35mm-grupal-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Antideslizantes para escalera de 35 mm en varios colores"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/adhesivo-45mm-grupal-7.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Antideslizantes para escalera de 45 mm en varios colores"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/adhesivo-45mm-tabaco-y-gris.webp",
+     "w": 1000,
+     "h": 1000,
+     "alt": "Antideslizante de 45 mm en colores tabaco y gris"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/adhesivo-35mm-individual-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/antideslizante-adeshivo.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/antideslizantes-adhe-2.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/antideslizantes-adhe-3.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/antideslizantes-adhe-4.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/antideslizantes-adhe-5.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/antideslizantes-adhe-6.webp",
+     "w": 1600,
+     "h": 2400
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/antideslizante-adeshivo-taba-2.webp",
+     "w": 1600,
+     "h": 2400
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/antideslizante-adeshivo-tabaco-foto-1.webp",
+     "w": 640,
+     "h": 808
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/antideslizante-tabaco.webp",
+     "w": 1600,
+     "h": 2400
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-adhesivo/antideslizante-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil antideslizante para escalera"
+    }
+   ],
+   "category": "antideslizantes",
+   "featured": true,
+   "cardImage": "/images/antideslizantes/grupal-antideslizantes.webp",
+   "hoverImage": "/images/antideslizantes/antideslizante-adhesivo/foto-ambientada.webp"
+  },
+  {
+   "slug": "antideslizante-base-tapa",
+   "name": "Antideslizante base + tapa",
+   "code": "100434",
+   "ficha": "/fichas/ft_antideslizante-base-tapa.pdf",
+   "aPedido": false,
+   "shortDescription": "Sistema de base y tapa intercambiable para escaleras por revestir con cerámico o porcelanato. Cambie solo la tapa y ahorre en material e instalación.",
+   "description": [
+    "El antideslizante base + tapa se compone de dos perfiles: una Base que se integra a la escalera durante el revestimiento y una Tapa de PVC flexible con ranuras longitudinales que brinda la superficie antideslizante. Es la opción perfecta para quienes aún no han revestido su escalera y cuentan con una visión a largo plazo: una vez instalada la base, la tapa se puede cambiar con facilidad, lo que permite ahorrar en costos de material e instalación.",
+    "Se ofrece en dos versiones según el revestimiento. Para cerámico: base de aluminio anodizado o PVC rígido de 50 mm de ancho con tapa de 33 mm. Para porcelanato: base de PVC rígido de 48 mm de ancho con tapa de 32 mm. En ambos casos la tapa de PVC flexible está disponible en gris, negro, tabaco y mármol.",
+    "Diseñado para peldaños de escaleras de concreto por revestir con cerámicos o porcelanatos, es resistente y está adaptado a zonas de tráfico intenso. Cuenta con resistencia a la propagación de llama, es de uso interior y su limpieza solo requiere agua y detergentes de uso común. Incluye garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Base (para cerámico)",
+     "value": "Aluminio anodizado o PVC rígido · 50 mm x 8 mm"
+    },
+    {
+     "label": "Tapa (para cerámico)",
+     "value": "PVC flexible · 33 mm x 13 mm"
+    },
+    {
+     "label": "Base (para porcelanato)",
+     "value": "PVC rígido negro · 48 mm x 10 mm"
+    },
+    {
+     "label": "Tapa (para porcelanato)",
+     "value": "PVC flexible · 32 mm x 15 mm"
+    },
+    {
+     "label": "Longitud base",
+     "value": "2.4 m"
+    },
+    {
+     "label": "Longitud tapa",
+     "value": "2.4 m y rollo de 24 m"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "Base: 80 Shore D · Tapa: 60 Shore A"
+    },
+    {
+     "label": "Textura exterior",
+     "value": "Ranuras longitudinales"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Negro",
+    "Tabaco",
+    "Mármol"
+   ],
+   "usos": [
+    "Escaleras de concreto por revestir con cerámico",
+    "Escaleras por revestir con porcelanato",
+    "Zonas de tráfico intenso",
+    "Proyectos con mantenimiento a largo plazo"
+   ],
+   "images": [
+    {
+     "src": "/images/antideslizantes/antideslizante-base_tapa/foto-ambientada-b-t.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Antideslizante base + tapa instalado en escalera revestida con cerámico"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-base_tapa/base-tapa-grupal-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Grupo de antideslizantes base + tapa en varios colores"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-base_tapa/base-tapa-individual-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil antideslizante base + tapa"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-base_tapa/base-tapa-individual-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-base_tapa/rodopaso-base-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de la base del antideslizante"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-base_tapa/rodopaso-tapa-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de la tapa del antideslizante"
+    }
+   ],
+   "category": "antideslizantes",
+   "featured": false,
+   "cardImage": "/images/antideslizantes/antideslizante-base_tapa/base-tapa-grupal-1.webp",
+   "hoverImage": "/images/antideslizantes/antideslizante-base_tapa/foto-ambientada-b-t.webp"
+  },
+  {
+   "slug": "antideslizante-cinta",
+   "name": "Antideslizante cinta",
+   "code": "100425",
+   "ficha": "/fichas/ft_antideslizante-cinta.pdf",
+   "aPedido": false,
+   "shortDescription": "Cinta de PVC flexible adaptable a casi cualquier superficie: escaleras, rampas, duchas y piscinas. Seis colores, incluido verde fotoluminiscente.",
+   "description": [
+    "La cinta antideslizante NEFUSAC se fabrica mediante el proceso de extrusión de PVC flexible con la más alta calidad de materia prima. Sus ranuras longitudinales en la superficie superior previenen accidentes y la hacen resistente y adecuada para zonas de tráfico intenso.",
+    "Es adaptable a casi cualquier superficie: puede instalarse en escaleras o pasillos, en lugares expuestos al agua como piscinas, duchas o baños, y en corredores de alto tránsito como restaurantes o fábricas. Se aplica sobre peldaños de escaleras metálicas, de concreto, de madera o con revestimientos cerámicos.",
+    "La instalación es rápida: limpiar y demarcar el área, aplicar un pegamento adecuado para superficies de PVC, presionar para fijar el producto y limpiar los excedentes. Con espesor de 1.45 mm y dureza de 80 Shore A, cuenta con resistencia a la propagación de llama y su superficie no porosa evita la acumulación de bacterias y suciedad, facilitando la limpieza con agua y detergente de uso común."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC flexible"
+    },
+    {
+     "label": "Ancho",
+     "value": "45 mm y 50 mm (50 mm a pedido)"
+    },
+    {
+     "label": "Longitud",
+     "value": "4.0 m y 4.5 m"
+    },
+    {
+     "label": "Espesor",
+     "value": "1.45 mm"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "80 Shore A"
+    },
+    {
+     "label": "Textura exterior",
+     "value": "Ranuras longitudinales"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Negro",
+    "Tabaco",
+    "Mármol",
+    "Amarillo",
+    "Verde fotoluminiscente"
+   ],
+   "usos": [
+    "Duchas y baños",
+    "Rampas y piscinas",
+    "Peldaños de escaleras metálicas, de concreto o madera",
+    "Pasillos de alto tránsito en restaurantes y fábricas"
+   ],
+   "images": [
+    {
+     "src": "/images/antideslizantes/antideslizante-cinta/cinta-grupal-con-fondo.webp",
+     "w": 1600,
+     "h": 1246,
+     "alt": "Cintas antideslizantes NEFUSAC en varios colores"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-cinta/cinta-grupal-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Grupo de cintas antideslizantes de PVC flexible"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-cinta/cinta-grupal-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-cinta/antides-cinta-amarillo.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Cinta antideslizante en color amarillo"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-cinta/cinta-antideslizante-1mm-rollo-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del rollo de cinta antideslizante"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-cinta/cinta-antideslizante-3d.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/ia/amb-antideslizante-cinta.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Antideslizante cinta instalado"
+    }
+   ],
+   "category": "antideslizantes",
+   "featured": false,
+   "cardImage": "/images/antideslizantes/antideslizante-cinta/cinta-grupal-con-fondo.webp",
+   "hoverImage": "/images/ia/amb-antideslizante-cinta.webp"
+  },
+  {
+   "slug": "antideslizante-cinta-senalizadora",
+   "name": "Antideslizante cinta señalizadora",
+   "ficha": "/fichas/ft_antideslizante-cinta-senalizador.pdf",
+   "aPedido": false,
+   "shortDescription": "Rollo antideslizante de 20 m con franja señalizadora amarilla o verde fotoluminiscente para demarcar y proteger zonas de alto tránsito.",
+   "description": [
+    "El antideslizante cinta señalizador se fabrica mediante el proceso de extrusión de PVC flexible con la más alta calidad de materia prima, e incorpora franjas de color amarillo o verde adecuadas para señalización. Sus ranuras longitudinales en la superficie superior previenen accidentes y lo hacen resistente y adaptado para zonas de tráfico intenso.",
+    "La franja verde ofrece fotoluminiscencia con un tiempo de emisión de luz aproximado de 15 minutos, ideal para destacar escalones y rutas en ambientes con poca iluminación.",
+    "Puede instalarse en duchas, rampas, piscinas y peldaños de escaleras metálicas, de concreto, madera o con revestimientos cerámicos. Para su instalación se aplica el adhesivo solo en el sustrato —no en el producto—, esparciéndolo con espátula o rodillo para eliminar grumos, antes de presionar la cinta y limpiar los excedentes de pegamento.",
+    "Se presenta en rollos de 20 m, con 50 mm de ancho y franja señalizadora de 10 mm. Su superficie no porosa evita la acumulación de bacterias y suciedad, y se limpia con agua, detergente de uso común y escobilla."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC flexible"
+    },
+    {
+     "label": "Ancho",
+     "value": "50 mm"
+    },
+    {
+     "label": "Ancho del señalizador",
+     "value": "10 mm"
+    },
+    {
+     "label": "Presentación",
+     "value": "Rollos de 20 m"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "80 Shore A"
+    },
+    {
+     "label": "Textura exterior",
+     "value": "Ranuras longitudinales"
+    },
+    {
+     "label": "Fotoluminiscencia",
+     "value": "Emisión de luz aproximada de 15 minutos (franja verde)"
+    }
+   ],
+   "colors": [
+    "Amarillo/Negro",
+    "Verde/Negro"
+   ],
+   "usos": [
+    "Escaleras y rampas que requieren demarcación",
+    "Duchas y piscinas",
+    "Ambientes con poca iluminación (franja verde fotoluminiscente)",
+    "Pasillos industriales y comerciales de alto tránsito"
+   ],
+   "images": [
+    {
+     "src": "/images/antideslizantes/antideslizante-cinta-senalizadora/ambientada.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Cinta antideslizante con señalizador instalada en un ambiente real"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-cinta-senalizadora/rollos-cinta.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Rollos de cinta antideslizante señalizadora"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-cinta-senalizadora/cinta-antideslizante-50-rollo.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Rollo de cinta antideslizante de 50 mm"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-cinta-senalizadora/cinta-antideslizante-con-senalizador-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de la cinta antideslizante con señalizador"
+    }
+   ],
+   "category": "antideslizantes",
+   "featured": false,
+   "cardImage": "/images/antideslizantes/antideslizante-cinta-senalizadora/cinta-antideslizante-con-senalizador-3d.webp",
+   "hoverImage": "/images/antideslizantes/antideslizante-cinta-senalizadora/ambientada.webp"
+  },
+  {
+   "slug": "antideslizante-senalizador",
+   "name": "Antideslizante señalizador para escalera",
+   "code": "100410",
+   "ficha": "/fichas/ft_antideslizante-senalizador.pdf",
+   "aPedido": false,
+   "shortDescription": "Franjas amarillas o verdes fotoluminiscentes en paso y contrapaso que destacan cada peldaño y previenen accidentes de día y de noche.",
+   "description": [
+    "El antideslizante señalizador para escalera cuenta con franjas de color amarillo o verde en el paso y contrapaso que no solo evitan accidentes, sino que también destacan el comienzo de cada peldaño.",
+    "El color amarillo resulta ideal para espacios públicos o negocios que funcionan durante el día, mientras que el verde fotoluminiscente está especialmente diseñado para locales comerciales que operan durante la noche.",
+    "Fabricado en PVC flexible con dureza de 80 Shore A y ranuras longitudinales en la superficie, es resistente y está adaptado para zonas de tráfico intenso. Se instala en peldaños de escaleras metálicas, de concreto, madera o con revestimientos cerámicos, con fácil instalación e intercambio de producto.",
+    "Cuenta con resistencia a la propagación de llama y es de uso interior. Su superficie no porosa evita la acumulación de bacterias y suciedad: basta limpiarlo con agua, detergente de uso común y escobilla. Incluye garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC flexible"
+    },
+    {
+     "label": "Ancho de paso",
+     "value": "45 mm y 50 mm"
+    },
+    {
+     "label": "Ancho de contrapaso",
+     "value": "28 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "1.0 m, 1.5 m y 2.4 m"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "80 Shore A"
+    },
+    {
+     "label": "Textura exterior",
+     "value": "Ranuras longitudinales"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "colors": [
+    "Negro/Amarillo",
+    "Negro/Verde fotoluminiscente"
+   ],
+   "usos": [
+    "Escaleras de espacios públicos y negocios diurnos (amarillo)",
+    "Locales comerciales que operan de noche (verde fotoluminiscente)",
+    "Peldaños de escaleras metálicas, de concreto o madera",
+    "Zonas de alto tránsito"
+   ],
+   "images": [
+    {
+     "src": "/images/antideslizantes/antideslizante-senalizador/foto-ambientada.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Antideslizante señalizador instalado en los peldaños de una escalera"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-senalizador/luminosidad.webp",
+     "w": 1200,
+     "h": 1600,
+     "alt": "Franja verde fotoluminiscente del antideslizante señalizador brillando en la oscuridad"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-senalizador/antideslizante-amarillo-y-verde.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Antideslizantes señalizadores en amarillo y verde"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-senalizador/antideslizante-adeshivo-amraillo-y-verde-nuevo-png.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-senalizador/nuevo-anti-verde.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-senalizador/antideslizante-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del antideslizante señalizador"
+    }
+   ],
+   "category": "antideslizantes",
+   "featured": false,
+   "cardImage": "/images/antideslizantes/antideslizante-senalizador/antideslizante-3d.webp",
+   "hoverImage": "/images/antideslizantes/antideslizante-senalizador/foto-ambientada.webp"
+  },
+  {
+   "slug": "antideslizante-paso-completo",
+   "name": "Antideslizante paso completo",
+   "code": "Plataforma: 101826 / Borde: 101887",
+   "ficha": "/fichas/ft_antideslizante-paso_completo.pdf",
+   "aPedido": true,
+   "shortDescription": "Plataforma en rollo más borde de escalera para revestir por completo pasos y descansos. Disponible con borde señalizador fotoluminiscente.",
+   "description": [
+    "El antideslizante paso completo está compuesto por dos productos: el borde de escalera y la plataforma. La unión de ambos garantiza el revestimiento completo de la escalera, incluso en descansos o superficies de áreas mayores, gracias a un diseño que permite crear empalmes limpios.",
+    "Por su versatilidad se puede instalar tanto en interiores como en exteriores, así como en áreas iluminadas o con poca iluminación empleando el borde de escalera con señalizador verde fotoluminiscente.",
+    "Ambos componentes se fabrican en PVC flexible con ranuras longitudinales en la superficie: la plataforma (82 Shore A) se presenta en rollo de 20 m con 25 cm de ancho, y el borde de escalera (80 Shore A) en tiras de 1.0 m y 1.5 m con 50 mm de ancho.",
+    "La instalación se realiza con pegamento para superficies de PVC: primero la plataforma y luego el borde de escalera, ejerciendo presión para fijar el producto y limpiando los excedentes al final. Es un producto a pedido; consulte colores y cantidades con nuestro equipo comercial."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC flexible"
+    },
+    {
+     "label": "Plataforma",
+     "value": "Ancho 25 cm · Rollo de 20 m · 82 Shore A"
+    },
+    {
+     "label": "Borde de escalera",
+     "value": "Ancho 50 mm · Longitud 1.0 m y 1.5 m · 80 Shore A"
+    },
+    {
+     "label": "Colores plataforma",
+     "value": "Gris, Negro y Tabaco"
+    },
+    {
+     "label": "Colores borde",
+     "value": "Negro, Tabaco y Amarillo"
+    },
+    {
+     "label": "Borde con señalizador",
+     "value": "Negro/Amarillo y Negro/Verde fotoluminiscente"
+    },
+    {
+     "label": "Textura exterior",
+     "value": "Ranuras longitudinales"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Negro",
+    "Tabaco",
+    "Amarillo"
+   ],
+   "usos": [
+    "Revestimiento completo de escaleras",
+    "Descansos y superficies de áreas mayores",
+    "Interiores y exteriores",
+    "Áreas con poca iluminación (borde fotoluminiscente)"
+   ],
+   "images": [
+    {
+     "src": "/images/antideslizantes/antideslizante-paso_completo/foto-ambientada-paso-completo.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Antideslizante paso completo instalado en escalera: plataforma y borde"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-paso_completo/paso-completo-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Detalle del antideslizante paso completo"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-paso_completo/paso-completo-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-paso_completo/paso-completo-3.webp",
+     "w": 1600,
+     "h": 1066
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-paso_completo/borde-de-escalera-plataforma-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de la plataforma y el borde de escalera"
+    },
+    {
+     "src": "/images/antideslizantes/antideslizante-paso_completo/borde-de-escalera-plataforma-3d-borde.webp",
+     "w": 1600,
+     "h": 1600
+    }
+   ],
+   "category": "antideslizantes",
+   "featured": false,
+   "cardImage": "/images/antideslizantes/antideslizante-paso_completo/paso-completo-3.webp",
+   "hoverImage": "/images/antideslizantes/antideslizante-paso_completo/foto-ambientada-paso-completo.webp"
+  },
+  {
+   "slug": "cantonera-de-aluminio",
+   "name": "Cantonera de aluminio con anclaje",
+   "ficha": "/fichas/ft_cantonera_con-anclaje.pdf",
+   "aPedido": false,
+   "shortDescription": "Cantonera de aluminio anodizado con sistema de anclaje que se integra al revestimiento y protege el borde del peldaño con superficie ranurada.",
+   "description": [
+    "La cantonera de aluminio con anclaje está diseñada para integrarse al revestimiento durante la instalación, brindando una fijación más firme y un acabado profesional de larga duración. Su superficie ranurada aporta mayor seguridad al tránsito peatonal, funcionando como antideslizante en el borde del peldaño.",
+    "Fabricada en aluminio con acabado anodizado mate, ofrece resistencia estructural y durabilidad, con protección adicional contra la corrosión y un acabado estético que se conserva en el tiempo.",
+    "Su sistema de anclaje garantiza una instalación segura y permanente, y su integración al revestimiento logra un acabado uniforme y de alta calidad. Protege los bordes de escaleras contra impactos, desgaste y tránsito continuo.",
+    "Recomendada para escaleras y gradas en proceso de revestimiento con mayólicas o porcelanatos, en zonas de tránsito peatonal frecuente donde se busca proteger el borde del peldaño y conservar un acabado limpio. Incluye garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Aluminio"
+    },
+    {
+     "label": "Acabado",
+     "value": "Mate (anodizado)"
+    },
+    {
+     "label": "Longitud",
+     "value": "3 m"
+    },
+    {
+     "label": "Ancho",
+     "value": "46.8 mm"
+    },
+    {
+     "label": "Altura",
+     "value": "24 mm"
+    },
+    {
+     "label": "Espesor",
+     "value": "2 mm"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "colors": [
+    "Gris"
+   ],
+   "usos": [
+    "Peldaños de escaleras y gradas por revestir",
+    "Ingresos y zonas de tránsito peatonal frecuente",
+    "Protección del borde del peldaño en mayólicas o porcelanatos"
+   ],
+   "images": [
+    {
+     "src": "/images/cantonera-de-aluminio-con-anclaje/escalera-con-cantonera.webp",
+     "w": 1536,
+     "h": 2736,
+     "alt": "Escalera revestida con cantoneras de aluminio con anclaje"
+    },
+    {
+     "src": "/images/cantonera-de-aluminio-con-anclaje/cantonera-de-aluminio-con-anclaje_01.webp",
+     "w": 1600,
+     "h": 1200,
+     "alt": "Cantonera de aluminio con anclaje instalada en el borde del peldaño"
+    },
+    {
+     "src": "/images/cantonera-de-aluminio-con-anclaje/cantonera-de-aluminio-con-anclaje_02.webp",
+     "w": 1600,
+     "h": 1200
+    },
+    {
+     "src": "/images/cantonera-de-aluminio-con-anclaje/cantonera-de-aluminio-con-anclaje_03.webp",
+     "w": 1600,
+     "h": 1574
+    },
+    {
+     "src": "/images/cantonera-de-aluminio-con-anclaje/cantonera-de-aluminio-con-anclaje_04.webp",
+     "w": 1600,
+     "h": 1543
+    },
+    {
+     "src": "/images/cantonera-de-aluminio-con-anclaje/catonera-de-aluminio-con-anclaje_detalle.webp",
+     "w": 1600,
+     "h": 2133,
+     "alt": "Detalle de la superficie ranurada de la cantonera de aluminio"
+    },
+    {
+     "src": "/images/cantonera-de-aluminio-con-anclaje/cantonera-de-aluminio-con-anclaje-1.webp",
+     "w": 1600,
+     "h": 2134
+    },
+    {
+     "src": "/images/cantonera-de-aluminio-con-anclaje/cantonera-de-alu-con-anclaje.webp",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "src": "/images/cantonera-de-aluminio-con-anclaje/cantonera-de-aluminio-con-anclaje.webp",
+     "w": 1600,
+     "h": 873
+    }
+   ],
+   "category": "antideslizantes",
+   "featured": false,
+   "cardImage": "/images/cantonera-de-aluminio-con-anclaje/cantonera-de-aluminio-con-anclaje_01.webp",
+   "hoverImage": "/images/cantonera-de-aluminio-con-anclaje/escalera-con-cantonera.webp"
+  },
+  {
+   "slug": "crucetas-para-ceramicos-y-o-porcelanatos",
+   "name": "Crucetas para cerámicos y/o porcelanatos",
+   "code": "101656",
+   "ficha": "/fichas/ft_crucetas_ceramicos_porcelanatos.pdf",
+   "shortDescription": "Crucetas de polietileno de alta densidad para juntas uniformes en cerámicos y porcelanatos. Reutilizables, con pestaña de extracción y medidas de 1 a 10 mm.",
+   "description": [
+    "Nuestras crucetas para cerámicos y/o porcelanatos están fabricadas a base de polietileno de alta densidad, lo que garantiza alta durabilidad y resistencia a la humedad. Además, cuentan con una pestaña superior que facilita la extracción, permitiendo el reiterado uso del producto a lo largo de varios proyectos.",
+    "Se emplean en la instalación de revestimientos cerámicos y porcelanatos, tanto en paredes como en pisos, para proyectos interiores o exteriores. Gracias a ellas, la colocación de los revestimientos se realiza en menor tiempo y con separación constante, asegurando la alineación durante todo el proyecto.",
+    "Su instalación es muy sencilla: la cruceta se va colocando en las esquinas del revestimiento a medida que avanza la instalación. Luego del fraguado y secado del pegamento, el producto se puede retirar para su posterior reutilización o, si se prefiere, se pueden rellenar los espacios vacíos. Está disponible en medidas de 1 mm a 10 mm; la medida de 1 mm cumple además una función de nivelación."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Polietileno de alta densidad (PEAD)"
+    },
+    {
+     "label": "Medidas",
+     "value": "1 mm, 2 mm, 3 mm, 5 mm, 7 mm y 10 mm"
+    },
+    {
+     "label": "Presentación",
+     "value": "Bolsas de 50 a 1000 unidades, según medida (las bolsas de 1000 están conformadas por bolsas de 50 unidades)"
+    },
+    {
+     "label": "Característica",
+     "value": "Pestaña superior de sujeción para extracción y reúso"
+    }
+   ],
+   "colors": [
+    "Blanco"
+   ],
+   "usos": [
+    "Instalación de pisos de cerámico y porcelanato",
+    "Revestimiento de paredes interiores y exteriores",
+    "Juntas con separación constante en todo el proyecto",
+    "Alineación de revestimientos en obra nueva o remodelación"
+   ],
+   "aPedido": false,
+   "images": [
+    {
+     "src": "/images/crucetas/crucetas_ceramicos_procelanatos/foto-ambientada.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Crucetas instaladas en las juntas de un piso de porcelanato durante su colocación"
+    },
+    {
+     "src": "/images/crucetas/crucetas_ceramicos_procelanatos/rodotop-forma-1-grupal-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Grupo de crucetas para cerámicos y porcelanatos NEFUSAC en distintas medidas"
+    },
+    {
+     "src": "/images/crucetas/foto-crucetas-linea-de-producto.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Línea de crucetas NEFUSAC para instalación de revestimientos"
+    },
+    {
+     "src": "/images/crucetas/crucetas_ceramicos_procelanatos/cruceta-1mm-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta de 1 mm con pestaña de sujeción"
+    },
+    {
+     "src": "/images/crucetas/crucetas_ceramicos_procelanatos/cruceta-2mm-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta de 2 mm"
+    },
+    {
+     "src": "/images/crucetas/crucetas_ceramicos_procelanatos/cruceta-3mm-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta de 3 mm"
+    },
+    {
+     "src": "/images/crucetas/crucetas_ceramicos_procelanatos/cruceta-5mm-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta de 5 mm"
+    },
+    {
+     "src": "/images/crucetas/crucetas_ceramicos_procelanatos/cruceta-7mm-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta de 7 mm"
+    },
+    {
+     "src": "/images/crucetas/crucetas_ceramicos_procelanatos/cruceta-10mm-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta de 10 mm"
+    }
+   ],
+   "category": "crucetas-y-niveladores",
+   "featured": false,
+   "cardImage": "/images/crucetas/crucetas_ceramicos_procelanatos/rodotop-forma-1-grupal-1.webp",
+   "hoverImage": "/images/crucetas/crucetas_ceramicos_procelanatos/foto-ambientada.webp"
+  },
+  {
+   "slug": "crucetas-para-separador-de-vidrio",
+   "name": "Crucetas para bloque de vidrio",
+   "ficha": "/fichas/ft_crucetas_separado_vidrio.pdf",
+   "shortDescription": "Crucetas tipo T, cruz y cangrejera para muros de bloques de vidrio. Reutilizables, garantizan separación constante y una instalación precisa y alineada.",
+   "description": [
+    "Las crucetas para bloques de vidrio son esenciales en la construcción de mampostería de gran formato. Fabricadas a base de polietileno de alta densidad, garantizan alta durabilidad y resistencia a la humedad, y cuentan con una pestaña superior para su extracción, lo que permite reutilizarlas en múltiples proyectos.",
+    "Están disponibles en tres tipos según la unión que se requiera: tipo T para uniones de 2 esquinas, tipo cruz para uniones de 4 esquinas y tipo cangrejera para aplicación general, todas con un ancho de 10 mm. Su diseño ergonómico, funcional y tecnológico permite un manejo sencillo y seguro durante el proceso de instalación, cumpliendo con los estándares más exigentes de la industria.",
+    "La instalación es rápida: se colocan las crucetas asentándolas en la mezcla o fragua junto a los bordes, donde encajan perfectamente en los espacios entre bloques. Luego se aplica la fragua entre los espacios y, una vez culminado y seco el fraguado, se pueden retirar las crucetas. El resultado es una colocación en menor tiempo, con separación constante y alineación asegurada durante todo el proyecto."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Polietileno de alta densidad (PEAD)"
+    },
+    {
+     "label": "Tipo T",
+     "value": "10 mm, uniones de 2 esquinas — bolsa de 30 unidades"
+    },
+    {
+     "label": "Tipo Cruz",
+     "value": "10 mm, uniones de 4 esquinas — bolsa de 30 unidades"
+    },
+    {
+     "label": "Tipo Cangrejera",
+     "value": "10 mm, aplicación general — presentación de 12 unidades"
+    }
+   ],
+   "colors": [
+    "Blanco"
+   ],
+   "usos": [
+    "Muros y divisiones con bloques de vidrio",
+    "Mampostería de gran formato",
+    "Separación uniforme entre bloques durante el fraguado",
+    "Proyectos que exigen instalación precisa y alineada"
+   ],
+   "aPedido": false,
+   "images": [
+    {
+     "src": "/images/crucetas/crucetas_separado_vidrio/block-de-vidrio-muro.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Muro de bloques de vidrio instalado con crucetas separadoras"
+    },
+    {
+     "src": "/images/crucetas/crucetas_separado_vidrio/crucetas-separador-de-vidrio-grupal.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Crucetas para bloque de vidrio tipo T, cruz y cangrejera en color blanco"
+    },
+    {
+     "src": "/images/crucetas/crucetas_separado_vidrio/separador-de-vidrio-grupal-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Juego de crucetas separadoras para bloques de vidrio"
+    },
+    {
+     "src": "/images/crucetas/crucetas_separado_vidrio/cangrejera-individual-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Cruceta tipo cangrejera para bloque de vidrio"
+    },
+    {
+     "src": "/images/crucetas/crucetas_separado_vidrio/cangrejera-individual-5.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Detalle de cruceta tipo cangrejera"
+    },
+    {
+     "src": "/images/crucetas/crucetas_separado_vidrio/cangrejera-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta tipo cangrejera"
+    },
+    {
+     "src": "/images/crucetas/crucetas_separado_vidrio/cangrejera-3d-2.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta tipo cangrejera, vista alternativa"
+    },
+    {
+     "src": "/images/crucetas/crucetas_separado_vidrio/vitro-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta tipo cruz para bloque de vidrio"
+    },
+    {
+     "src": "/images/crucetas/crucetas_separado_vidrio/vitro-3d-2.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta para bloque de vidrio, vista alternativa"
+    },
+    {
+     "src": "/images/crucetas/crucetas_separado_vidrio/vitro-t-3d-2.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de cruceta tipo T para bloque de vidrio"
+    },
+    {
+     "src": "/images/ia/amb-bloques-vidrio.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Crucetas para bloque de vidrio instalado"
+    }
+   ],
+   "category": "crucetas-y-niveladores",
+   "featured": false,
+   "cardImage": "/images/crucetas/crucetas_separado_vidrio/crucetas-separador-de-vidrio-grupal.webp",
+   "hoverImage": "/images/ia/amb-bloques-vidrio.webp"
+  },
+  {
+   "slug": "nivelador-cuna-clip",
+   "name": "Sistema de nivelación: cuña, clip y alicate",
+   "ficha": "/fichas/ft_nivelador_cuna_clip_alicate_.pdf",
+   "shortDescription": "Sistema profesional de nivelación con clip, cuña y alicate para lograr una terminación pareja en porcelanato, de manera rápida y sencilla.",
+   "description": [
+    "El sistema de nivelación NEFUSAC está conformado por productos diseñados para que, en conjunto, brinden una terminación pareja en la instalación de porcelanatos, manteniendo el nivel en toda la superficie de manera rápida y sencilla. El nivelador clip, el nivelador cuña y el alicate de nivelación se adquieren por separado, para que arme el sistema según su necesidad.",
+    "El nivelador clip cuenta con anclas de 1 mm, 2 mm y 3 mm que sirven para nivelar pisos y paredes de manera rápida, reduciendo los costos de instalación. Su base plana optimiza la cobertura del adhesivo y garantiza una superficie sin bordes desiguales, mientras que el diseño dentado del ancla facilita una distribución uniforme del pegamento, eliminando posibles vacíos. Las cuñas, reutilizables y altamente visibles en el área de trabajo, se insertan en las anclas para nivelar las losetas durante la instalación.",
+    "El alicate de nivelación, fabricado en fierro galvanizado y polipropileno, proporciona la fuerza óptima para insertar las cuñas en las anclas, facilitando y acelerando el trabajo. Su mango ergonómico con resorte de retorno permite colocar anclas y cuñas con precisión, garantizando una instalación perfectamente alineada, nivelada y espaciada sin esfuerzo.",
+    "Como complemento del sistema, NEFUSAC ofrece el martillo de goma de 16 oz para la instalación de pisos de porcelanato y/o cerámicos, con cabeza de goma de calidad que no provoca daños y mango recubierto para un mejor agarre. Todo el sistema es de uso profesional y cuenta con 1 año de garantía. Como referencia de rendimiento, un formato de 60 × 60 cm requiere aproximadamente 11 piezas por m²."
+   ],
+   "specs": [
+    {
+     "label": "Nivelador clip",
+     "value": "Ancla de 1 mm, 2 mm y 3 mm — bolsa de 100 unidades (no reutilizable)"
+    },
+    {
+     "label": "Nivelador cuña",
+     "value": "Bolsa de 100 unidades (reutilizable)"
+    },
+    {
+     "label": "Alicate de nivelación",
+     "value": "Se adquiere por unidad (reutilizable)"
+    },
+    {
+     "label": "Material (clip y cuña)",
+     "value": "Polipropileno (PP)"
+    },
+    {
+     "label": "Material (alicate)",
+     "value": "Fierro galvanizado / PP"
+    },
+    {
+     "label": "Dimensiones de la cuña",
+     "value": "Largo 9 cm, ancho 2.1 cm, altura 1.6 cm"
+    },
+    {
+     "label": "Dimensiones del clip",
+     "value": "Altura 3.88 cm, ancho 3.48 cm"
+    },
+    {
+     "label": "Dimensiones del alicate",
+     "value": "Largo 24 cm, ancho 4.7 cm, altura 12.5 cm"
+    },
+    {
+     "label": "Martillo de goma (complemento)",
+     "value": "16 oz, cabeza de goma, largo 32 cm"
+    },
+    {
+     "label": "Tipo de uso",
+     "value": "Profesional"
+    },
+    {
+     "label": "Rendimiento referencial",
+     "value": "11 piezas por m² en formato 60 × 60 cm"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año"
+    }
+   ],
+   "usos": [
+    "Nivelación de pisos de porcelanato",
+    "Nivelación de revestimientos en paredes",
+    "Instalación de losetas de gran formato",
+    "Obras profesionales que exigen una terminación pareja"
+   ],
+   "aPedido": false,
+   "images": [
+    {
+     "src": "/images/niveladores/nivelador-cuna_clip/nivelador-completo.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Sistema de nivelación con clip y cuña ensamblados para porcelanato"
+    },
+    {
+     "src": "/images/niveladores/nivelador-cuna_clip/niveladores-rojo.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Cuñas y clips del sistema de nivelación NEFUSAC"
+    },
+    {
+     "src": "/images/niveladores/nivelador-cuna_clip/base-nivelador-transparente.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Base del nivelador clip con diseño de base plana"
+    },
+    {
+     "src": "/images/niveladores/martillo_alicate/llave-para-nivelador-1.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Herramienta del sistema de nivelación de porcelanato"
+    },
+    {
+     "src": "/images/niveladores/martillo_alicate/llave-para-nivelador-2.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/niveladores/martillo_alicate/llave-para-nivelador-3.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/niveladores/martillo_alicate/martillo-de-goma-1.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Martillo de goma de 16 oz para instalación de porcelanato"
+    },
+    {
+     "src": "/images/niveladores/martillo_alicate/martillo-de-goma-2.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/niveladores/martillo_alicate/martillo-de-goma-3.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/ia/amb-nivelador-cuna-clip.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Sistema de nivelación: cuña, clip y alicate instalado"
+    }
+   ],
+   "category": "crucetas-y-niveladores",
+   "featured": false,
+   "cardImage": "/images/niveladores/nivelador-cuna_clip/nivelador-completo.webp",
+   "hoverImage": "/images/ia/amb-nivelador-cuna-clip.webp"
+  },
+  {
+   "slug": "nivelador-espiral",
+   "name": "Nivelador espiral",
+   "ficha": "/fichas/ft_nivelador_espiral.pdf",
+   "shortDescription": "Nivelador espiral reutilizable en PP y acero. Bolsa de 50 unidades con llave incluida para lograr pisos de porcelanato perfectamente nivelados.",
+   "description": [
+    "El nivelador espiral forma parte del sistema de nivelación NEFUSAC: productos diseñados para que, en conjunto, brinden una terminación pareja en la instalación de los porcelanatos, manteniendo el nivel en toda la superficie de manera rápida y sencilla.",
+    "Fabricado en polipropileno y acero, es un producto reutilizable que le permite aprovechar la misma pieza en múltiples instalaciones, optimizando su inversión en cada proyecto. La diferencia entre el antes y el después de su uso se nota en una superficie uniforme, sin resaltes entre piezas.",
+    "Se presenta en bolsa de 50 unidades que incluye 1 llave para espiral, todo lo necesario para trabajar el sistema desde el primer momento. Cuenta con 1 año de garantía y con el respaldo de los procesos certificados de NEFUSAC."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PP + Acero"
+    },
+    {
+     "label": "Presentación",
+     "value": "Bolsa de 50 unidades + 1 llave para espiral"
+    },
+    {
+     "label": "Propiedad",
+     "value": "Reutilizable"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año"
+    }
+   ],
+   "usos": [
+    "Nivelación de pisos de porcelanato",
+    "Instalación de revestimientos con terminación pareja",
+    "Proyectos que requieren mantener el nivel en toda la superficie"
+   ],
+   "aPedido": false,
+   "images": [
+    {
+     "src": "/images/niveladores/niveladores-espiral/nivelador-espiral-usandolo.webp",
+     "w": 800,
+     "h": 800,
+     "alt": "Nivelador espiral en uso durante la instalación de porcelanato"
+    },
+    {
+     "src": "/images/niveladores/niveladores-espiral/nivelador-compelto-2.0.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Kit de nivelador espiral NEFUSAC con llave para espiral"
+    },
+    {
+     "src": "/images/niveladores/niveladores-espiral/nivelador-compelto-2.1.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Nivelador espiral completo, vista alternativa"
+    },
+    {
+     "src": "/images/niveladores/niveladores-espiral/nivelador-espiral.webp",
+     "w": 800,
+     "h": 800,
+     "alt": "Nivelador espiral individual"
+    },
+    {
+     "src": "/images/niveladores/niveladores-espiral/nivelador-2.webp",
+     "w": 564,
+     "h": 564,
+     "alt": "Detalle del nivelador espiral"
+    },
+    {
+     "src": "/images/ia/amb-nivelador-espiral.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Nivelador espiral instalado"
+    }
+   ],
+   "category": "crucetas-y-niveladores",
+   "featured": false,
+   "cardImage": "/images/niveladores/niveladores-espiral/nivelador-espiral-usandolo.webp",
+   "hoverImage": "/images/ia/amb-nivelador-espiral.webp"
+  },
+  {
+   "slug": "nivelador-porcelanato-ceramica",
+   "name": "Nivelador de porcelanato y cerámica",
+   "ficha": "/fichas/ft_nivelador_porcelanato_ceramica.pdf",
+   "shortDescription": "Espaciador autonivelante de 1.4 mm para revestimientos de 8 a 12 mm. Nivelación horizontal y vertical de porcelanato y cerámica en pisos y paredes.",
+   "description": [
+    "El nivelador de porcelanato y cerámica se utiliza para la nivelación horizontal y vertical en la instalación de revestimientos cerámicos y porcelanatos en pisos o paredes. Permite que la colocación de los revestimientos se realice en menor tiempo, asegurando la alineación durante todo el proyecto, tanto en interiores como en exteriores.",
+    "Se trata de un espaciador autonivelante de 1.4 mm de espesor, apto para la nivelación de revestimientos de 8.0 mm a 12.0 mm de espesor. Está disponible en dos versiones de material: en polipropileno (PP), reutilizable y durable, y en polietileno de alta densidad (PEAD), de fácil extracción, en colores verde y blanco.",
+    "Su instalación es sencilla: se coloca el espaciador autonivelante por debajo de los lados del revestimiento y se continúa con la colocación de la siguiente pieza. A continuación, se inserta la cuña niveladora ajustándola al espesor hasta que los revestimientos queden nivelados. Tras el secado del pegamento, se retira la parte sobrante visible del espaciador con un ligero golpe lateral, obteniendo una superficie pareja y alineada."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Polipropileno (PP) o polietileno de alta densidad (PEAD)"
+    },
+    {
+     "label": "Espesor del espaciador",
+     "value": "1.4 mm"
+    },
+    {
+     "label": "Revestimiento compatible",
+     "value": "De 8.0 mm a 12.0 mm de espesor"
+    },
+    {
+     "label": "Nivelación",
+     "value": "Horizontal y vertical"
+    },
+    {
+     "label": "Propiedades",
+     "value": "Versión PP: reutilizable y durable; versión PEAD: de fácil extracción"
+    }
+   ],
+   "colors": [
+    "Verde",
+    "Blanco"
+   ],
+   "usos": [
+    "Nivelación horizontal de pisos de porcelanato y cerámica",
+    "Nivelación vertical de revestimientos en paredes",
+    "Proyectos interiores y exteriores",
+    "Instalación con cuña niveladora para superficies parejas"
+   ],
+   "aPedido": false,
+   "images": [
+    {
+     "src": "/images/crucetas/nivelador_porcelanato_ceramica/nivelador-de-porcelanato-y-ceramicas.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Niveladores de porcelanato y cerámica NEFUSAC"
+    },
+    {
+     "src": "/images/crucetas/nivelador_porcelanato_ceramica/niveladora.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Espaciador autonivelante para porcelanato y cerámica"
+    },
+    {
+     "src": "/images/crucetas/nivelador_porcelanato_ceramica/cuna-niveladora.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Cuña niveladora del sistema de nivelación"
+    },
+    {
+     "src": "/images/crucetas/nivelador_porcelanato_ceramica/nivelador-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del nivelador de porcelanato"
+    },
+    {
+     "src": "/images/ia/amb-piso-nivelado.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Nivelador de porcelanato y cerámica instalado"
+    }
+   ],
+   "category": "crucetas-y-niveladores",
+   "featured": false,
+   "cardImage": "/images/crucetas/nivelador_porcelanato_ceramica/nivelador-3d.webp",
+   "hoverImage": "/images/ia/amb-piso-nivelado.webp"
+  },
+  {
+   "slug": "juntas-para-pisos-iguales",
+   "name": "Junta de transición para pisos iguales",
+   "code": "100452",
+   "shortDescription": "Base y tapa de PVC que unen pisos del mismo nivel creando una transición segura y resistente, ideal para zonas de tráfico intenso.",
+   "description": [
+    "La junta de transición para pisos iguales está compuesta por dos perfiles: una Base (A) y una Tapa (B), cuyo diseño permite unir pisos de similar altura o nivel creando transiciones que previenen accidentes. Gracias a su construcción, es resistente y está adaptada para zonas de tráfico intenso.",
+    "La base está fabricada en PVC rígido con dureza 80 Shore D, mientras que la tapa es de PVC flexible con dureza 80 Shore A y textura exterior lisa. El perfil cuenta con resistencia a la propagación de llama y está diseñado para uso interior.",
+    "Su instalación es sencilla: se limpia y demarca el área, se fija la base con un pegamento adecuado para superficies de PVC, se coloca el piso y finalmente se instala la tapa mediante el engrape de la pestaña incluida en el perfil. Este sistema permite además el intercambio fácil de la tapa, brindando mayor practicidad en el mantenimiento.",
+    "Al no tener superficie porosa, evita la acumulación de bacterias y suciedad; su limpieza solo requiere agua y detergentes de uso común."
+   ],
+   "specs": [
+    {
+     "label": "Componentes",
+     "value": "Base (A) y Tapa (B)"
+    },
+    {
+     "label": "Ancho",
+     "value": "35 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "1 m, 3 m y 3.7 m"
+    },
+    {
+     "label": "Material (base)",
+     "value": "PVC rígido, dureza 80 Shore D"
+    },
+    {
+     "label": "Material (tapa)",
+     "value": "PVC flexible, dureza 80 Shore A"
+    },
+    {
+     "label": "Textura exterior",
+     "value": "Lisa"
+    },
+    {
+     "label": "Uso",
+     "value": "Interiores"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Negro",
+    "Tabaco"
+   ],
+   "ficha": "/fichas/ft_junta_transicion_p-iguales.pdf",
+   "usos": [
+    "Unión de pisos del mismo nivel o de altura similar",
+    "Transiciones seguras entre ambientes",
+    "Zonas de tráfico intenso",
+    "Pisos interiores"
+   ],
+   "images": [
+    {
+     "src": "/images/juntas/junta_transicion_p-iguales/foto-ambientada.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Junta de transición para pisos iguales instalada uniendo dos pisos del mismo nivel"
+    },
+    {
+     "src": "/images/juntas/junta_transicion_p-iguales/junta-para-pisos-iguales-grupal.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Juntas de transición para pisos iguales en los colores disponibles"
+    },
+    {
+     "src": "/images/juntas/junta_transicion_p-iguales/junta-para-pisos-iguales-individual-6.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil individual de junta de transición para pisos iguales"
+    },
+    {
+     "src": "/images/juntas/junta_transicion_p-iguales/base-de-junta-de-igual-altura.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Base de la junta de transición para pisos de igual altura"
+    },
+    {
+     "src": "/images/juntas/junta_transicion_p-iguales/tapa-de-junta-de-igual-altura-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de la tapa de la junta de transición para pisos iguales"
+    }
+   ],
+   "category": "juntas",
+   "featured": false,
+   "cardImage": "/images/juntas/junta_transicion_p-iguales/junta-para-pisos-iguales-grupal.webp",
+   "hoverImage": "/images/juntas/junta_transicion_p-iguales/foto-ambientada.webp"
+  },
+  {
+   "slug": "juntas-para-pisos-de-distinto-nivel",
+   "name": "Junta de transición para pisos a desnivel",
+   "code": "100450",
+   "shortDescription": "Perfil de PVC flexible que une pisos de diferente altura creando transiciones seguras que previenen accidentes en zonas de alto tránsito.",
+   "description": [
+    "La junta de transición para pisos a desnivel es un perfil cuyo diseño permite unir pisos de diferente altura o nivel, creando transiciones seguras que previenen accidentes. Además, gracias a su diseño, es resistente y está adaptada para zonas de tráfico intenso.",
+    "Está fabricada en PVC flexible con dureza 80 Shore A y textura exterior lisa, y cubre desniveles desde 0.38 mm hasta 4 mm en un extremo y de 3.8 mm hasta 9.5 mm en el otro. Cuenta con resistencia a la propagación de llama y está diseñada para uso interior.",
+    "Su instalación es rápida: se limpia y demarca el área, se coloca la parte plana del perfil al margen del cerámico y, seguidamente, se inserta entre la pestaña la alfombra, el tapete o el otro piso de diferente nivel.",
+    "Al no tener superficie porosa, evita la acumulación de bacterias y suciedad; basta con limpiarla con agua y detergentes de uso común."
+   ],
+   "specs": [
+    {
+     "label": "Ancho",
+     "value": "35 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "1 m"
+    },
+    {
+     "label": "Material",
+     "value": "PVC flexible, dureza 80 Shore A"
+    },
+    {
+     "label": "Alturas que cubre",
+     "value": "0.38 mm a 4 mm / 3.8 mm a 9.5 mm"
+    },
+    {
+     "label": "Textura exterior",
+     "value": "Lisa"
+    },
+    {
+     "label": "Uso",
+     "value": "Interiores"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Negro",
+    "Tabaco"
+   ],
+   "ficha": "/fichas/ft_junta_transicion_p-distinto_nivel.pdf",
+   "usos": [
+    "Unión de pisos de diferente altura o nivel",
+    "Transición entre piso cerámico y alfombras o tapetes",
+    "Zonas de alto tránsito",
+    "Pisos interiores"
+   ],
+   "images": [
+    {
+     "src": "/images/juntas/junta_transicion_p-distinto_nivel/foto-ambientada.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Junta de transición instalada uniendo pisos de distinto nivel"
+    },
+    {
+     "src": "/images/juntas/junta_transicion_p-distinto_nivel/junta-para-pisos-de-distinto-nivel-grupal-2.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Juntas para pisos de distinto nivel en los colores disponibles"
+    },
+    {
+     "src": "/images/juntas/junta_transicion_p-distinto_nivel/junta-para-pisos-de-distinto-nivel-individual-5.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil individual de junta para pisos de distinto nivel"
+    },
+    {
+     "src": "/images/juntas/junta_transicion_p-distinto_nivel/junta-distinta-altura.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Junta de PVC para unir pisos de distinta altura"
+    }
+   ],
+   "category": "juntas",
+   "featured": false,
+   "cardImage": "/images/juntas/junta_transicion_p-distinto_nivel/junta-para-pisos-de-distinto-nivel-grupal-2.webp",
+   "hoverImage": "/images/juntas/junta_transicion_p-distinto_nivel/foto-ambientada.webp"
+  },
+  {
+   "slug": "juntas-para-concreto",
+   "name": "Junta de dilatación para concreto 40/80 mm",
+   "code": "103013",
+   "shortDescription": "Junta de PVC de 40 y 80 mm que absorbe las dilataciones del concreto y evita que losas y pavimentos se agrieten o fracturen.",
+   "description": [
+    "El concreto se expande y contrae con las variaciones de humedad y temperatura. Nuestra junta de dilatación para concreto es un perfil de PVC rígido que actúa como junta de retracción, absorbiendo los movimientos estructurales de dilatación y contracción, y evitando así que el pavimento o solera se agriete o fracture. A su vez, sirve como guía para la nivelación del hormigón: su extremo superior rígido se utiliza como referencia al pasar la regla vibradora.",
+    "Cuenta con pestañas laterales para una mejor adherencia al hormigón, base ancha para mayor estabilidad, huecos para cableado y un peso ligero que facilita la instalación. Como el perfil permanece embutido en el hormigón, no sufre degradación con el tiempo ni queda visible en el pavimento: el ancho visible es de apenas 1.0 mm en la junta de 40 mm y 2.0 mm en la de 80 mm.",
+    "Se ofrece en dos alturas según el espesor de la losa: 40 mm para losas de 5 a 12 cm y 80 mm para losas de 12 a 25 cm, ambas en tiras de 3 m. El sistema se complementa con una base de PEAD (42.5 x 65 mm) y un acople exclusivo para la junta de 40 mm; al usar las bases de PVC, el hormigonado puede realizarse de inmediato, sin esperar el fraguado de bases de mortero.",
+    "Una vez concluido el curado no es necesario regresar a la obra para cortar o rellenar juntas, lo que permite ahorrar en maquinaria y mano de obra. El producto cuenta con garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Altura",
+     "value": "40 mm y 80 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "3 m"
+    },
+    {
+     "label": "Material",
+     "value": "PVC rígido, dureza 80 Shore D"
+    },
+    {
+     "label": "Ancho total",
+     "value": "30 mm (junta 40 mm) / 60 mm (junta 80 mm)"
+    },
+    {
+     "label": "Ancho visible",
+     "value": "1.0 mm / 2.0 mm"
+    },
+    {
+     "label": "Espesor de losa",
+     "value": "5 a 12 cm (junta 40 mm) / 12 a 25 cm (junta 80 mm)"
+    },
+    {
+     "label": "Resistencia al impacto IZOD (ASTM D256)",
+     "value": "42.3 J/m"
+    },
+    {
+     "label": "Accesorios",
+     "value": "Base de PEAD (42.5 x 65 mm) y acople para junta de 40 mm"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Negro"
+   ],
+   "ficha": "/fichas/ft_junta_dilatacion_concreto.pdf",
+   "usos": [
+    "Aceras y veredas",
+    "Soleras de viviendas",
+    "Caminos peatonales",
+    "Calzadas de hormigón",
+    "Pavimentos y losas de concreto"
+   ],
+   "images": [
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/foto-ambientada-en-obra.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Junta de dilatación para concreto instalada en obra antes del vaciado"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/llenado.webp",
+     "w": 900,
+     "h": 1600,
+     "alt": "Vaciado de concreto usando la junta de dilatación como guía de nivel"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/llenado-2.webp",
+     "w": 900,
+     "h": 1600,
+     "alt": "Instalación de la junta de dilatación durante el llenado de la losa de concreto"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/llenado-3.webp",
+     "w": 1080,
+     "h": 1320,
+     "alt": "Proceso de hormigonado con juntas de dilatación de PVC en obra"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-concreto-fotos/junta-de-concreto-40mm-80mm-con-accesorios.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Juntas de concreto de 40 mm y 80 mm con base y acople"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-concreto-fotos/junta-de-concreto-40mm-80mm.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Juntas de dilatación para concreto de 40 mm y 80 mm"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-concreto-fotos/junta-de-concreto-2.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-concreto-fotos/junta-de-concreto-3.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-concreto-fotos/junta-de-concreto-40mm.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Junta de dilatación para concreto de 40 mm"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-concreto-fotos/junta-de-concreto-80mm.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Junta de dilatación para concreto de 80 mm"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-de-concreto.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-para-concreto-individual-1.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-80mm-concreto-4-15-01-20.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/acople-para-base-de-junta-de-dilatacion-para-concreto-40mm.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Acople para base de junta de dilatación para concreto de 40 mm"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-dilatacion-de-concreto-40mm-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de la junta de dilatación para concreto de 40 mm"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/junta-dilatacion-de-concreto-80mm-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de la junta de dilatación para concreto de 80 mm"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_concreto/base-de-junta-de-concreto-80mm-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de la base de la junta de concreto de 80 mm"
+    }
+   ],
+   "category": "juntas",
+   "featured": true,
+   "cardImage": "/images/juntas/junta_dilatacion_concreto/junta-para-concreto-individual-1.webp",
+   "hoverImage": "/images/juntas/junta_dilatacion_concreto/foto-ambientada-en-obra.webp"
+  },
+  {
+   "slug": "juntas-para-porcelanato-y-ceramicas",
+   "name": "Junta de dilatación para porcelanato y cerámicas",
+   "shortDescription": "Perfil coextruido de PVC rígido y flexible que absorbe vibraciones, dilataciones y contracciones, protegiendo porcelanatos y cerámicos de fisuras.",
+   "description": [
+    "La junta de dilatación para porcelanato y cerámicas es la solución ideal para proteger sus instalaciones de cerámica y porcelanato. Está fabricada mediante un proceso de coextrusión de compuestos de PVC flexible y PVC rígido con la más alta calidad de materia prima: la combinación de estos dos cuerpos permite absorber pequeñas variaciones de movimiento, ofreciendo buena resistencia y evitando la acumulación de tensiones debidas a las vibraciones, dilataciones y contracciones del pavimento.",
+    "Con este producto se previene de manera efectiva la aparición de grietas y otros daños en los revestimientos, garantizando su longevidad y el mantenimiento del aspecto estético de la superficie. Cuenta con resistencia a la propagación de llama y está diseñada para uso interior.",
+    "Su instalación se realiza con el mismo material de agarre o pegamento empleado para cerámicos o porcelanatos: se coloca el perfil alineado con el canto del revestimiento, sus alas de fijación impiden que sea extraído una vez fraguado el material y, de ser necesario, se enrasa con un martillo de goma antes del fraguado. Se recomienda colocarla cada 8.0 m como máximo o delimitando áreas regulares de hasta 40 m² en pavimentos interiores.",
+    "Al no tener superficie porosa, evita la acumulación de bacterias y suciedad; su limpieza solo requiere agua y detergentes de uso común. Producto a pedido."
+   ],
+   "specs": [
+    {
+     "label": "Alto",
+     "value": "9.5 mm y 11.5 mm"
+    },
+    {
+     "label": "Ancho",
+     "value": "8.0 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "3.0 m"
+    },
+    {
+     "label": "Presentación",
+     "value": "Paquete de 20 unidades"
+    },
+    {
+     "label": "Material",
+     "value": "PVC rígido y PVC flexible coextruidos"
+    },
+    {
+     "label": "Colocación",
+     "value": "Cada 8.0 m como máximo o en áreas de hasta 40 m²"
+    },
+    {
+     "label": "Uso",
+     "value": "Interiores"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Negro",
+    "Tabaco",
+    "Mármol"
+   ],
+   "ficha": "/fichas/ft_junta_dilatacion_porcelanato-ceramicas.pdf",
+   "aPedido": true,
+   "usos": [
+    "Pisos de porcelanato",
+    "Pisos de cerámico",
+    "Pavimentos interiores de paños amplios",
+    "Superficies expuestas a vibraciones y cambios de temperatura"
+   ],
+   "images": [
+    {
+     "src": "/images/juntas/junta_dilatacion_porcelanato-ceramicas/foto-ambientada.webp",
+     "w": 664,
+     "h": 888,
+     "alt": "Junta de dilatación instalada entre piezas de porcelanato"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_porcelanato-ceramicas/junta-para-porcelanato-y-ceramicas-individual-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil de junta de dilatación para porcelanato y cerámicas"
+    },
+    {
+     "src": "/images/juntas/junta_dilatacion_porcelanato-ceramicas/junta-de-dilatacion-para-ceramico.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Junta de dilatación de PVC para cerámico"
+    }
+   ],
+   "category": "juntas",
+   "featured": false,
+   "cardImage": "/images/juntas/junta_dilatacion_porcelanato-ceramicas/junta-para-porcelanato-y-ceramicas-individual-1.webp",
+   "hoverImage": "/images/juntas/junta_dilatacion_porcelanato-ceramicas/foto-ambientada.webp"
+  },
+  {
+   "slug": "zocalo-sanitario",
+   "name": "Zócalo sanitario de PVC",
+   "shortDescription": "Zócalo curvo de PVC para uniones piso-pared que facilita la limpieza y evita la acumulación de suciedad. Ideal para ambientes de alta exigencia de higiene.",
+   "description": [
+    "El zócalo sanitario NEFUSAC presenta una elegante curvatura ideal para las uniones entre pisos y paredes: no solo embellece el ambiente, sino que simplifica la limpieza y evita eficazmente la acumulación de suciedad. Es la opción preferida en lugares que requieren una higiene impecable, como hospitales, restaurantes, colegios y centros comerciales.",
+    "Fabricado en PVC semi-rígido con dureza 86 Shore A y resistencia a la propagación de llama, se ofrece en tres alturas de arco (53.5 mm, 80 mm y 100 mm) con espesor de 3.5 mm, en varillas de 2 m listas para instalar en interiores.",
+    "Al no ser de superficie porosa, evita la acumulación de bacterias y suciedad; la limpieza se realiza simplemente con agua y detergentes de uso común, sin necesidad de productos especiales. Por su rapidez de instalación y mantenimiento cero, es recomendado para instalaciones de tipo sanitario, médico, alimentario o industrial: cámaras frigoríficas, laboratorios y salas hospitalarias.",
+    "Disponible en gris, blanco, negro y mármol, con garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC semi-rígido"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "86 Shore A"
+    },
+    {
+     "label": "Alto",
+     "value": "53 mm, 80 mm y 100 mm"
+    },
+    {
+     "label": "Longitud de arco (B)",
+     "value": "53.5 mm / 80 mm / 100 mm"
+    },
+    {
+     "label": "Radio (R)",
+     "value": "45 mm / 55 mm / 67 mm"
+    },
+    {
+     "label": "Alto en pared y piso (L)",
+     "value": "37 mm / 53 mm / 66 mm"
+    },
+    {
+     "label": "Espesor",
+     "value": "3.5 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "2 m"
+    },
+    {
+     "label": "Aplicación",
+     "value": "Uso interior"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Blanco",
+    "Negro",
+    "Mármol"
+   ],
+   "ficha": "/fichas/ft_zocalo_sanitario.pdf",
+   "usos": [
+    "Hospitales y salas hospitalarias",
+    "Restaurantes e industria alimentaria",
+    "Colegios y centros comerciales",
+    "Cámaras frigoríficas y laboratorios"
+   ],
+   "images": [
+    {
+     "src": "/images/zocalos/zocalo_sanitario_nefusac/foto-ambientada.webp",
+     "w": 1114,
+     "h": 895,
+     "alt": "Zócalo sanitario de PVC instalado en la unión entre piso y pared de un ambiente interior"
+    },
+    {
+     "src": "/images/zocalos/zocalo_sanitario_nefusac/zocalo-sanitario-1.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Zócalo sanitario curvo NEFUSAC en la unión piso-pared"
+    },
+    {
+     "src": "/images/zocalos/zocalo_sanitario_nefusac/zocalo-sanitario-2.webp",
+     "w": 1600,
+     "h": 1029
+    },
+    {
+     "src": "/images/zocalos/zocalo_sanitario_nefusac/zocalo-sanitario-3.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_sanitario_nefusac/zocalo-sanitario-4.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_sanitario_nefusac/zocalos-sanitario-4-colores.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Zócalos sanitarios en sus cuatro colores: gris, blanco, negro y mármol"
+    },
+    {
+     "src": "/images/zocalos/zocalo_sanitario_nefusac/zocalos-sanitarios-grupal.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/zocalos-grupal.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Familia de zócalos NEFUSAC"
+    },
+    {
+     "src": "/images/zocalos/zocalo_sanitario_nefusac/zocalo-sanitario-gris.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_sanitario_nefusac/zocalo-sanitario-individual-4.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/zocalo_sanitario_nefusac/zocalo-sanitario-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil curvo del zócalo sanitario de PVC"
+    }
+   ],
+   "category": "zocalos",
+   "featured": true,
+   "cardImage": "/images/zocalos/zocalo_sanitario_nefusac/zocalos-sanitario-4-colores.webp",
+   "hoverImage": "/images/zocalos/zocalo_sanitario_nefusac/foto-ambientada.webp"
+  },
+  {
+   "slug": "zocalo-sanitario-con-riel",
+   "name": "Zócalo sanitario con riel de anclaje",
+   "shortDescription": "Zócalo de PVC rígido con bordes flexibles y riel de enganche que asegura instalación rápida y fijación duradera. Altura de 100 mm en varillas de 2 m.",
+   "description": [
+    "Zócalo fabricado a partir de PVC rígido con bordes flexibles y perfil curvo, ideal para las uniones entre pisos y paredes. Su forma redondeada simplifica la limpieza y bloquea la acumulación de suciedad, por lo que es requerido en ambientes de máxima higiene como cámaras frigoríficas, hospitales, colegios, centros comerciales e industrias alimentarias.",
+    "Cuenta con una base o riel de enganche alargado que permite una instalación rápida y una perfecta sujeción: el riel se fija a la superficie y el zócalo se engancha sobre él, asegurando una fijación firme y duradera con un acabado limpio.",
+    "Con 100 mm de longitud de arco, 65 mm de alto en pared y piso y varillas de 2 m, trabaja en temperaturas desde -20 °C hasta 50 °C (ISO 8256-2004). Es recomendado para encuentros pared-suelo, pared-pared o pared-techo, tanto en sentido horizontal como vertical, en instalaciones de tipo sanitario, médico, alimentario o industrial.",
+    "Su superficie no porosa evita la acumulación de bacterias y suciedad; basta limpiar con agua y detergentes de uso común. Se ofrece en color blanco, con gris y mármol disponibles a pedido, y cuenta con garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC rígido + PVC flexible (zócalo) / PVC rígido (riel)"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "80 Shore D / 86 Shore A"
+    },
+    {
+     "label": "Longitud de arco (B)",
+     "value": "100 mm"
+    },
+    {
+     "label": "Ancho (A)",
+     "value": "30 mm"
+    },
+    {
+     "label": "Alto en pared y piso (D)",
+     "value": "65 mm"
+    },
+    {
+     "label": "Longitud de cuerda (C)",
+     "value": "92 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "2 m"
+    },
+    {
+     "label": "Temperatura de trabajo (ISO 8256-2004)",
+     "value": "Desde -20 °C hasta 50 °C"
+    },
+    {
+     "label": "Aplicación",
+     "value": "Uso interior"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "colors": [
+    "Blanco",
+    "Gris (a pedido)",
+    "Mármol (a pedido)"
+   ],
+   "ficha": "/fichas/ft_zocalo-sanitario-con-riel-de-anclaje.pdf",
+   "usos": [
+    "Cámaras frigoríficas",
+    "Hospitales y laboratorios",
+    "Industrias alimentarias",
+    "Colegios y centros comerciales",
+    "Encuentros pared-suelo, pared-pared y pared-techo"
+   ],
+   "images": [
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/foto-ambientada.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Zócalo sanitario con riel de anclaje instalado en un ambiente de alta exigencia de higiene"
+    },
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/zocalo-riel-1.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Detalle del zócalo sanitario con riel de anclaje en la unión piso-pared"
+    },
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/zocalo-riel-2.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/zocalo-riel-3.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/zocalo-riel-4.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/post-1.webp",
+     "w": 1200,
+     "h": 1200
+    },
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/foto-zocalo-riel.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/foto-zocalo-riel-solo.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/foto-zocalo-detalle.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/plano-ensamblaje-3d-zocalo-c.-anclaje.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Plano de ensamblaje 3D del zócalo sanitario con riel de anclaje"
+    },
+    {
+     "src": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/plano-ensamblaje-ft-info-1.webp",
+     "w": 1600,
+     "h": 1600
+    }
+   ],
+   "category": "zocalos",
+   "featured": false,
+   "cardImage": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/foto-zocalo-riel-solo.webp",
+   "hoverImage": "/images/zocalos/ft_zocalo_sanitario_con-riel-de-anclaje_nefusac/foto-ambientada.webp"
+  },
+  {
+   "slug": "zocalo-decorativo",
+   "name": "Zócalo decorativo canaleta",
+   "shortDescription": "Zócalo canaleta de PVC rígido de 73 mm con clips y accesorios para un acabado impecable. Además ordena y protege cables externos.",
+   "description": [
+    "El zócalo decorativo canaleta de PVC se emplea como elemento de terminación de muro a piso, decorativo y de protección. Está diseñado para garantizar un acabado perfecto en habitaciones, oficinas, salas y todo proyecto de diseño interior.",
+    "Para lograr un mejor acabado dispone de un completo sistema de accesorios: clips de montaje que facilitan la instalación, tapas terminales o de inicio-fin, uniones o empalmes y esquineros interiores y exteriores, asegurando una integración sin fisuras y una apariencia pulida.",
+    "Fabricado en PVC rígido de 80 Shore D, con 73 mm de alto, 17 mm de ancho y varillas de 2.40 m, es adaptable a todo tipo de superficie y arquitectura de áreas interiores, con excelente desempeño en resistencia a golpes y humedad. Su canal interno además ordena y protege cables externos.",
+    "Por cada varilla se recomienda un kit de instalación (8 clips de montaje, 2 tapas terminales, 8 tarugos y 8 tornillos); el kit y los demás accesorios se adquieren por separado. Disponible en gris, negro, tabaco y blanco, con garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC rígido"
+    },
+    {
+     "label": "Ancho (A)",
+     "value": "17 mm"
+    },
+    {
+     "label": "Alto (H)",
+     "value": "73 mm"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "80 Shore D"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.40 m"
+    },
+    {
+     "label": "Accesorios",
+     "value": "Clip de montaje, tapas terminales, uniones, esquineros interior y exterior (por separado)"
+    },
+    {
+     "label": "Kit de instalación",
+     "value": "8 clips de montaje, 2 tapas terminales, 8 tarugos y 8 tornillos"
+    },
+    {
+     "label": "Aplicación",
+     "value": "Uso interior"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Negro",
+    "Tabaco",
+    "Blanco"
+   ],
+   "ficha": "/fichas/ft_zocalo-decorativo-pvc.pdf",
+   "usos": [
+    "Habitaciones y dormitorios",
+    "Oficinas y salas",
+    "Proyectos de diseño interior",
+    "Ordenamiento y protección de cables externos"
+   ],
+   "images": [
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/ambientada.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Zócalo decorativo canaleta de PVC instalado en un ambiente interior"
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-decorativo-ambientada-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Zócalo decorativo canaleta como terminación de muro a piso en una sala"
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/amplio-1.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/cables.webp",
+     "w": 1201,
+     "h": 1600,
+     "alt": "Canal interno del zócalo decorativo ordenando y protegiendo cables externos"
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/dsc00465-copia.webp",
+     "w": 1600,
+     "h": 1126
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/dsc00471-copia.webp",
+     "w": 1600,
+     "h": 1723
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/dsc00492-copia.webp",
+     "w": 1600,
+     "h": 1555
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/dsc00503-copia.webp",
+     "w": 1600,
+     "h": 1192
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/dsc00519-copia.webp",
+     "w": 1600,
+     "h": 1344
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/dsc00525-copia.webp",
+     "w": 1600,
+     "h": 1433
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/dsc00538-copia.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-canaleta-2.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-canaleta-3.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-canaleta-4.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-canaleta-5.webp",
+     "w": 1600,
+     "h": 2400
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-canaleta-6.webp",
+     "w": 1600,
+     "h": 2400
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-canaleta-7.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-canaleta-8.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-canaleta-marron-copia.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-canaleta-marron.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-canaleta-marron-1.webp",
+     "w": 1600,
+     "h": 2400
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/whatsapp-image-2024-05-30-at-9.38.43-am.webp",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalos-decorativos-full-4-colores.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Zócalos decorativos canaleta en sus cuatro colores: gris, negro, tabaco y blanco"
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalos.webp",
+     "w": 1600,
+     "h": 1235
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/uno.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-decorativo-principal-esquinero-1.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-decorativo-principal-esquinero-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalo-decorativo-principal-esquinero-3.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/esquinero-interior.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Esquinero interior del zócalo decorativo canaleta"
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalplast-esquinero-exterior.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalplast-tapa.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalplast-union.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/kit-de-ensamblaje.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/clip-de-ensamblaje-3d.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta/zocalplast-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del zócalo decorativo canaleta de PVC"
+    }
+   ],
+   "category": "zocalos",
+   "featured": false,
+   "cardImage": "/images/zocalos/zocalo_decorativo_canaleta/zocalos-decorativos-full-4-colores.webp",
+   "hoverImage": "/images/zocalos/zocalo_decorativo_canaleta/ambientada.webp"
+  },
+  {
+   "slug": "zocalo-decorativo-importado",
+   "name": "Zócalo decorativo canaleta importado",
+   "shortDescription": "Zócalo canaleta importado con acabados maderizados en nogal, roble y cerezo. Remata el muro a piso y oculta cables con elegancia.",
+   "description": [
+    "El zócalo canaleta importado se emplea como elemento de terminación de muro a piso, decorativo y de protección, con atractivos acabados maderizados en nogal, roble y cerezo que aportan calidez y elegancia a cualquier ambiente interior.",
+    "Su diseño tipo canaleta permite proteger y ordenar cables eléctricos, de telefonía o de sistemas de cómputo. Para dar un mejor acabado a la instalación dispone de tapas terminales o de inicio-fin, uniones o empalmes y esquineros interiores y exteriores.",
+    "La instalación es sencilla: se limpia la superficie, se asegura el producto con tarugos y tornillos o con un adhesivo adecuado para plástico, y se rematan los extremos con los accesorios. Al no ser de superficie porosa evita la acumulación de bacterias y suciedad, y se limpia fácilmente con paño húmedo o agua y detergentes de uso común."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Plástico"
+    },
+    {
+     "label": "Ancho (A)",
+     "value": "21 mm"
+    },
+    {
+     "label": "Alto (H)",
+     "value": "57.5 mm"
+    },
+    {
+     "label": "Accesorios",
+     "value": "Tapas terminales, uniones o empalmes, esquineros interior y exterior"
+    },
+    {
+     "label": "Aplicación",
+     "value": "Uso interior"
+    }
+   ],
+   "colors": [
+    "Nogal",
+    "Roble",
+    "Cerezo"
+   ],
+   "ficha": "/fichas/ft_zocalo_decorativo_canaleta-importado.pdf",
+   "usos": [
+    "Salas y dormitorios con acabados en madera",
+    "Oficinas y espacios comerciales",
+    "Protección y ordenamiento de cables eléctricos, de telefonía y de cómputo",
+    "Remodelaciones de interiores"
+   ],
+   "images": [
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta_importado/zocalo-importado.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Zócalo decorativo canaleta importado con acabado maderizado instalado en un ambiente interior"
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta_importado/zocalo-maderizado-con-producto.webp",
+     "w": 1140,
+     "h": 1140,
+     "alt": "Zócalo canaleta maderizado junto a su presentación comercial"
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta_importado/post-20-03.webp",
+     "w": 1080,
+     "h": 1080
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta_importado/zocalos-nuevos-2.webp",
+     "w": 1600,
+     "h": 837
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta_importado/zocalos-nuevos-2-fondo.webp",
+     "w": 1600,
+     "h": 837
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta_importado/zocalos-nuevos-casi.webp",
+     "w": 1600,
+     "h": 2527
+    },
+    {
+     "src": "/images/zocalos/zocalo_decorativo_canaleta_importado/zocalos-nuevos-casi-fondo.webp",
+     "w": 1600,
+     "h": 2527
+    }
+   ],
+   "category": "zocalos",
+   "featured": false,
+   "cardImage": "/images/zocalos/zocalo_decorativo_canaleta_importado/zocalo-maderizado-con-producto.webp",
+   "hoverImage": "/images/zocalos/zocalo_decorativo_canaleta_importado/post-20-03.webp"
+  },
+  {
+   "slug": "contrazocalo",
+   "name": "Contra zócalo tipo J de PVC",
+   "shortDescription": "Contra zócalo de PVC con terminación curva, en versión semi-rígida de 2 m o flexible en rollo. Uniones piso-pared higiénicas y fáciles de limpiar.",
+   "description": [
+    "Elaborado en PVC con terminación curva, el contra zócalo tipo J es la solución perfecta para crear uniones impecables entre pisos y paredes interiores. Su diseño facilita una limpieza rápida y eficiente y previene la acumulación de suciedad, convirtiéndolo en un elemento esencial para áreas que requieren los más altos estándares de higiene, como hospitales, hoteles y restaurantes.",
+    "Se ofrece en dos versiones: semi-rígida (86 Shore A), en varillas de 2 m con espesor de 1.80 mm, y flexible (80 Shore A), en rollos de 30 a 50 m con espesores de 1.30 mm y 1.50 mm, disponible como producto a pedido. Ambas versiones vienen en alturas de 80 mm y 100 mm.",
+    "Cuenta con excelente resistencia a la degradación o deterioro causado por microorganismos (hongos y bacterias), y gracias a su fácil instalación y mínimo mantenimiento es recomendado para instalaciones de tipo sanitario, médico, alimentario o industrial: cámaras frigoríficas, laboratorios y salas hospitalarias.",
+    "Su superficie no porosa se limpia con agua y detergentes de uso común, sin productos especiales. Disponible en blanco, negro, gris y tabaco, y en mármol a pedido, con garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC semi-rígido / PVC flexible"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "86 Shore A (semi-rígido) / 80 Shore A (flexible)"
+    },
+    {
+     "label": "Altura (A)",
+     "value": "80 mm y 100 mm"
+    },
+    {
+     "label": "Espesor",
+     "value": "1.80 mm (semi-rígido) / 1.30 mm y 1.50 mm (flexible)"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.0 m (semi-rígido)"
+    },
+    {
+     "label": "Presentación flexible",
+     "value": "Rollos de 30 m y 50 m (producto a pedido)"
+    },
+    {
+     "label": "Aplicación",
+     "value": "Uso interior"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "colors": [
+    "Blanco",
+    "Negro",
+    "Gris",
+    "Tabaco",
+    "Mármol (a pedido)"
+   ],
+   "ficha": "/fichas/ft_contra-zocalo-tipo-j-pvc.pdf",
+   "usos": [
+    "Hospitales y salas hospitalarias",
+    "Hoteles y restaurantes",
+    "Colegios y centros comerciales",
+    "Cámaras frigoríficas y laboratorios",
+    "Industria alimentaria"
+   ],
+   "images": [
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_pvc_nefusac/zocalos-sani.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Contra zócalo tipo J de PVC instalado en la unión entre piso y pared"
+    },
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_pvc_nefusac/zocalo-flexible-j-4-colores.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Contra zócalos tipo J flexibles en sus cuatro colores"
+    },
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_pvc_nefusac/zocalo-flexible-j-4-colores-2.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_pvc_nefusac/contra-zocalo-todos-flexible-y-rigidos.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Familia completa de contra zócalos tipo J flexibles y semi-rígidos"
+    },
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_pvc_nefusac/rollo_negro_tabaco.webp",
+     "w": 1517,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_pvc_nefusac/presentacion_rollo.webp",
+     "w": 1500,
+     "h": 1500
+    },
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_pvc_nefusac/zocalo-individual-tipo-j-pvc-individual-3.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_pvc_nefusac/zocalo-j-pvc-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil del contra zócalo tipo J de PVC"
+    },
+    {
+     "src": "/images/ia/amb-contrazocalo-j.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Contra zócalo tipo J de PVC instalado"
+    }
+   ],
+   "category": "zocalos",
+   "featured": false,
+   "cardImage": "/images/zocalos/contra-zocalo_tipo_j_pvc_nefusac/zocalo-flexible-j-4-colores.webp",
+   "hoverImage": "/images/ia/amb-contrazocalo-j.webp"
+  },
+  {
+   "slug": "zocalo-tipo-j-aluminio",
+   "name": "Zócalo tipo J de aluminio",
+   "shortDescription": "Zócalo de aluminio anodizado con terminación curva, en acabados mate y pulido de 80 y 100 mm. Durabilidad e higiene para los ambientes más exigentes.",
+   "description": [
+    "Perfil fabricado en aluminio anodizado, usado como zócalo de terminación curva ideal para las uniones entre pisos y paredes. Su diseño aporta estética y facilita la limpieza al evitar la acumulación de suciedad en rincones difíciles, cumpliendo con normativas estrictas de higiene en hospitales, restaurantes, colegios y centros comerciales.",
+    "Su estructura permite una instalación rápida y sencilla, y al estar fabricado en aluminio de alta calidad garantiza durabilidad y resistencia. Se ofrece en acabados mate y pulido, en alturas de 80 mm y 100 mm, con varillas de 2.50 m y presentación en paquetes de 25 unidades.",
+    "El espesor promedio es de 1.40 mm en las versiones mate y pulido de 80 mm y mate de 100 mm, y de 1.20 mm en la versión pulido de 100 mm. Por su fácil instalación y mantenimiento es recomendado para instalaciones de tipo sanitario, médico, alimentario o industrial, como cámaras frigoríficas, laboratorios y salas hospitalarias.",
+    "Para el mantenimiento basta un paño limpio con agua jabonosa o agentes de limpieza neutros recomendados para aluminio anodizado; se sugiere no retirar el film protector hasta finalizar la obra. Cuenta con garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Aluminio anodizado"
+    },
+    {
+     "label": "Altura (A)",
+     "value": "80 mm y 100 mm"
+    },
+    {
+     "label": "Profundidad (H)",
+     "value": "10 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.50 m"
+    },
+    {
+     "label": "Acabado",
+     "value": "Mate y pulido"
+    },
+    {
+     "label": "Espesor promedio",
+     "value": "1.40 mm (mate y pulido de 80 mm; mate de 100 mm) / 1.20 mm (pulido de 100 mm)"
+    },
+    {
+     "label": "Presentación",
+     "value": "Paquete de 25 unidades"
+    },
+    {
+     "label": "Aplicación",
+     "value": "Uso interior"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "ficha": "/fichas/ft_zocalo-tipo-j-aluminio.pdf",
+   "usos": [
+    "Hospitales y salas hospitalarias",
+    "Restaurantes e industria alimentaria",
+    "Colegios y centros comerciales",
+    "Cámaras frigoríficas y laboratorios"
+   ],
+   "images": [
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_aluminio_nefusac/zocalos-de-aluminio-mate-y-pulido.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Zócalos tipo J de aluminio anodizado en acabados mate y pulido"
+    },
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_aluminio_nefusac/mate-pulido.webp",
+     "w": 1280,
+     "h": 720,
+     "alt": "Comparación de los acabados mate y pulido del zócalo de aluminio"
+    },
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_aluminio_nefusac/contra-zocalo-aluminio.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/zocalos/contra-zocalo_tipo_j_aluminio_nefusac/zocalo-j-aluminio-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil del zócalo tipo J de aluminio"
+    },
+    {
+     "src": "/images/ia/amb-zocalo-aluminio.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Zócalo tipo J de aluminio instalado"
+    }
+   ],
+   "category": "zocalos",
+   "featured": false,
+   "cardImage": "/images/zocalos/contra-zocalo_tipo_j_aluminio_nefusac/zocalo-j-aluminio-3d.webp",
+   "hoverImage": "/images/ia/amb-zocalo-aluminio.webp"
+  },
+  {
+   "slug": "capping",
+   "name": "Capping",
+   "shortDescription": "Perfil de PVC flexible que une el piso vinílico con la pared ocultando cortes e imperfecciones. Acabado impecable en varillas de 2 m.",
+   "description": [
+    "El capping es la solución definitiva para lograr transiciones suaves y estéticamente agradables entre los vinilos de piso y la pared. Está diseñado para ocultar las uniones y las imperfecciones que puedan surgir del corte o la instalación del vinilo, garantizando un acabado impecable.",
+    "El perfil consta de una pequeña abertura cuya función es unirse con el vinilo: al finalizar la instalación del piso se unta pegamento en la zona posterior del perfil, se pega y se inserta el vinilo entre sus pestañas. También puede utilizarse como perfil zócalo, mejorando la apariencia y contribuyendo a la integridad y durabilidad del piso.",
+    "Fabricado en PVC flexible con textura lisa y resistencia a la propagación de llama, se ofrece en dos tipos —Junta 5/7 y Junta 8— en varillas de 2 m para uso interior.",
+    "Su superficie no porosa evita la acumulación de bacterias y suciedad; la limpieza se realiza con agua y detergentes de uso común. Disponible en gris, blanco, celeste cielo, mármol y negro, con una amplia gama de colores adicionales."
+   ],
+   "specs": [
+    {
+     "label": "Tipos",
+     "value": "Junta 5/7 y Junta 8"
+    },
+    {
+     "label": "Material",
+     "value": "PVC flexible"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "80 Shore A (Junta 5/7) / 80 Shore D (Junta 8)"
+    },
+    {
+     "label": "Alto lado largo (A)",
+     "value": "20.0 mm"
+    },
+    {
+     "label": "Alto lado corto (B)",
+     "value": "8.0 mm y 12.0 mm (Junta 5/7) / 8.0 mm (Junta 8)"
+    },
+    {
+     "label": "Abertura (C)",
+     "value": "5.0 mm / 1.0 mm (Junta 5/7); 1.5 mm (Junta 8)"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.0 m"
+    },
+    {
+     "label": "Textura",
+     "value": "Liso"
+    },
+    {
+     "label": "Aplicación",
+     "value": "Uso interior"
+    }
+   ],
+   "colors": [
+    "Gris",
+    "Blanco",
+    "Celeste cielo",
+    "Mármol",
+    "Negro"
+   ],
+   "ficha": "/fichas/ft_capping_nefusac.pdf",
+   "usos": [
+    "Remate perimetral de pisos vinílicos",
+    "Transiciones entre vinilos de piso",
+    "Ocultar uniones e imperfecciones del corte del vinilo",
+    "Uso como perfil zócalo en interiores"
+   ],
+   "images": [
+    {
+     "src": "/images/capping_nefusac/foto-ambientada.webp",
+     "w": 800,
+     "h": 800,
+     "alt": "Capping instalado como transición entre el piso vinílico y la pared"
+    },
+    {
+     "src": "/images/capping_nefusac/img_8949.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil capping de PVC flexible NEFUSAC"
+    },
+    {
+     "src": "/images/capping_nefusac/capping-individual-1.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/capping_nefusac/capping-5-7-8-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de los perfiles capping Junta 5/7 y Junta 8"
+    }
+   ],
+   "category": "zocalos",
+   "featured": false,
+   "cardImage": "/images/capping_nefusac/capping-individual-1.webp",
+   "hoverImage": "/images/capping_nefusac/foto-ambientada.webp"
+  },
+  {
+   "slug": "panel-de-pvc",
+   "name": "Panel de PVC",
+   "code": "Pared: 103095 / Techo: 103192",
+   "shortDescription": "Paneles de PVC blancos de 5 m para revestir paredes y techos tipo cielorraso: instalación rápida, fácil limpieza y un acabado limpio y contemporáneo.",
+   "description": [
+    "Nuestros paneles de PVC son la elección ideal para embellecer cualquier espacio, ofreciendo una solución práctica y estilizada para revestimientos interiores, ya sea en paredes o en techos tipo cielorraso. Su diseño no solo garantiza una estética superior, sino que también facilita una limpieza y un mantenimiento sin esfuerzos, creando ambientes impecables con un acabado limpio y contemporáneo que dura.",
+    "Están fabricados a partir de compuesto de PVC rígido libre de plomo, cuya composición, junto con la mezcla de aditivos, le otorga alta durabilidad y resistencia a la corrosión, haciéndolo un material idóneo incluso para zonas con ambiente salino. Su estructura interna cuenta con paredes verticales que mejoran la resistencia al impacto, mientras que sus cámaras de aire proporcionan aislamiento térmico y del ruido, generando mayor confort y ahorro energético. Además, el PVC es autoextinguible: no contribuye a un incendio ni a su desarrollo.",
+    "Gracias a su resistencia a la humedad, químicos, salitre y envejecimiento, el panel puede instalarse en ambientes que demandan altas condiciones de higiene: hospitales, industrias alimentarias, campamentos mineros, aeropuertos, supermercados, fábricas, hogares u oficinas. Es compatible con cualquier artefacto de iluminación y también se emplea con fines sanitarios.",
+    "La instalación es limpia y rápida: el panel encaja a presión gracias a su terminación tipo machimbre y los tornillos de fijación quedan ocultos. Como cielorraso se sujeta a una estructura de perfiles de acero galvanizado livianos o madera rígida, con listones cada 0.70 m en sentido transversal al panel, y se remata el perímetro con los perfiles tipo U o tipo L. Su mantenimiento es mínimo: basta limpiar con paño suave, agua y detergentes de uso común."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC rígido libre de plomo"
+    },
+    {
+     "label": "Ancho útil",
+     "value": "200 mm"
+    },
+    {
+     "label": "Espesor",
+     "value": "10 mm"
+    },
+    {
+     "label": "Espesor de paredes",
+     "value": "0.7 mm y 1.0 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "5 m"
+    },
+    {
+     "label": "Color",
+     "value": "Blanco"
+    },
+    {
+     "label": "Uso",
+     "value": "Revestimiento interior de paredes y techos tipo cielorraso"
+    }
+   ],
+   "colors": [
+    "Blanco"
+   ],
+   "ficha": "/fichas/ft_panel.pdf",
+   "usos": [
+    "Cielorrasos y techos interiores",
+    "Revestimiento decorativo de paredes",
+    "Ambientes de alta higiene: hospitales e industrias alimentarias",
+    "Campamentos mineros, aeropuertos y supermercados",
+    "Hogares, oficinas y módulos prefabricados"
+   ],
+   "images": [
+    {
+     "src": "/images/panel-de-pvc/foto-ambientada-2.webp",
+     "w": 1600,
+     "h": 1088,
+     "alt": "Ambiente interior revestido con paneles de PVC blancos NEFUSAC"
+    },
+    {
+     "src": "/images/panel-de-pvc/panales-en-tiny.webp",
+     "w": 1600,
+     "h": 2400,
+     "alt": "Paneles de PVC instalados en el techo y paredes de una tiny house"
+    },
+    {
+     "src": "/images/panel-de-pvc/panales-en-tiny-2.webp",
+     "w": 1600,
+     "h": 2400,
+     "alt": "Detalle de paneles de PVC blancos instalados en una tiny house"
+    },
+    {
+     "src": "/images/panel-de-pvc/panales-en-tiny-3.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Interior de tiny house con cielorraso de paneles de PVC"
+    },
+    {
+     "src": "/images/panel-de-pvc/cielo-raso-y-accesorios-3.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Cielorraso de panel de PVC blanco con sus perfiles de acabado"
+    },
+    {
+     "src": "/images/panel-de-pvc/paneles-y-zocalos.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Paneles de PVC junto a zócalos en ambiente interior"
+    },
+    {
+     "src": "/images/panel-de-pvc/paneles-y-zocalos-2.webp",
+     "w": 1600,
+     "h": 2400,
+     "alt": "Composición de paneles de PVC y zócalos NEFUSAC"
+    },
+    {
+     "src": "/images/panel-de-pvc/paneles-y-zocalos-3.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Paneles de PVC y zócalos en presentación conjunta"
+    },
+    {
+     "src": "/images/panel-de-pvc/paneles.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Grupo de paneles de PVC blancos NEFUSAC"
+    },
+    {
+     "src": "/images/panel-de-pvc/dsc06917.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Paneles de PVC blancos NEFUSAC"
+    },
+    {
+     "src": "/images/panel-de-pvc/dsc06921.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Detalle de paneles de PVC blancos"
+    },
+    {
+     "src": "/images/panel-de-pvc/dsc06967.webp",
+     "w": 1600,
+     "h": 2400,
+     "alt": "Panel de PVC blanco en vista vertical"
+    },
+    {
+     "src": "/images/panel-de-pvc/dsc06968.webp",
+     "w": 1600,
+     "h": 2400,
+     "alt": "Panel de PVC blanco en vista vertical"
+    },
+    {
+     "src": "/images/panel-de-pvc/dsc06975.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Superficie de panel de PVC blanco"
+    },
+    {
+     "src": "/images/panel-de-pvc/dsc06976.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Superficie de panel de PVC blanco"
+    },
+    {
+     "src": "/images/panel-de-pvc/panel-de-pvc-2.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Panel de PVC blanco NEFUSAC"
+    },
+    {
+     "src": "/images/panel-de-pvc/panel-de-pvc-3.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Panel de PVC blanco NEFUSAC"
+    },
+    {
+     "src": "/images/panel-de-pvc/panel-de-pvc-4.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Panel de PVC blanco NEFUSAC"
+    },
+    {
+     "src": "/images/panel-de-pvc/panel-base-individual-4.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Panel de PVC individual sobre fondo neutro"
+    },
+    {
+     "src": "/images/panel-de-pvc/panel-de-pvc-perfil.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Vista de perfil del panel de PVC con sus cámaras de aire internas"
+    },
+    {
+     "src": "/images/panel-de-pvc/panel-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del panel de PVC de 200 x 10 mm"
+    }
+   ],
+   "category": "paneles-de-pvc",
+   "featured": true,
+   "cardImage": "/images/panel-de-pvc/panel-base-individual-4.webp",
+   "hoverImage": "/images/panel-de-pvc/foto-ambientada-2.webp"
+  },
+  {
+   "slug": "accesorios-para-panel",
+   "name": "Accesorios para panel de PVC",
+   "shortDescription": "Perfiles tipo H, L, U y cornisa en PVC blanco: el complemento perfecto para rematar y dar un acabado impecable a la instalación de paneles.",
+   "description": [
+    "Los accesorios para panel de PVC son los perfiles componentes que completan la instalación de nuestros paneles, garantizando remates limpios, uniones prolijas y un acabado profesional en paredes y cielorrasos. Al igual que el panel, están fabricados en PVC de color blanco, por lo que se integran perfectamente al revestimiento.",
+    "La línea incluye el perfil tipo U de 14 mm y el perfil tipo L de 30 mm, que se instalan en todo el perímetro del área a revestir con cortes de esquina a 45°; el perfil tipo H de 50 mm, empleado en las uniones entre paneles; y la cornisa, que aporta una terminación decorativa entre la pared y el cielorraso.",
+    "Fabricados en PVC resistente a la humedad, químicos, corrosión y envejecimiento, requieren mínimo mantenimiento: basta limpiar con paño suave, agua y detergentes de uso común, evitando agentes abrasivos o productos que puedan rayar la superficie. Consulte por los accesorios al adquirir sus paneles de PVC."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC"
+    },
+    {
+     "label": "Perfil tipo U (14 mm)",
+     "value": "Ancho mayor 29 mm, ancho menor 21 mm, alto 14 mm"
+    },
+    {
+     "label": "Perfil tipo L (30 mm)",
+     "value": "Ancho 30 mm"
+    },
+    {
+     "label": "Perfil tipo H (50 mm)",
+     "value": "Ancho mayor 50 mm, ancho menor 37 mm, alto 15 mm"
+    },
+    {
+     "label": "Cornisa",
+     "value": "Ancho 27 mm, alto 25 mm, alto interior 10 mm"
+    },
+    {
+     "label": "Color",
+     "value": "Blanco"
+    }
+   ],
+   "colors": [
+    "Blanco"
+   ],
+   "ficha": "/fichas/ft_panel.pdf",
+   "usos": [
+    "Remate perimetral de cielorrasos de panel de PVC",
+    "Uniones y empalmes entre paneles",
+    "Terminación decorativa tipo cornisa entre pared y techo",
+    "Acabado de bordes en revestimientos de paredes"
+   ],
+   "images": [
+    {
+     "src": "/images/panel-de-pvc/perfil-h.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil tipo H de PVC blanco para uniones entre paneles"
+    },
+    {
+     "src": "/images/panel-de-pvc/perfil-l.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil tipo L de PVC blanco para remate perimetral del panel"
+    },
+    {
+     "src": "/images/panel-de-pvc/perfil-u.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil tipo U de PVC blanco para el perímetro del cielorraso"
+    },
+    {
+     "src": "/images/panel-de-pvc/perfil-cornisa-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Cornisa de PVC blanco para terminación entre pared y techo"
+    },
+    {
+     "src": "/images/panel-de-pvc/perfil-cornisa-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de la cornisa de PVC para panel"
+    },
+    {
+     "src": "/images/panel-de-pvc/perimetral-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil perimetral para panel de PVC"
+    },
+    {
+     "src": "/images/panel-de-pvc/plano-perfil-h-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Plano 3D del perfil tipo H con sus medidas"
+    },
+    {
+     "src": "/images/panel-de-pvc/plano-perfil-l-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Plano 3D del perfil tipo L con sus medidas"
+    },
+    {
+     "src": "/images/ia/amb-cielorraso-panel.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Accesorios para panel de PVC instalado"
+    }
+   ],
+   "category": "paneles-de-pvc",
+   "featured": false,
+   "cardImage": "/images/panel-de-pvc/perfil-h.webp",
+   "hoverImage": "/images/ia/amb-cielorraso-panel.webp"
+  },
+  {
+   "slug": "rodoplast",
+   "name": "Perfil Rodoplast",
+   "shortDescription": "Perfil de PVC rígido con borde redondeado que protege y realza porcelanatos y cerámicos. Amplia gama de colores y esquineros a juego.",
+   "description": [
+    "Rodoplast es un perfil fabricado mediante la extrusión de compuesto de PVC rígido, de borde redondeado, que sirve para dar un acabado duradero, de protección y decorativo a los revestimientos de pisos y paredes como porcelanatos o cerámicos. Su borde redondeado no solo aporta estética: también protege los cantos del revestimiento contra golpes, garantizando la durabilidad de la instalación.",
+    "Disponible en las versiones Max y Plus, con alturas de cresta de 8 mm, 9.5 mm y 11.5 mm y longitudes de 2.10 m y 2.40 m. La línea se complementa con los esquineros Rodoplast, que brindan un acabado pulcro en las esquinas y aportan un cierre profesional a cualquier trabajo de instalación.",
+    "Su instalación es sencilla: se coloca fácilmente en el ángulo formado por el revestimiento. Al no ser de superficie porosa, evita la acumulación de bacterias y suciedad; la limpieza se realiza con agua y detergentes de uso común, sin necesidad de productos especiales.",
+    "Se ofrece en una amplia gama de colores para combinar con cualquier proyecto y cuenta con garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC rígido"
+    },
+    {
+     "label": "Versiones",
+     "value": "Max y Plus"
+    },
+    {
+     "label": "Altura de cresta",
+     "value": "8 mm, 9.5 mm y 11.5 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.10 m y 2.40 m"
+    },
+    {
+     "label": "Ancho de base",
+     "value": "25 mm"
+    },
+    {
+     "label": "Espesor promedio",
+     "value": "1.8 mm"
+    },
+    {
+     "label": "Textura",
+     "value": "Exterior lisa, interior con ranuras longitudinales"
+    },
+    {
+     "label": "Acabado",
+     "value": "Mate y brillante"
+    },
+    {
+     "label": "Presentación",
+     "value": "Paquete de 50 unidades"
+    },
+    {
+     "label": "Esquinero Rodoplast",
+     "value": "PVC, 8 mm y 9.5 mm, paquete de 4 unidades"
+    },
+    {
+     "label": "Uso",
+     "value": "Interior"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "colors": [
+    "Almendra",
+    "Beige",
+    "Blanco",
+    "Celeste azulado",
+    "Celeste cielo",
+    "Champagne",
+    "Cuero",
+    "Cuero oscuro",
+    "Gris",
+    "Gris Foster",
+    "Gris Grafito",
+    "Gris Oscuro",
+    "Gris Plata",
+    "Marfil",
+    "Mármol",
+    "Marrón",
+    "Marrón Claro",
+    "Marrón Oscuro",
+    "MRL Azul",
+    "MRL Cedro",
+    "MT Turquesa",
+    "MT Verde",
+    "Negro",
+    "Nuevo Azul",
+    "Tabaco",
+    "Teja"
+   ],
+   "ficha": "/fichas/ft_perfil-rodoplast.pdf",
+   "usos": [
+    "Remate y protección de bordes de porcelanato y cerámico",
+    "Acabado de esquinas en paredes revestidas",
+    "Terminaciones decorativas en baños y cocinas",
+    "Protección de cantos del revestimiento contra golpes"
+   ],
+   "images": [
+    {
+     "src": "/images/rodoplast/rodoplast/ambientacion-guarcanto-plus-pvc-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Ambiente con revestimiento cerámico rematado con perfil Rodoplast Plus de PVC"
+    },
+    {
+     "src": "/images/rodoplast/rodoplast/bano-con-rodoplast.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Baño con porcelanato instalado con perfil Rodoplast de PVC en los bordes"
+    },
+    {
+     "src": "/images/rodoplast/rodoplast/esquina.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Detalle de esquina de revestimiento acabada con perfil Rodoplast"
+    },
+    {
+     "src": "/images/rodoplast/rodoplast/perfil-max-y-plus-foto-grupal-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfiles Rodoplast Max y Plus en varios colores"
+    },
+    {
+     "src": "/images/rodoplast/rodoplast/rodo-colores.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Gama de colores del perfil Rodoplast de PVC"
+    },
+    {
+     "src": "/images/rodoplast/rodoplast/rodoplast-max.webp",
+     "w": 1600,
+     "h": 2257,
+     "alt": "Perfil Rodoplast Max de PVC"
+    },
+    {
+     "src": "/images/rodoplast/rodoplast/rodoplast.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil Rodoplast de PVC con borde redondeado"
+    },
+    {
+     "src": "/images/rodoplast/rodoplast/rodoplast-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Vista isométrica 3D del perfil Rodoplast"
+    }
+   ],
+   "category": "perfiles-para-acabados",
+   "featured": true,
+   "cardImage": "/images/rodoplast/rodoplast/perfil-max-y-plus-foto-grupal-1.webp",
+   "hoverImage": "/images/rodoplast/rodoplast/ambientacion-guarcanto-plus-pvc-1.webp"
+  },
+  {
+   "slug": "rodoplast-pvc-tipo-aluminio",
+   "name": "Perfil PVC tipo aluminio y dorado pulido",
+   "shortDescription": "La elegancia del aluminio pulido y el dorado en un perfil de PVC rígido: acabado brillante para remates de porcelanato y cerámico en interiores.",
+   "description": [
+    "Perfil en PVC rígido de borde redondeado que sirve para dar un mejor acabado, duradero, de protección y decorativo a los revestimientos de paredes como porcelanatos o cerámicos. Su acabado brillante reproduce la apariencia del aluminio pulido y del dorado pulido, aportando un toque metálico y elegante con la practicidad y ligereza del PVC.",
+    "Está disponible en dos variantes de acabado, tipo aluminio pulido y dorado pulido, con alturas de cresta de 10 mm y 12 mm, longitudes de 2.0 m y 2.40 m, y anchos de base de 22 mm y 24 mm según la medida. Se comercializa en paquetes de 30 unidades.",
+    "Se coloca fácilmente en el ángulo formado por el revestimiento, quedando al ras del porcelanato o cerámico. Al no ser de superficie porosa evita la acumulación de bacterias y suciedad, y su limpieza se realiza simplemente con agua. Es un producto de uso interior con garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC rígido"
+    },
+    {
+     "label": "Altura de cresta",
+     "value": "10 mm y 12 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.0 m y 2.40 m"
+    },
+    {
+     "label": "Ancho de base",
+     "value": "22 mm (altura 10 mm) y 24 mm (altura 12 mm)"
+    },
+    {
+     "label": "Textura",
+     "value": "Exterior lisa, interior con ranuras longitudinales"
+    },
+    {
+     "label": "Acabado",
+     "value": "Brillante (tipo aluminio pulido y dorado pulido)"
+    },
+    {
+     "label": "Presentación",
+     "value": "Paquete de 30 unidades"
+    },
+    {
+     "label": "Uso",
+     "value": "Interior"
+    },
+    {
+     "label": "Garantía",
+     "value": "1 año por defecto de fábrica"
+    }
+   ],
+   "colors": [
+    "Tipo aluminio pulido",
+    "Dorado pulido"
+   ],
+   "ficha": "/fichas/ft_perfil-pvc-tipo-aluminio-y-dorado-pulido.pdf",
+   "usos": [
+    "Remates decorativos en paredes de porcelanato y cerámico",
+    "Acabados elegantes en baños y cocinas",
+    "Detalles dorados o metálicos en proyectos de interiorismo",
+    "Protección de bordes de revestimientos en interiores"
+   ],
+   "images": [
+    {
+     "src": "/images/rodoplast/perfil-pvc-tipo-aluminio-y-dorado-pulido/perfiles-pvc_-dorado_plateado_2.webp",
+     "w": 1600,
+     "h": 806,
+     "alt": "Perfiles de PVC tipo aluminio en acabado dorado y plateado pulido"
+    },
+    {
+     "src": "/images/rodoplast/perfil-pvc-tipo-aluminio-y-dorado-pulido/perfil-pvc-aluminio_dorado.webp",
+     "w": 1583,
+     "h": 840,
+     "alt": "Perfil de PVC tipo aluminio dorado pulido"
+    },
+    {
+     "src": "/images/rodoplast/perfil-pvc-tipo-aluminio-y-dorado-pulido/isometrico-dorado.webp",
+     "w": 1600,
+     "h": 760,
+     "alt": "Vista isométrica del perfil de PVC dorado pulido"
+    },
+    {
+     "src": "/images/rodoplast/perfil-pvc-tipo-aluminio-y-dorado-pulido/isometrico-plateado.webp",
+     "w": 1600,
+     "h": 760,
+     "alt": "Vista isométrica del perfil de PVC tipo aluminio pulido"
+    },
+    {
+     "src": "/images/ia/amb-perfil-dorado.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Perfil PVC tipo aluminio y dorado pulido instalado"
+    }
+   ],
+   "category": "perfiles-para-acabados",
+   "featured": false,
+   "cardImage": "/images/rodoplast/perfil-pvc-tipo-aluminio-y-dorado-pulido/perfiles-pvc_-dorado_plateado_2.webp",
+   "hoverImage": "/images/ia/amb-perfil-dorado.webp"
+  },
+  {
+   "slug": "rodoplast-evo",
+   "name": "Rodoplast Evo de Aluminio",
+   "shortDescription": "La evolución del clásico Rodoplast en aluminio anodizado: protege esquinas y ángulos con una arquitectura que empalma con los nuevos acabados.",
+   "description": [
+    "El reconocido perfil Rodoplast de aluminio evoluciona con una arquitectura excepcional que empalma perfectamente con los nuevos acabados, protegiendo las esquinas y ángulos de revestimientos para pisos y paredes como cerámicos y porcelanatos.",
+    "Fabricado en aluminio anodizado, ofrece larga durabilidad y resistencia a la corrosión, lo que garantiza la durabilidad de la instalación tanto en interiores como en exteriores. Se presenta en alturas de cresta de 9.5 mm y 12 mm, con ancho de base de 26 mm, longitud de 2.40 m y acabado mate.",
+    "Su instalación es sencilla: se instala la cerámica de un lado de la pared, se aplica el pegamento en el otro lado y se coloca el perfil, ubicando la cerámica en la parte interna de la cresta para que quede al ras del revestimiento; finalmente se limpia y fragua. Para el mantenimiento se recomienda paño limpio y agua jabonosa o limpiadores neutros para aluminio anodizado, evitando fibras que puedan rayar la superficie y conservando el film protector hasta finalizar la obra."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Aluminio anodizado"
+    },
+    {
+     "label": "Altura de cresta",
+     "value": "9.5 mm y 12 mm"
+    },
+    {
+     "label": "Ancho de base",
+     "value": "26 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.40 m"
+    },
+    {
+     "label": "Textura",
+     "value": "Exterior lisa, interior con ranuras longitudinales"
+    },
+    {
+     "label": "Acabado",
+     "value": "Mate"
+    },
+    {
+     "label": "Presentación",
+     "value": "Paquete de 50 unidades"
+    },
+    {
+     "label": "Uso",
+     "value": "Interiores y exteriores"
+    }
+   ],
+   "ficha": "/fichas/ft_rodoplast_aluminio_evo.pdf",
+   "usos": [
+    "Protección de esquinas y ángulos de cerámicos y porcelanatos",
+    "Remate de revestimientos en pisos y paredes",
+    "Acabados arquitectónicos modernos en interiores y exteriores"
+   ],
+   "images": [
+    {
+     "src": "/images/perfiles-de-aluminio/rodoplast_aluminio_evo/foto-ambientada.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Pared revestida con cerámico y perfil Rodoplast Evo de aluminio protegiendo la esquina"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/rodoplast_aluminio_evo/perfil-evo-individual-3.webp",
+     "w": 1600,
+     "h": 1758,
+     "alt": "Perfil Rodoplast Evo de aluminio anodizado con acabado mate"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/rodoplast_aluminio_evo/rodometal-evo-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil Rodoplast Evo de aluminio"
+    }
+   ],
+   "category": "perfiles-para-acabados",
+   "featured": false,
+   "cardImage": "/images/perfiles-de-aluminio/rodoplast_aluminio_evo/perfil-evo-individual-3.webp",
+   "hoverImage": "/images/perfiles-de-aluminio/rodoplast_aluminio_evo/foto-ambientada.webp"
+  },
+  {
+   "slug": "perfil-aluminio-l",
+   "name": "Perfil de Aluminio L",
+   "shortDescription": "Perfil en L de aluminio anodizado, resistente y ligero, para proteger y decorar esquinas de porcelanatos y cerámicos en interiores y exteriores.",
+   "description": [
+    "El Rodoplast de aluminio L es un perfil resistente y ligero, propio del aluminio, empleado para proteger y decorar esquinas de revestimientos de pisos y paredes como porcelanatos o cerámicos, en aplicaciones interiores o exteriores.",
+    "Fabricado en aluminio anodizado, ofrece larga durabilidad y resistencia a la corrosión. Se presenta en alturas de cresta de 10 mm y 12.5 mm, longitud de 2.40 m, textura lisa y acabados mate y brillante, en paquetes de 20 unidades.",
+    "Se coloca fácilmente en el ángulo formado por el revestimiento: se instala la cerámica de un lado de la pared, se aplica el pegamento en el otro lado, se instala el perfil y se coloca la cerámica en la parte interna de la cresta, de modo que el perfil quede al ras del revestimiento; luego se limpia y fragua.",
+    "Para su mantenimiento se recomienda un paño limpio con agua jabonosa o agentes de limpieza neutros para aluminio anodizado, evitando fibras que rayen la superficie. No retirar el film protector hasta finalizar la obra."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Aluminio anodizado"
+    },
+    {
+     "label": "Altura de cresta",
+     "value": "10 mm y 12.5 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.40 m"
+    },
+    {
+     "label": "Textura",
+     "value": "Lisa"
+    },
+    {
+     "label": "Acabado",
+     "value": "Mate y brillante"
+    },
+    {
+     "label": "Presentación",
+     "value": "Paquete de 20 unidades"
+    },
+    {
+     "label": "Uso",
+     "value": "Interiores y exteriores"
+    }
+   ],
+   "ficha": "/fichas/ft_rodoplast_aluminio_l.pdf",
+   "usos": [
+    "Protección y decoración de esquinas de porcelanato y cerámico",
+    "Remate de bordes de revestimientos en pisos y paredes",
+    "Instalaciones en interiores y exteriores"
+   ],
+   "images": [
+    {
+     "src": "/images/perfiles-de-aluminio/rodoplast_aluminio_l/foto-ambientada.webp",
+     "w": 930,
+     "h": 1278,
+     "alt": "Esquina de revestimiento acabada con perfil de aluminio L"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/rodoplast_aluminio_l/img_8523.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil de aluminio L anodizado"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/rodoplast_aluminio_l/rodometal-l-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil de aluminio L"
+    }
+   ],
+   "category": "perfiles-para-acabados",
+   "featured": false,
+   "cardImage": "/images/perfiles-de-aluminio/rodoplast_aluminio_l/rodometal-l-3d.webp",
+   "hoverImage": "/images/perfiles-de-aluminio/rodoplast_aluminio_l/foto-ambientada.webp"
+  },
+  {
+   "slug": "perfil-aluminio-cuadrado",
+   "name": "Perfil de Aluminio Cuadrado",
+   "shortDescription": "Perfil cuadrado de aluminio de 12 mm, resistente y ligero, ideal para esquinas de revestimientos con un acabado recto y moderno.",
+   "description": [
+    "El Rodoplast de aluminio cuadrado es un perfil resistente y ligero, propio del aluminio, empleado para proteger y decorar esquinas de revestimientos como porcelanatos o cerámicos, en aplicaciones interiores o exteriores. Su geometría cuadrada aporta un acabado de líneas rectas que combina con los revestimientos de estilo moderno.",
+    "Ofrece larga durabilidad y resistencia a la corrosión. Se presenta en altura de 12 mm, longitud de 2.4 m, textura lisa y acabados mate y brillante, en paquetes de 20 unidades.",
+    "Se coloca fácilmente en el ángulo formado por el revestimiento: se instala la cerámica de un lado de la pared, se aplica el pegamento en el otro lado y se instala el perfil, colocando la cerámica en la parte interna de la cresta para que quede al ras; luego se limpia y fragua.",
+    "Su limpieza se realiza con paño limpio y agua jabonosa o limpiadores neutros para aluminio anodizado, sin fibras que puedan rayar la superficie. Se recomienda no retirar el film protector hasta finalizar la obra."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Aluminio"
+    },
+    {
+     "label": "Altura",
+     "value": "12 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.4 m"
+    },
+    {
+     "label": "Textura",
+     "value": "Lisa"
+    },
+    {
+     "label": "Acabado",
+     "value": "Mate y brillante"
+    },
+    {
+     "label": "Presentación",
+     "value": "Paquete de 20 unidades"
+    },
+    {
+     "label": "Uso",
+     "value": "Interiores y exteriores"
+    }
+   ],
+   "ficha": "/fichas/ft_perfil_aluminio_cuadrado.pdf",
+   "usos": [
+    "Protección de esquinas de porcelanato y cerámico",
+    "Acabados de líneas rectas en revestimientos modernos",
+    "Remate de bordes en pisos y paredes",
+    "Instalaciones en interiores y exteriores"
+   ],
+   "images": [
+    {
+     "src": "/images/perfiles-de-aluminio/rodoplast_aluminio_cuadrado/foto-ambientada.webp",
+     "w": 930,
+     "h": 1278,
+     "alt": "Revestimiento cerámico con perfil de aluminio cuadrado en la esquina"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/rodoplast_aluminio_cuadrado/perfiles-de-aluminio-grupal.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Familia de perfiles de aluminio NEFUSAC"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/rodoplast_aluminio_cuadrado/rodometal-cuadrado-12mm-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil de aluminio cuadrado de 12 mm"
+    }
+   ],
+   "category": "perfiles-para-acabados",
+   "featured": false,
+   "cardImage": "/images/perfiles-de-aluminio/rodoplast_aluminio_cuadrado/perfiles-de-aluminio-grupal.webp",
+   "hoverImage": "/images/perfiles-de-aluminio/rodoplast_aluminio_cuadrado/foto-ambientada.webp"
+  },
+  {
+   "slug": "perfil-de-aluminio",
+   "name": "Perfil de Aluminio",
+   "shortDescription": "Perfil de aluminio importado en acabado mate o brillante, con variantes tipo U y T, para proteger y rematar esquinas de porcelanato y cerámico.",
+   "description": [
+    "Es un perfil resistente y ligero, propio del aluminio, empleado para proteger y decorar esquinas de revestimientos de pisos y paredes como porcelanatos o cerámicos, en aplicaciones interiores o exteriores. Gracias a la resistencia del aluminio, garantiza la durabilidad de la instalación y sirve además como remate de zócalos de diversos tipos de revestimientos.",
+    "La línea incluye el perfil de aluminio en alturas de cresta de 9.5 mm y 12 mm con acabado mate o brillante, una versión de 10 mm también en mate o brillante, y las variantes perfil tipo U (altura 10 mm) y perfil tipo T (altura 20 mm), ambas con acabado pulido. Todas las presentaciones tienen una longitud de 2.40 m.",
+    "Su colocación es sencilla: se instala la cerámica de un lado de la pared, se aplica el pegamento en el otro lado y se instala el perfil, colocando la cerámica en la parte interna de la cresta para que quede al ras del revestimiento; finalmente se limpia y fragua.",
+    "Para el mantenimiento se recomienda paño limpio con agua jabonosa o agentes de limpieza neutros para aluminio anodizado, sin fibras que rayen la superficie. Conservar el film protector hasta finalizar la obra y evitar el contacto con otros metales o productos químicos volátiles."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Aluminio"
+    },
+    {
+     "label": "Altura de cresta",
+     "value": "9.5 mm y 12 mm (versión adicional de 10 mm)"
+    },
+    {
+     "label": "Perfil tipo U",
+     "value": "Altura 10 mm, acabado pulido"
+    },
+    {
+     "label": "Perfil tipo T",
+     "value": "Altura 20 mm, acabado pulido"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.40 m"
+    },
+    {
+     "label": "Textura",
+     "value": "Exterior lisa, interior con ranuras longitudinales"
+    },
+    {
+     "label": "Acabado",
+     "value": "Mate y brillante (tipo U y T: pulido)"
+    },
+    {
+     "label": "Presentación",
+     "value": "Paquete de 20 unidades"
+    },
+    {
+     "label": "Uso",
+     "value": "Interiores y exteriores"
+    }
+   ],
+   "ficha": "/fichas/ft_perfil_aluminio.pdf",
+   "usos": [
+    "Protección y decoración de esquinas de porcelanato y cerámico",
+    "Remate de zócalos de diversos tipos de revestimientos",
+    "Terminaciones en pisos y paredes de interiores y exteriores",
+    "Detalles decorativos con perfiles tipo U y T pulidos"
+   ],
+   "images": [
+    {
+     "src": "/images/perfiles-de-aluminio/perfil_aluminio_importado/perfil-de-alumino-en-bano.webp",
+     "w": 564,
+     "h": 846,
+     "alt": "Baño con porcelanato rematado con perfil de aluminio"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/perfil_aluminio_importado/listelos-aa.webp",
+     "w": 564,
+     "h": 752,
+     "alt": "Ambiente con perfiles decorativos de aluminio instalados con porcelanato"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/perfil_aluminio_importado/aluminio-mate-y-pulido.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Perfiles de aluminio en acabado mate y pulido"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/perfil_aluminio_importado/perfiles-de-aluminio.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Surtido de perfiles de aluminio importados"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/perfil_aluminio_importado/perfil-aluminio-pulido.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Perfil de aluminio con acabado pulido"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/perfil-aluminio-alt-ferreteria-/perfil-aluminio-alt.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Perfil de aluminio versión de 10 mm"
+    },
+    {
+     "src": "/images/perfiles-de-aluminio/perfil_aluminio_importado/rodoplast-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil de aluminio"
+    },
+    {
+     "src": "/images/ia/amb-perfil-aluminio.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Perfil de Aluminio instalado"
+    }
+   ],
+   "category": "perfiles-para-acabados",
+   "featured": false,
+   "cardImage": "/images/perfiles-de-aluminio/perfil_aluminio_importado/perfil-de-alumino-en-bano.webp",
+   "hoverImage": "/images/ia/amb-perfil-aluminio.webp"
+  },
+  {
+   "slug": "listelos-de-acero-inoxidable",
+   "name": "Listelos de acero inoxidable",
+   "shortDescription": "Perfiles decorativos de acero inoxidable, en acabado mate, pulido o con diseño, que realzan cerámicos y porcelanatos con un acabado elegante y duradero.",
+   "description": [
+    "Los listelos de acero inoxidable son perfiles utilizados como piezas decorativas que se instalan entre dos cerámicos y/o porcelanatos. Con sección transversal en forma de \"Π\", están disponibles en acabado mate, pulido o con diferentes tipos de texturas, y su diseño sobrio y elegante resalta cualquier espacio donde son instalados: baños, cocinas, hall, counters y otros ambientes.",
+    "La línea decorativa ofrece perfiles mate y pulido en anchos de 10 mm, 15 mm, 25 mm, 35 mm y 50 mm, todos con 8 mm de alto y 2.40 m de longitud. Además, la línea con diseño presenta 4 modelos —hexágono, cuadrado, ondas y olas— de 20.5 mm de ancho, 8 mm de alto y 2.50 m de longitud, ideales para embellecer paredes y lograr un acabado más elegante.",
+    "Gracias al acero inoxidable, son impermeables, resistentes a la corrosión y de larga durabilidad. Al no ser de superficie porosa evitan la acumulación de bacterias y suciedad: basta limpiarlos con agua, detergentes u otros agentes recomendados para acero inoxidable, sin utilizar fibras que puedan rayar la superficie.",
+    "Su instalación es sencilla: se coloca el listelo entre dos cerámicos o porcelanatos dejando un espacio de 2 mm aproximadamente, se rellena la separación con pegamento y se procede con la instalación del perfil."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Acero inoxidable"
+    },
+    {
+     "label": "Acabado",
+     "value": "Mate y pulido"
+    },
+    {
+     "label": "Diseños",
+     "value": "Hexágono, Cuadrado, Ondas y Olas"
+    },
+    {
+     "label": "Ancho (decorativo)",
+     "value": "10 mm, 15 mm, 25 mm, 35 mm y 50 mm"
+    },
+    {
+     "label": "Ancho (con diseño)",
+     "value": "20.5 mm"
+    },
+    {
+     "label": "Alto",
+     "value": "8 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.40 m (decorativo) / 2.50 m (con diseño)"
+    }
+   ],
+   "ficha": "/fichas/ft_listelo_acero_inoxidable.pdf",
+   "aPedido": false,
+   "usos": [
+    "Decoración de paredes en baños y cocinas",
+    "Realce de revestimientos de cerámicos y porcelanatos",
+    "Acabados elegantes en hall y recepciones",
+    "Detalles decorativos en counters",
+    "Franjas decorativas en interiores"
+   ],
+   "images": [
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/foto-ambientada-2.webp",
+     "w": 1600,
+     "h": 2133,
+     "alt": "Listelos de acero inoxidable instalados entre porcelanatos en un ambiente interior"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/foto-ambientada.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Listelo decorativo de acero inoxidable aplicado en pared con revestimiento cerámico"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelos-grupal.webp",
+     "w": 1600,
+     "h": 1298,
+     "alt": "Familia de listelos de acero inoxidable NEFUSAC en distintos anchos y acabados"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelos-grupal-2.webp",
+     "w": 1600,
+     "h": 1300,
+     "alt": "Grupo de listelos de acero inoxidable en acabado mate y pulido"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelos-1.webp",
+     "w": 1600,
+     "h": 1190
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelos-1.0.webp",
+     "w": 1600,
+     "h": 1347
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-acero-inoxidable-decorativos.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Listelos decorativos de acero inoxidable con diseño"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelos-acero-inoxidable-de-25mm-y-40mm-1.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-acero-inoxidable-25mm-mate-y-pulido-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Listelos de acero inoxidable de 25 mm en acabado mate y pulido"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-mate-10mm-x-2.40m.webp",
+     "w": 1600,
+     "h": 1300,
+     "alt": "Listelo decorativo mate de 10 mm x 2.40 m"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-15mm-x-2.40m.webp",
+     "w": 1600,
+     "h": 1300,
+     "alt": "Listelo decorativo de 15 mm x 2.40 m"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-pulido-15mm-x-2.40m.webp",
+     "w": 1600,
+     "h": 1300,
+     "alt": "Listelo decorativo pulido de 15 mm x 2.40 m"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-mate-25mm-x-2.40m.webp",
+     "w": 1600,
+     "h": 980,
+     "alt": "Listelo decorativo mate de 25 mm x 2.40 m"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-pulido-25mm-x-2.40m.webp",
+     "w": 1600,
+     "h": 980,
+     "alt": "Listelo decorativo pulido de 25 mm x 2.40 m"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-mate-35mm-x-2.40m-2.webp",
+     "w": 1600,
+     "h": 980,
+     "alt": "Listelo decorativo mate de 35 mm x 2.40 m"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-mate-35mm-x-2.40m2.webp",
+     "w": 1600,
+     "h": 980,
+     "alt": "Listelo decorativo mate de 35 mm x 2.40 m, vista alternativa"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-pulido-35mm-x-2.40m2.webp",
+     "w": 1600,
+     "h": 980,
+     "alt": "Listelo decorativo pulido de 35 mm x 2.40 m"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-mate-50mm-x-2.40m.webp",
+     "w": 1600,
+     "h": 980,
+     "alt": "Listelo decorativo mate de 50 mm x 2.40 m"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-pulido-50mm-x-2.40m.webp",
+     "w": 1600,
+     "h": 980,
+     "alt": "Listelo decorativo pulido de 50 mm x 2.40 m"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-decorativo-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de listelo decorativo de acero inoxidable"
+    },
+    {
+     "src": "/images/listelos/listelo_acero_inoxidable/listelo-sin-decoracion-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de listelo de acero inoxidable sin decoración"
+    }
+   ],
+   "category": "listelos-para-pared",
+   "featured": true,
+   "cardImage": "/images/listelos/listelo_acero_inoxidable/listelos-grupal.webp",
+   "hoverImage": "/images/listelos/listelo_acero_inoxidable/foto-ambientada-2.webp"
+  },
+  {
+   "slug": "listelos-de-aluminio",
+   "name": "Listelos de aluminio",
+   "shortDescription": "Perfiles de aluminio anodizado pulido brillante, en tipo U y tipo T, que aportan un toque decorativo entre cerámicos y porcelanatos.",
+   "description": [
+    "Los listelos de aluminio son perfiles de diversos diseños, fabricados en aluminio anodizado pulido brillante, utilizados como piezas decorativas que se instalan entre cerámicos y/o porcelanatos. Son ideales para resaltar los revestimientos y accesorios en baños, cocinas, hall, counters y otros ambientes.",
+    "La línea está disponible en dos presentaciones: el listelo tipo U, con 10 mm de alto y 2.40 m de largo, y el listelo tipo T, con 20 mm de ancho, alto de 10.42 mm a 11.80 mm y 2.40 m de largo. Ambos se comercializan en paquetes de 10 unidades con acabado pulido.",
+    "Gracias al aluminio anodizado, son impermeables, resistentes a la corrosión y de larga durabilidad. Su superficie no porosa evita la acumulación de bacterias y suciedad, por lo que basta limpiarlos con agua y detergentes, sin utilizar fibras que puedan rayar la superficie.",
+    "La instalación es rápida y sencilla: se coloca el listelo entre dos cerámicos o porcelanatos dejando un espacio de 2 mm aproximadamente, se rellena la separación con pegamento y se procede con la instalación. Para proteger el acabado, se recomienda no retirar el film protector hasta finalizar la obra."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Aluminio anodizado"
+    },
+    {
+     "label": "Acabado",
+     "value": "Pulido brillante"
+    },
+    {
+     "label": "Tipos",
+     "value": "Tipo U y Tipo T"
+    },
+    {
+     "label": "Alto (Tipo U)",
+     "value": "10 mm"
+    },
+    {
+     "label": "Ancho (Tipo T)",
+     "value": "20 mm"
+    },
+    {
+     "label": "Alto (Tipo T)",
+     "value": "10.42 mm - 11.80 mm"
+    },
+    {
+     "label": "Largo",
+     "value": "2.40 m"
+    },
+    {
+     "label": "Presentación",
+     "value": "Paquete de 10 unidades"
+    }
+   ],
+   "ficha": "/fichas/ft_listelo_aluminio.pdf",
+   "aPedido": false,
+   "usos": [
+    "Realce de revestimientos en baños y cocinas",
+    "Franjas decorativas entre cerámicos y porcelanatos",
+    "Acabados en hall y recepciones",
+    "Detalles decorativos en counters"
+   ],
+   "images": [
+    {
+     "src": "/images/listelos/listelo_aluminio/foto-ambientada.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Listelos de aluminio instalados entre porcelanatos en un ambiente interior"
+    },
+    {
+     "src": "/images/listelos/listelo_aluminio/listelo-tipo-t-ambientada-3.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Listelo de aluminio tipo T aplicado en pared con revestimiento cerámico"
+    },
+    {
+     "src": "/images/listelos/listelo_aluminio/listelo-grupal-1.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Grupo de listelos de aluminio anodizado pulido brillante"
+    },
+    {
+     "src": "/images/listelos/listelo_aluminio/listelo-tipo-u-individual-2.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Listelo de aluminio tipo U, vista individual"
+    },
+    {
+     "src": "/images/listelos/listelo_aluminio/rodolistelo-u-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de listelo de aluminio tipo U"
+    },
+    {
+     "src": "/images/listelos/listelo_aluminio/rodometal-t-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D de listelo de aluminio tipo T"
+    }
+   ],
+   "category": "listelos-para-pared",
+   "featured": false,
+   "cardImage": "/images/listelos/listelo_aluminio/listelo-grupal-1.webp",
+   "hoverImage": "/images/listelos/listelo_aluminio/foto-ambientada.webp"
+  },
+  {
+   "slug": "borde-de-jardin",
+   "name": "Borde para jardín",
+   "code": "103111",
+   "shortDescription": "Delimita jardines, césped y piedras decorativas con un acabado limpio y seguro. Rollo flexible de 8 m o 10 m, 120 mm de altura y 6 colores.",
+   "description": [
+    "El borde para jardín NEFUSAC se fabrica mediante un proceso de extrusión de compuesto de PVC flexible con materia prima de la más alta calidad. Su borde superior cilíndrico está diseñado para separar parterres como gravas, áreas de plantas o césped, manteniendo la división entre materiales y mejorando la apariencia del diseño de su jardín.",
+    "Una vez instalado, el producto es seguro para personas, animales y las máquinas empleadas durante el mantenimiento de las áreas verdes. El borde inferior cuenta con una pestaña de 15 mm diseñada para un agarre firme al suelo, de modo que no pueda retirarse con facilidad una vez enterrado.",
+    "Su montaje es sencillo, rápido y de buen acabado, lo que permite usarlo en parques, áreas de juego y jardines públicos y privados. Al no ser de superficie porosa, no requiere productos especiales de limpieza y evita la acumulación de bacterias y suciedad.",
+    "Se presenta en rollos de 8 m y 10 m, con una altura total de 120 mm y seis colores disponibles: negro, marrón oscuro, gris, gris oscuro, blanco y mármol (colores y medidas a pedido según disponibilidad). Cuenta con garantía de 1 año por defecto de fábrica."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC flexible extruido"
+    },
+    {
+     "label": "Altura total",
+     "value": "120 mm"
+    },
+    {
+     "label": "Espesor",
+     "value": "2 mm"
+    },
+    {
+     "label": "Radio de borde superior",
+     "value": "8 mm"
+    },
+    {
+     "label": "Altura de pestaña inferior",
+     "value": "15 mm"
+    },
+    {
+     "label": "Dureza (ASTM D2240)",
+     "value": "86 Shore A"
+    },
+    {
+     "label": "Presentación",
+     "value": "Rollo de 8 m / 10 m"
+    },
+    {
+     "label": "Aplicación",
+     "value": "Uso exterior"
+    }
+   ],
+   "colors": [
+    "Negro",
+    "Marrón oscuro",
+    "Gris",
+    "Gris oscuro",
+    "Blanco",
+    "Mármol"
+   ],
+   "usos": [
+    "Delimitación de jardines, césped y áreas verdes",
+    "Separación de gravas y piedras decorativas",
+    "Bordes de parterres y macizos de plantas",
+    "Parques y áreas de juego",
+    "Jardines públicos y privados"
+   ],
+   "ficha": "/fichas/ft_borde-para-jardin.pdf",
+   "aPedido": false,
+   "images": [
+    {
+     "src": "/images/borde_jardin_nefusac/borde-para-jardin-amb-1.webp",
+     "w": 720,
+     "h": 1280,
+     "alt": "Borde para jardín NEFUSAC instalado delimitando un área de plantas y césped"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-para-jardin-amb-2.webp",
+     "w": 720,
+     "h": 1280,
+     "alt": "Borde para jardín de PVC separando el césped de las piedras decorativas"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-para-jardin-amb-3.webp",
+     "w": 720,
+     "h": 1280,
+     "alt": "Jardín residencial delimitado con borde de PVC NEFUSAC"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-para-jardin-amb-4.webp",
+     "w": 960,
+     "h": 1280
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-para-jardin-amb-5.webp",
+     "w": 960,
+     "h": 1280
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-para-jardin-amb-6.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-para-jardin-amb-7.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/foto-ambientada-2.webp",
+     "w": 1280,
+     "h": 1164,
+     "alt": "Borde para jardín delimitando áreas verdes en un proyecto de paisajismo"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/foto-ambientada-3.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jardin-entrada.webp",
+     "w": 1600,
+     "h": 2409,
+     "alt": "Entrada de vivienda con jardín delimitado con borde de PVC NEFUSAC"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jardin-deco-2.webp",
+     "w": 736,
+     "h": 981
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jard-instalando.webp",
+     "w": 563,
+     "h": 751,
+     "alt": "Instalación del borde para jardín en el terreno"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jardin-instala.webp",
+     "w": 564,
+     "h": 564
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jardin-cerca.webp",
+     "w": 564,
+     "h": 564,
+     "alt": "Detalle de cerca del borde superior cilíndrico del borde para jardín"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jardin-negro_marron.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Bordes para jardín en colores negro y marrón oscuro"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jardin.webp",
+     "w": 800,
+     "h": 533
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jardin-2.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jardinaa.webp",
+     "w": 1600,
+     "h": 1067
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-jardin-rollo.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Rollo de borde para jardín NEFUSAC"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jardin-individual-2.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/img_7991-lis.webp",
+     "w": 1600,
+     "h": 1600
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/colores/borde-de-jardin-negro.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Borde para jardín color negro"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/colores/marron-oscuro.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Borde para jardín color marrón oscuro"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/colores/gris.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Borde para jardín color gris"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/colores/gris-oscuro.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Borde para jardín color gris oscuro"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/colores/blanco.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Borde para jardín color blanco"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/colores/marmol.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Borde para jardín color mármol"
+    },
+    {
+     "src": "/images/borde_jardin_nefusac/borde-de-jardin-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil del borde para jardín NEFUSAC"
+    }
+   ],
+   "category": "otros-productos",
+   "featured": true,
+   "cardImage": "/images/borde_jardin_nefusac/borde-de-jardin-individual-2.webp",
+   "hoverImage": "/images/borde_jardin_nefusac/foto-ambientada-2.webp"
+  },
+  {
+   "slug": "burlete",
+   "name": "Burlete para puerta",
+   "code": "101893",
+   "shortDescription": "Sella el espacio entre la puerta y el piso: bloquea polvo, corrientes de aire, ruido e insectos. Recortable a la medida. 44 mm de altura x 1 m.",
+   "description": [
+    "Nuestro burlete para puerta se fabrica mediante un proceso de coextrusión de PVC con materia prima de la más alta calidad. La combinación de dos cuerpos, uno rígido y uno flexible, le otorga alta durabilidad, resistencia al desgaste, facilidad de instalación, mínimo mantenimiento y una excelente presentación.",
+    "Está diseñado para cubrir el espacio inferior entre la puerta y el piso, disminuyendo el ingreso de polvo, corrientes de aire, ruido, insectos y otras posibles filtraciones, además de reducir la pérdida de calor o la entrada de frío. Así mantiene su hogar u oficina más cómodo y limpio.",
+    "Es adaptable a diferentes medidas de puertas: basta con recortarlo a la longitud necesaria. Al no ser de superficie porosa, evita la acumulación de hongos, bacterias y suciedad; para su limpieza solo se recomienda agua y detergentes neutros de uso común, sin alcoholes ni solventes.",
+    "Se presenta en tiras de 1 m con 44 mm de altura, en colores negro, tabaco y blanco (consultar colores a pedido). Producto para uso interior con resistencia a la propagación de llama."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC coextruido (cuerpo rígido + cuerpo flexible)"
+    },
+    {
+     "label": "Altura",
+     "value": "44 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "1 m"
+    },
+    {
+     "label": "Altura del cuerpo rígido (A)",
+     "value": "22 mm"
+    },
+    {
+     "label": "Altura del cuerpo flexible (B)",
+     "value": "22 mm"
+    },
+    {
+     "label": "Textura",
+     "value": "Lisa"
+    },
+    {
+     "label": "Aplicación",
+     "value": "Uso interior"
+    }
+   ],
+   "colors": [
+    "Negro",
+    "Tabaco",
+    "Blanco"
+   ],
+   "usos": [
+    "Sellado del espacio inferior entre puerta y piso",
+    "Bloqueo del ingreso de polvo, suciedad y líquidos",
+    "Aislamiento de corrientes de aire, calor o frío",
+    "Barrera contra insectos",
+    "Reducción del ingreso de ruido"
+   ],
+   "ficha": "/fichas/ft_burlete_para_puerta.pdf",
+   "aPedido": false,
+   "images": [
+    {
+     "src": "/images/burlete/burlete-foto-ambientada.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Burlete para puerta NEFUSAC instalado en la parte inferior de una puerta"
+    },
+    {
+     "src": "/images/burlete/foto-ambientada.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Burlete de PVC sellando el espacio entre la puerta y el piso"
+    },
+    {
+     "src": "/images/burlete/img_2230.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Burlete para puerta de PVC NEFUSAC"
+    },
+    {
+     "src": "/images/burlete/burlete-para-puerta-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil del burlete para puerta"
+    }
+   ],
+   "category": "otros-productos",
+   "featured": false,
+   "cardImage": "/images/burlete/burlete-para-puerta-3d.webp",
+   "hoverImage": "/images/burlete/burlete-foto-ambientada.webp"
+  },
+  {
+   "slug": "angulo-protector-de-acero",
+   "name": "Ángulo protector de acero inoxidable",
+   "shortDescription": "Perfil en \"L\" de acero inoxidable que protege las esquinas de muros y paredes. Acabado mate o pulido, en 10 mm y 20 mm x 2.40 m.",
+   "description": [
+    "Los ángulos protectores de acero inoxidable NEFUSAC son perfiles creados para brindar protección óptima en los bordes y esquinas de las paredes, manteniendo la integridad y el aspecto estético de los espacios. Su diseño de sección transversal en forma de \"L\" les confiere robustez y una larga vida útil, minimizando los daños en zonas de alta circulación.",
+    "Fabricados en acero inoxidable, son resistentes a la corrosión, impermeables y de larga durabilidad. Están disponibles en acabado mate o pulido, en medidas de 10 x 10 mm (mate y pulido) y 20 x 20 mm (pulido), todos con 2.40 m de longitud y presentación por unidad.",
+    "Su instalación es sencilla: se aplica pegamento en el área a instalar y se fija el perfil en la esquina del muro; para mayor precisión puede asegurarse con pernos en los extremos del ángulo.",
+    "Al no ser de superficie porosa, evitan la acumulación de bacterias y suciedad. Para su limpieza se recomienda agua, detergentes u otros agentes recomendados para acero inoxidable, evitando fibras que puedan rayar la superficie."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Acero inoxidable"
+    },
+    {
+     "label": "Acabado",
+     "value": "Mate / Pulido"
+    },
+    {
+     "label": "Ancho x alto",
+     "value": "10 x 10 mm (mate y pulido) / 20 x 20 mm (pulido)"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.40 m"
+    },
+    {
+     "label": "Presentación",
+     "value": "Por unidad"
+    }
+   ],
+   "usos": [
+    "Protección de esquinas de muros y paredes",
+    "Zonas de alta circulación de personas",
+    "Ambientes que exigen fácil limpieza e higiene",
+    "Realce estético de esquinas en interiores"
+   ],
+   "ficha": "/fichas/angulos-protectores-de-acero-inoxidable.pdf",
+   "aPedido": false,
+   "images": [
+    {
+     "src": "/images/angulo-protector-de-acero_inoxidable/foto-ambientada.webp",
+     "w": 600,
+     "h": 450,
+     "alt": "Ángulo protector de acero inoxidable instalado en la esquina de una pared"
+    },
+    {
+     "src": "/images/angulo-protector-de-acero_inoxidable/angulo-protector.webp",
+     "w": 1600,
+     "h": 1375,
+     "alt": "Ángulos protectores de acero inoxidable NEFUSAC"
+    },
+    {
+     "src": "/images/angulo-protector-de-acero_inoxidable/angulo-protector-detalle.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Detalle del perfil en L del ángulo protector de acero inoxidable"
+    },
+    {
+     "src": "/images/angulo-protector-de-acero_inoxidable/angulo-protector-solo.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Ángulo protector de acero inoxidable, vista individual"
+    }
+   ],
+   "category": "otros-productos",
+   "featured": false,
+   "cardImage": "/images/angulo-protector-de-acero_inoxidable/angulo-protector-solo.webp",
+   "hoverImage": "/images/angulo-protector-de-acero_inoxidable/foto-ambientada.webp"
+  },
+  {
+   "slug": "protector-de-lluvia",
+   "name": "Protector de lluvia de aluminio",
+   "shortDescription": "Perfil de aluminio que evita filtraciones y manchas en bordes de azoteas, balcones y terrazas. Alturas de 80 y 100 mm x 2.50 m, mate o pulido.",
+   "description": [
+    "El protector de lluvia NEFUSAC es un perfil de aluminio diseñado para la protección y el acabado de los bordes exteriores de azoteas, balcones y terrazas. Gracias al ángulo de inclinación de 40° de su diseño, el agua de lluvia fluye sin entrar en contacto con las paredes, evitando filtraciones, humedades, manchas indeseadas y el levantamiento de recubrimientos como la pintura.",
+    "Fabricado en aluminio, es resistente a la intemperie y a la corrosión, estable a temperaturas ambientales, impermeable y versátil, resultando idóneo incluso para zonas con ambiente salino. Su cara interior presenta ranuras longitudinales en toda su extensión que mejoran el agarre del adhesivo a la superficie durante la instalación.",
+    "La instalación es sencilla: se limpia la superficie, se aplica un adhesivo adecuado para aluminio y resistente a la humedad en el perfil y la pared, se coloca el perfil alineado con el borde y se presiona para fijarlo. Se recomienda dejar una separación mínima de 10 mm entre perfiles para absorber la dilatación del material por variaciones de temperatura.",
+    "Se presenta en alturas de 80 mm y 100 mm, con 2.50 m de longitud y acabados mate o pulido. El mantenimiento es mínimo: basta agua y detergentes neutros de uso común; incluso el agua de lluvia por sí sola ejerce función de limpiador."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "Aluminio"
+    },
+    {
+     "label": "Acabado",
+     "value": "Mate / Pulido"
+    },
+    {
+     "label": "Altura",
+     "value": "80 mm / 100 mm"
+    },
+    {
+     "label": "Longitud",
+     "value": "2.50 m"
+    },
+    {
+     "label": "Ángulo de inclinación",
+     "value": "40°"
+    },
+    {
+     "label": "Textura exterior",
+     "value": "Lisa"
+    },
+    {
+     "label": "Textura interior",
+     "value": "Ranuras longitudinales"
+    }
+   ],
+   "usos": [
+    "Bordes exteriores de azoteas",
+    "Balcones y terrazas",
+    "Prevención de filtraciones y humedades en paredes",
+    "Zonas costeras o con ambiente salino"
+   ],
+   "ficha": "/fichas/ft_protector_lluvia_aluminio.pdf",
+   "aPedido": false,
+   "images": [
+    {
+     "src": "/images/protector_lluvia_aluminio/foto-ambientada.webp",
+     "w": 1600,
+     "h": 599,
+     "alt": "Protector de lluvia de aluminio instalado en el borde exterior de una azotea"
+    },
+    {
+     "src": "/images/protector_lluvia_aluminio/protector-de-lluvia-aluminio.webp",
+     "w": 1600,
+     "h": 1067,
+     "alt": "Perfil protector de lluvia de aluminio NEFUSAC"
+    },
+    {
+     "src": "/images/protector_lluvia_aluminio/protector-de-lluvia-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil protector de lluvia de aluminio"
+    }
+   ],
+   "category": "otros-productos",
+   "featured": false,
+   "cardImage": "/images/protector_lluvia_aluminio/protector-de-lluvia-3d.webp",
+   "hoverImage": "/images/protector_lluvia_aluminio/foto-ambientada.webp"
+  },
+  {
+   "slug": "perfil-tubo-triangular",
+   "name": "Perfil tubo triangular",
+   "shortDescription": "Perfil de PVC rígido con sección de tubo triangular de 52 x 31.2 mm. Disponible en azul, rojo, amarillo y blanco para uso interior.",
+   "description": [
+    "El perfil tubo triangular NEFUSAC se fabrica mediante extrusión de compuesto de PVC rígido, lo que le otorga la resistencia y estabilidad características de este material. Su sección en forma de tubo triangular, de 52 mm de ancho por 31.2 mm de alto, lo convierte en una pieza versátil para fabricaciones y proyectos especiales.",
+    "Está disponible en cuatro colores: azul, rojo, amarillo y blanco, lo que permite integrarlo en estructuras de exhibición y aplicaciones donde el color forma parte del diseño. Es un producto para uso interior y cuenta con resistencia a la propagación de llama.",
+    "Para conservarlo en óptimas condiciones se recomienda mantenerlo sobre superficies planas, protegido de impactos y daños mecánicos, sin contacto directo con el suelo y resguardado de agentes contaminantes."
+   ],
+   "specs": [
+    {
+     "label": "Material",
+     "value": "PVC rígido"
+    },
+    {
+     "label": "Ancho (A)",
+     "value": "52.0 mm"
+    },
+    {
+     "label": "Alto (B)",
+     "value": "31.2 mm"
+    },
+    {
+     "label": "Aplicación",
+     "value": "Uso interior"
+    }
+   ],
+   "colors": [
+    "Azul",
+    "Rojo",
+    "Amarillo",
+    "Blanco"
+   ],
+   "usos": [
+    "Estructuras de exhibidores y módulos de exhibición",
+    "Fabricaciones y proyectos especiales en PVC rígido",
+    "Aplicaciones decorativas en interiores"
+   ],
+   "ficha": "/fichas/ft_perfil-tubo-triangular.pdf",
+   "aPedido": false,
+   "images": [
+    {
+     "src": "/images/ft_perfil-tubo-triangular/perfil-tubo-triangular.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Perfil tubo triangular de PVC rígido NEFUSAC"
+    },
+    {
+     "src": "/images/ft_perfil-tubo-triangular/tubo-triangular-para-exhibidor-3d.webp",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Render 3D del perfil tubo triangular aplicado en un exhibidor"
+    },
+    {
+     "src": "/images/ia/amb-tubo-triangular.webp",
+     "w": 1200,
+     "h": 1200,
+     "alt": "Ambiente referencial: Perfil tubo triangular instalado"
+    }
+   ],
+   "category": "otros-productos",
+   "featured": false,
+   "cardImage": "/images/ft_perfil-tubo-triangular/perfil-tubo-triangular.webp",
+   "hoverImage": "/images/ia/amb-tubo-triangular.webp"
+  }
+ ]
+}

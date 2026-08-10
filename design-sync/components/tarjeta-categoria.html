@@ -1,0 +1,15 @@
+<!-- @dsCard group="Componentes" name="Tarjeta de categoría" -->
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Tarjeta de categoría</title><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Barlow:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"><style>
+  :root{--brand:#80bc00;--brand-dark:#669600;--brand-light:#eef7d8;--navy:#061325;--navy-soft:#0d2036;--ink:#101828;--steel:#475467;--mist:#f4f6f0;--line:#e5e8e0;--wsp:#25d366}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'Inter',system-ui,sans-serif;color:var(--ink);background:#fff;padding:24px}
+  .display{font-family:'Barlow',system-ui,sans-serif}
+  h1,h2,h3{font-family:'Barlow',system-ui,sans-serif}
+.cat{width:300px;aspect-ratio:4/3;border-radius:14px;overflow:hidden;position:relative;display:block;text-decoration:none}
+   .cat img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:.3s}
+   .cat:hover img{transform:scale(1.05)}
+   .grad{position:absolute;inset:0;background:linear-gradient(to top,#061325d9,#06132533 55%,transparent)}
+   .txt{position:absolute;bottom:0;left:0;right:0;padding:16px;color:#fff}
+   .txt h3{font-size:18px;font-weight:700}.txt p{font-size:12px;color:#ffffffbf;margin-top:2px}
+   .txt span{color:var(--brand);font-size:13px;font-weight:600;opacity:0;transition:.3s;display:inline-block;margin-top:8px}
+   .cat:hover .txt span{opacity:1}</style></head><body><a class="cat" href="#"><img src="../assets/cat-antideslizantes.webp" alt=""><div class="grad"></div><div class="txt"><h3 class="display">Antideslizantes</h3><p>Seguridad en escaleras y rampas</p><span>Ver productos →</span></div></a></body></html>
