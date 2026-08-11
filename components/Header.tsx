@@ -185,6 +185,28 @@ export default function Header() {
         </div>
       </div>
 
+      {/* Menú de categorías debajo del logo */}
+      <nav
+        aria-label="Categorías de productos"
+        className="hidden sm:block border-t border-line bg-mist/70"
+      >
+        <div className="mx-auto max-w-7xl px-4 flex items-center gap-1 overflow-x-auto thin-scroll">
+          {categories.map((c) => (
+            <Link
+              key={c.slug}
+              href={`/productos/${c.slug}`}
+              className={`whitespace-nowrap px-3 py-2.5 text-[13px] font-semibold transition-colors ${
+                pathname === `/productos/${c.slug}`
+                  ? "text-brand-dark"
+                  : "text-steel hover:text-brand-dark"
+              }`}
+            >
+              {c.name}
+            </Link>
+          ))}
+        </div>
+      </nav>
+
       {/* Menú móvil */}
       {mobileOpen && (
         <nav className="lg:hidden border-t border-line bg-white px-4 pb-4 max-h-[75vh] overflow-y-auto">

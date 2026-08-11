@@ -163,14 +163,6 @@ export default function Home() {
             <CategoryTile key={t.slug} tile={t} />
           ))}
         </div>
-        <p className="mt-8 text-center">
-          <Link
-            href="/productos"
-            className="inline-block bg-navy hover:bg-navy-soft text-white font-bold px-8 py-4 rounded-xl transition-colors"
-          >
-            Ver el catálogo completo →
-          </Link>
-        </p>
       </section>
 
       {/* Ventanas de PVC */}
