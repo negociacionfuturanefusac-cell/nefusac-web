@@ -44,6 +44,8 @@ export type Category = {
   name: string;
   /** Frase corta para tarjetas */
   tagline: string;
+  /** Para qué sirve y qué se puede pedir (texto de venta en tarjetas) */
+  uso?: string;
   description: string;
   image: string;
   order: number;

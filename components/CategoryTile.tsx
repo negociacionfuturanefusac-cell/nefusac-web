@@ -3,6 +3,8 @@ import Image from "next/image";
 
 export type TileInfo = {
   slug: string;
+  /** Nombre de la categoría/producto que el cliente puede pedir */
+  name: string;
   image: string;
   headline: string;
   sub: string;
@@ -23,7 +25,10 @@ export default function CategoryTile({ tile }: { tile: TileInfo }) {
       />
       <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/25 to-black/10" />
       <div className="absolute inset-0 p-6 flex flex-col justify-end">
-        <h3 className="font-display font-extrabold text-white text-xl lg:text-[1.35rem] leading-tight">
+        <p className="text-brand font-display font-bold uppercase tracking-[0.12em] text-[11px]">
+          {tile.name}
+        </p>
+        <h3 className="mt-1 font-display font-extrabold text-white text-xl lg:text-[1.35rem] leading-tight">
           {tile.headline}
         </h3>
         <p className="mt-1.5 text-white/85 text-[13px] leading-snug max-w-[34ch]">
