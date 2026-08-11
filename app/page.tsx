@@ -158,7 +158,7 @@ export default function Home() {
           Elige por dónde: cada solución está fabricada para que tu obra
           termine impecable y dure años.
         </p>
-        <div className="mt-10 grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="mt-10 grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {TILES.map((t) => (
             <CategoryTile key={t.slug} tile={t} />
           ))}
