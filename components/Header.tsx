@@ -10,7 +10,7 @@ import { categories } from "@/lib/products";
 const NAV = [
   { href: "/", label: "Inicio" },
   { href: "/productos", label: "Productos", dropdown: true },
-  { href: "/ventanas-de-pvc", label: "Ventanas de PVC" },
+  { href: "https://ventanasnefusacpvc.com/", label: "Ventanas de PVC", external: true },
   { href: "/nosotros", label: "Nosotros" },
   { href: "/proyectos", label: "Proyectos" },
   { href: "/contacto", label: "Contacto" },
@@ -124,6 +124,16 @@ export default function Header() {
                   </div>
                 )}
               </div>
+            ) : "external" in item && item.external ? (
+              <a
+                key={item.href}
+                href={item.href}
+                target="_blank"
+                rel="noopener"
+                className="px-3 py-2 rounded-md text-sm font-semibold text-ink hover:text-brand-dark"
+              >
+                {item.label}
+              </a>
             ) : (
               <Link
                 key={item.href}
@@ -180,13 +190,25 @@ export default function Header() {
         <nav className="lg:hidden border-t border-line bg-white px-4 pb-4 max-h-[75vh] overflow-y-auto">
           {NAV.map((item) => (
             <div key={item.href}>
-              <Link
-                href={item.href}
-                className="block py-3 font-semibold text-ink border-b border-line"
-                onClick={() => setMobileOpen(false)}
-              >
-                {item.label}
-              </Link>
+              {"external" in item && item.external ? (
+                <a
+                  href={item.href}
+                  target="_blank"
+                  rel="noopener"
+                  className="block py-3 font-semibold text-ink border-b border-line"
+                  onClick={() => setMobileOpen(false)}
+                >
+                  {item.label}
+                </a>
+              ) : (
+                <Link
+                  href={item.href}
+                  className="block py-3 font-semibold text-ink border-b border-line"
+                  onClick={() => setMobileOpen(false)}
+                >
+                  {item.label}
+                </Link>
+              )}
               {"dropdown" in item && item.dropdown && (
                 <div className="pl-4">
                   {categories.map((c) => (

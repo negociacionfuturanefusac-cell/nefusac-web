@@ -64,18 +64,13 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="/ventanas-de-pvc" className="hover:text-brand">
-                Ventanas de PVC
-              </Link>
-            </li>
-            <li>
               <a
                 href="https://ventanasnefusacpvc.com/"
                 target="_blank"
                 rel="noopener"
                 className="hover:text-brand"
               >
-                Sitio de ventanas (ventanasnefusacpvc.com)
+                Ventanas de PVC
               </a>
             </li>
             <li>

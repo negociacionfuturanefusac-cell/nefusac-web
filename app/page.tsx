@@ -35,42 +35,55 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section className="bg-navy text-white">
-        <div className="mx-auto max-w-7xl px-4 py-14 lg:py-20 grid lg:grid-cols-2 gap-10 items-center">
-          <div>
-            <p className="text-brand font-display font-bold uppercase tracking-widest text-sm">
-              {SITE.years} años construyendo calidad
-            </p>
-            <h1 className="mt-3 font-display font-extrabold text-4xl sm:text-5xl leading-[1.08] tracking-tight">
-              Soluciones para los acabados de tu construcción
-            </h1>
-            <p className="mt-5 text-white/80 text-lg leading-relaxed max-w-xl">
-              Fabricamos productos de PVC e importamos perfiles decorativos en
-              aluminio y acero inoxidable. Además, fabricamos e instalamos
-              ventanas de PVC de alta prestación.
-            </p>
-            <div className="mt-8 flex flex-wrap gap-3">
-              <Link
-                href="/productos"
-                className="bg-brand hover:bg-brand-dark text-white font-bold px-6 py-3.5 rounded-lg transition-colors"
-              >
-                Ver productos
-              </Link>
-              <a
-                href={waLink("Hola NEFUSAC, quiero una cotización.")}
-                target="_blank"
-                rel="noopener"
-                className="border border-white/30 hover:border-brand hover:text-brand font-bold px-6 py-3.5 rounded-lg transition-colors"
-              >
-                Cotizar por WhatsApp
-              </a>
-            </div>
-            <dl className="mt-10 grid grid-cols-3 gap-4 max-w-md text-center">
+      <section className="relative min-h-[min(86vh,780px)] overflow-hidden bg-navy text-white flex flex-col justify-center">
+        <Image
+          src="/images/ia/hero-perfiles-pvc-aluminio.webp"
+          alt="Perfiles NEFUSAC de PVC y aluminio: zócalos, juntas, antideslizantes y listelos"
+          fill
+          sizes="100vw"
+          className="object-cover"
+          priority
+        />
+        <div className="absolute inset-0 bg-gradient-to-r from-navy/95 via-navy/70 to-navy/30" />
+        <div className="absolute inset-x-0 bottom-0 h-56 bg-gradient-to-t from-navy/85 to-transparent" />
+        <div className="relative mx-auto w-full max-w-7xl px-4 pt-24 pb-40">
+          <p className="flex items-center gap-3 text-brand font-display font-bold uppercase tracking-[0.18em] text-sm">
+            <span className="inline-block h-0.5 w-9 bg-brand" />
+            {SITE.years} años construyendo calidad
+          </p>
+          <h1 className="mt-4 max-w-3xl font-display font-extrabold text-5xl sm:text-6xl lg:text-7xl leading-[1.05] tracking-tight">
+            Soluciones para los acabados de tu construcción
+          </h1>
+          <p className="mt-6 max-w-xl text-white/85 text-lg leading-relaxed">
+            Fabricamos productos de PVC e importamos perfiles decorativos en
+            aluminio y acero inoxidable. Además, fabricamos e instalamos
+            ventanas de PVC de alta prestación.
+          </p>
+          <div className="mt-9 flex flex-wrap gap-3.5">
+            <Link
+              href="/productos"
+              className="bg-brand hover:bg-brand-dark text-white font-bold text-base px-8 py-4 rounded-xl shadow-[0_8px_24px_rgba(128,188,0,0.35)] transition-colors"
+            >
+              Ver productos
+            </Link>
+            <a
+              href={waLink("Hola NEFUSAC, quiero una cotización.")}
+              target="_blank"
+              rel="noopener"
+              className="border border-white/35 bg-white/10 backdrop-blur hover:border-brand hover:text-brand text-white font-bold text-base px-8 py-4 rounded-xl transition-colors"
+            >
+              Cotizar por WhatsApp
+            </a>
+          </div>
+        </div>
+        <div className="absolute inset-x-0 bottom-0 border-t border-white/15 bg-navy/40 backdrop-blur-md">
+          <div className="mx-auto max-w-7xl px-4 py-4 flex items-center justify-between gap-8 text-white">
+            <dl className="flex gap-10 sm:gap-14">
               <div>
                 <dt className="font-display font-extrabold text-3xl text-brand">
                   {SITE.years}
                 </dt>
-                <dd className="text-xs text-white/70 mt-1">
+                <dd className="text-xs text-white/75 mt-0.5">
                   años de experiencia
                 </dd>
               </div>
@@ -78,7 +91,7 @@ export default function Home() {
                 <dt className="font-display font-extrabold text-3xl text-brand">
                   24
                 </dt>
-                <dd className="text-xs text-white/70 mt-1">
+                <dd className="text-xs text-white/75 mt-0.5">
                   departamentos del Perú
                 </dd>
               </div>
@@ -86,21 +99,15 @@ export default function Home() {
                 <dt className="font-display font-extrabold text-3xl text-brand">
                   3
                 </dt>
-                <dd className="text-xs text-white/70 mt-1">
+                <dd className="text-xs text-white/75 mt-0.5">
                   certificaciones ISO
                 </dd>
               </div>
             </dl>
-          </div>
-          <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
-            <Image
-              src="/images/ia/hero-1-sala-molduras.webp"
-              alt="Sala elegante con molduras decorativas en el techo"
-              fill
-              sizes="(max-width: 1024px) 100vw, 50vw"
-              className="object-cover"
-              priority
-            />
+            <p className="hidden lg:flex items-center gap-2.5 text-sm font-semibold text-white/85">
+              <span className="h-2 w-2 rounded-full bg-brand inline-block" />
+              Procesos certificados TRINORMA · ISO 9001 · 14001 · 45001
+            </p>
           </div>
         </div>
       </section>
@@ -177,7 +184,7 @@ export default function Home() {
       <section className="mx-auto max-w-7xl px-4 py-14 grid lg:grid-cols-2 gap-10 items-center">
         <div className="relative aspect-[4/3] rounded-2xl overflow-hidden order-last lg:order-first">
           <Image
-            src="/images/ventanas-sitio/hero-sala-jardin-2k.webp"
+            src="/images/ventanas-sitio/sala-jardin-sin-texto.webp"
             alt="Ventana corrediza de PVC blanca NEFUSAC en una sala con vista al jardín"
             fill
             sizes="(max-width: 1024px) 100vw, 50vw"
@@ -210,12 +217,14 @@ export default function Home() {
             ))}
           </ul>
           <div className="mt-7 flex flex-wrap items-center gap-4">
-            <Link
-              href="/ventanas-de-pvc"
+            <a
+              href="https://ventanasnefusacpvc.com/"
+              target="_blank"
+              rel="noopener"
               className="inline-block bg-navy hover:bg-navy-soft text-white font-bold px-6 py-3.5 rounded-lg transition-colors"
             >
               Conocer las ventanas →
-            </Link>
+            </a>
             <a
               href="https://ventanasnefusacpvc.com/"
               target="_blank"
