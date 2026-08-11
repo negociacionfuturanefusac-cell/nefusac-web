@@ -195,10 +195,10 @@ export default function Header() {
             <Link
               key={c.slug}
               href={`/productos/${c.slug}`}
-              className={`whitespace-nowrap px-4 py-2.5 text-[13px] font-bold transition-colors ${
+              className={`whitespace-nowrap px-4 py-3 text-[15px] font-bold transition-colors ${
                 pathname === `/productos/${c.slug}`
                   ? "bg-brand-dark text-white"
-                  : "text-white hover:bg-brand-dark"
+                  : "text-navy hover:bg-brand-dark hover:text-white"
               }`}
             >
               {c.name}
