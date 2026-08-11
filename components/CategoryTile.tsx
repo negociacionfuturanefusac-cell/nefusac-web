@@ -14,24 +14,24 @@ export default function CategoryTile({ tile }: { tile: TileInfo }) {
   return (
     <Link
       href={`/productos/${tile.slug}`}
-      className="group relative block aspect-[16/10] overflow-hidden bg-navy"
+      className="group relative block aspect-[16/11] overflow-hidden bg-navy"
     >
       <Image
         src={tile.image}
-        alt={tile.headline}
+        alt={`${tile.name}: ${tile.headline}`}
         fill
-        sizes="(max-width: 768px) 100vw, 33vw"
+        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
         className="object-cover group-hover:scale-105 transition-transform duration-500"
       />
-      <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/25 to-black/10" />
-      <div className="absolute inset-0 p-6 flex flex-col justify-end">
-        <p className="text-brand font-display font-bold uppercase tracking-[0.12em] text-[11px]">
+      <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/45 to-black/10" />
+      <div className="absolute inset-0 p-5 flex flex-col justify-end">
+        <span className="self-start bg-brand-dark text-white font-display font-bold uppercase tracking-wide text-[13px] leading-none px-2.5 py-1.5 rounded-sm shadow-md">
           {tile.name}
-        </p>
-        <h3 className="mt-1 font-display font-extrabold text-white text-xl lg:text-[1.35rem] leading-tight">
+        </span>
+        <h3 className="mt-2.5 font-display font-extrabold text-white text-2xl leading-tight drop-shadow-sm">
           {tile.headline}
         </h3>
-        <p className="mt-1.5 text-white/85 text-[13px] leading-snug max-w-[34ch]">
+        <p className="mt-1.5 text-white/90 text-sm leading-snug max-w-[36ch]">
           {tile.sub}
         </p>
         <span className="mt-3 inline-block text-white font-bold text-sm underline underline-offset-4 decoration-2 group-hover:text-brand transition-colors">
