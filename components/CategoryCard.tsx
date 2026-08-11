@@ -6,24 +6,29 @@ export default function CategoryCard({ category }: { category: Category }) {
   return (
     <Link
       href={`/productos/${category.slug}`}
-      className="group relative rounded-xl overflow-hidden aspect-[4/3] block"
+      className="group block"
+      aria-label={`Ver productos de ${category.name}`}
     >
-      <Image
-        src={category.image}
-        alt={category.name}
-        fill
-        sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
-        className="object-cover group-hover:scale-105 transition-transform duration-300"
-      />
-      <div className="absolute inset-0 bg-gradient-to-t from-navy/85 via-navy/20 to-transparent" />
-      <div className="absolute bottom-0 left-0 right-0 p-4">
-        <h3 className="font-display font-bold text-white text-lg leading-tight">
-          {category.name}
-        </h3>
-        <p className="text-white/75 text-xs mt-0.5">{category.tagline}</p>
-        <span className="mt-2 inline-block text-brand text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
-          Ver productos →
-        </span>
+      <div className="relative pb-5">
+        <div className="relative aspect-square overflow-hidden rounded-md bg-[#eceef0]">
+          <Image
+            src={category.image}
+            alt={category.name}
+            fill
+            sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+            className="object-cover group-hover:scale-105 transition-transform duration-300"
+          />
+        </div>
+        <div className="absolute bottom-0 left-3 right-6 flex items-stretch shadow-lg">
+          <span className="flex-1 bg-brand group-hover:bg-brand-dark transition-colors text-white font-semibold text-sm sm:text-[15px] px-4 py-2.5 flex items-center">
+            {category.name}
+          </span>
+          <span className="bg-brand group-hover:bg-brand-dark transition-colors flex items-center px-2.5">
+            <span className="flex h-7 w-7 items-center justify-center rounded-sm border-2 border-white bg-white text-brand-dark font-bold">
+              ›
+            </span>
+          </span>
+        </div>
       </div>
     </Link>
   );

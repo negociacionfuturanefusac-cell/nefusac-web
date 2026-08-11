@@ -9,28 +9,6 @@ export const metadata: Metadata = {
   description: SITE.description,
 };
 
-const TESTIMONIOS = [
-  {
-    quote:
-      "La atención que recibimos es rápida, el trato súper bueno y siempre dispuestos a ayudar ante cualquier urgencia que se presenta en el día a día.",
-    author: "DECORCENTER",
-  },
-  {
-    quote:
-      "La atención brindada por la empresa es profesional y se da en un plazo satisfactorio a partir de la solicitud.",
-    author: "PROMART",
-  },
-  {
-    quote:
-      "El personal tiene buen trato y posee gran variedad de productos.",
-    author: "ARENERA JAÉN SAC",
-  },
-  {
-    quote: "El servicio prestado es bueno, cumple con los estándares.",
-    author: "INVERSIONES ARAKAKI SAC",
-  },
-];
-
 export default function Home() {
   return (
     <>
@@ -112,71 +90,15 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Categorías */}
+      {/* Productos */}
       <section className="mx-auto max-w-7xl px-4 py-14">
-        <div className="flex items-end justify-between gap-4">
-          <div>
-            <h2 className="font-display font-extrabold text-3xl text-ink">
-              Nuestras categorías de productos
-            </h2>
-            <p className="mt-2 text-steel">
-              Todo lo que tu obra necesita para un acabado profesional.
-            </p>
-          </div>
-          <Link
-            href="/productos"
-            className="hidden sm:block shrink-0 text-brand-dark font-bold hover:underline"
-          >
-            Ver todo →
-          </Link>
-        </div>
-        <div className="mt-8 grid grid-cols-2 md:grid-cols-3 gap-4">
+        <h2 className="font-display font-extrabold text-4xl text-ink text-center">
+          Productos
+        </h2>
+        <div className="mt-10 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-5 gap-y-7">
           {categories.map((c) => (
             <CategoryCard key={c.slug} category={c} />
           ))}
-        </div>
-      </section>
-
-      {/* La forma NEFUSAC */}
-      <section className="bg-mist">
-        <div className="mx-auto max-w-7xl px-4 py-14">
-          <h2 className="font-display font-extrabold text-3xl text-ink text-center">
-            Comprar en NEFUSAC es simple
-          </h2>
-          <div className="mt-10 grid sm:grid-cols-3 gap-6">
-            {[
-              {
-                n: "1",
-                title: "Cotiza sin compromiso",
-                text: "Escríbenos por WhatsApp o correo con los productos que necesitas y te respondemos con precios y stock.",
-              },
-              {
-                n: "2",
-                title: "Asesoría permanente",
-                text: "Te acompañamos en la elección e instalación de cada producto, con fichas técnicas y recomendaciones.",
-              },
-              {
-                n: "3",
-                title: "Despacho a todo el Perú",
-                text: "Nuestros productos llegan a los 24 departamentos del país, directo a tu obra o negocio.",
-              },
-            ].map((s) => (
-              <div
-                key={s.n}
-                className="bg-white rounded-xl p-6 border border-line"
-              >
-                <span className="flex h-10 w-10 items-center justify-center rounded-full bg-brand text-white font-display font-extrabold text-lg">
-                  {s.n}
-                </span>
-                <h3 className="mt-4 font-display font-bold text-lg text-ink">
-                  {s.title}
-                </h3>
-                <p className="mt-2 text-sm text-steel leading-relaxed">
-                  {s.text}
-                </p>
-              </div>
-            ))}
-          </div>
         </div>
       </section>
 
@@ -234,76 +156,6 @@ export default function Home() {
               ventanasnefusacpvc.com
             </a>
           </div>
-        </div>
-      </section>
-
-      {/* Certificaciones */}
-      <section className="bg-navy text-white">
-        <div className="mx-auto max-w-7xl px-4 py-12">
-          <h2 className="font-display font-extrabold text-2xl text-center">
-            Procesos certificados{" "}
-            <span className="text-brand">TRINORMA</span>
-          </h2>
-          <div className="mt-8 grid grid-cols-2 lg:grid-cols-4 gap-4 text-center">
-            {[
-              {
-                code: "ISO 9001",
-                cert: "SC-CER901829",
-                name: "Gestión de calidad",
-              },
-              {
-                code: "ISO 14001",
-                cert: "SA-CER901830",
-                name: "Gestión ambiental",
-              },
-              {
-                code: "ISO 45001",
-                cert: "ST-CER901818",
-                name: "Seguridad y salud en el trabajo",
-              },
-              {
-                code: "CO₂",
-                cert: "Medición verificada",
-                name: "Huella de carbono",
-              },
-            ].map((c) => (
-              <div
-                key={c.code}
-                className="bg-white/5 rounded-xl p-5 border border-white/10"
-              >
-                <p className="font-display font-extrabold text-xl text-brand">
-                  {c.code}
-                </p>
-                <p className="mt-1 text-sm font-semibold">{c.name}</p>
-                <p className="mt-1 text-xs text-white/50">{c.cert}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Testimonios */}
-      <section className="mx-auto max-w-7xl px-4 py-14">
-        <h2 className="font-display font-extrabold text-3xl text-ink text-center">
-          Confían en nuestro trabajo
-        </h2>
-        <p className="mt-2 text-steel text-center">
-          Formamos sólidos lazos con nuestros clientes.
-        </p>
-        <div className="mt-10 grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {TESTIMONIOS.map((t) => (
-            <figure
-              key={t.author}
-              className="bg-mist rounded-xl p-5 flex flex-col justify-between"
-            >
-              <blockquote className="text-sm text-ink leading-relaxed">
-                “{t.quote}”
-              </blockquote>
-              <figcaption className="mt-4 font-display font-bold text-xs uppercase tracking-wider text-brand-dark">
-                {t.author}
-              </figcaption>
-            </figure>
-          ))}
         </div>
       </section>
 
