@@ -188,17 +188,17 @@ export default function Header() {
       {/* Menú de categorías debajo del logo */}
       <nav
         aria-label="Categorías de productos"
-        className="hidden sm:block border-t border-line bg-mist/70"
+        className="hidden sm:block bg-brand"
       >
-        <div className="mx-auto max-w-7xl px-4 flex items-center gap-1 overflow-x-auto thin-scroll">
+        <div className="mx-auto max-w-7xl px-4 flex items-center overflow-x-auto thin-scroll">
           {categories.map((c) => (
             <Link
               key={c.slug}
               href={`/productos/${c.slug}`}
-              className={`whitespace-nowrap px-3 py-2.5 text-[13px] font-semibold transition-colors ${
+              className={`whitespace-nowrap px-4 py-2.5 text-[13px] font-bold transition-colors ${
                 pathname === `/productos/${c.slug}`
-                  ? "text-brand-dark"
-                  : "text-steel hover:text-brand-dark"
+                  ? "bg-brand-dark text-white"
+                  : "text-white hover:bg-brand-dark"
               }`}
             >
               {c.name}
