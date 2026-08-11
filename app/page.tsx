@@ -2,12 +2,63 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { SITE, waLink } from "@/lib/site";
-import { categories } from "@/lib/products";
-import CategoryCard from "@/components/CategoryCard";
+import CategoryTile, { type TileInfo } from "@/components/CategoryTile";
 
 export const metadata: Metadata = {
   description: SITE.description,
 };
+
+/** Frases de beneficio por categoría para las tarjetas de entrada */
+const TILES: TileInfo[] = [
+  {
+    slug: "molduras-decorativas",
+    image: "/images/tiles/molduras-decorativas.webp",
+    headline: "Techos que enamoran",
+    sub: "Molduras de poliestireno listas para pintar, ligeras y fáciles de instalar.",
+  },
+  {
+    slug: "antideslizantes",
+    image: "/images/tiles/antideslizantes.webp",
+    headline: "Cada paso, seguro",
+    sub: "Escaleras y rampas sin resbalones, en interiores y exteriores.",
+  },
+  {
+    slug: "crucetas-y-niveladores",
+    image: "/images/tiles/crucetas-y-niveladores.webp",
+    headline: "Pisos perfectamente nivelados",
+    sub: "Porcelanato parejo y alineado, sin ser un experto.",
+  },
+  {
+    slug: "juntas",
+    image: "/images/tiles/juntas.webp",
+    headline: "Adiós a las fisuras",
+    sub: "Dilatación y transición para pisos, cerámicas y pavimentos de concreto.",
+  },
+  {
+    slug: "zocalos",
+    image: "/images/tiles/zocalos.webp",
+    headline: "Limpieza de hospital",
+    sub: "Uniones curvas entre piso y pared que no acumulan suciedad.",
+  },
+  {
+    slug: "paneles-de-pvc",
+    image: "/images/tiles/paneles-de-pvc.webp",
+    headline: "Paredes y techos impecables",
+    sub: "Revestimiento de instalación rápida y limpieza sin esfuerzo.",
+  },
+  {
+    slug: "perfiles-para-acabados",
+    image: "/images/tiles/perfiles-para-acabados.webp",
+    headline: "Esquinas protegidas y elegantes",
+    sub: "Rodoplast en PVC y aluminio para bordes de cerámicos y porcelanatos.",
+  },
+  {
+    slug: "listelos-para-pared",
+    image: "/images/tiles/listelos-para-pared.webp",
+    headline: "El detalle que resalta",
+    sub: "Listelos de acero y aluminio para baños, cocinas y recepciones.",
+  },
+];
 
 export default function Home() {
   return (
@@ -90,16 +141,28 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Productos */}
-      <section className="mx-auto max-w-7xl px-4 py-14">
-        <h2 className="font-display font-extrabold text-4xl text-ink text-center">
-          Productos
+      {/* Empieza tu proyecto — tarjetas de categoría */}
+      <section className="mx-auto max-w-7xl px-4 py-16">
+        <h2 className="font-display font-extrabold text-4xl sm:text-5xl text-ink text-center tracking-tight">
+          Empieza tu proyecto
         </h2>
-        <div className="mt-10 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-5 gap-y-7">
-          {categories.map((c) => (
-            <CategoryCard key={c.slug} category={c} />
+        <p className="mt-3 text-steel text-center text-lg max-w-2xl mx-auto">
+          Elige por dónde: cada solución está fabricada para que tu obra
+          termine impecable y dure años.
+        </p>
+        <div className="mt-10 grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {TILES.map((t) => (
+            <CategoryTile key={t.slug} tile={t} />
           ))}
         </div>
+        <p className="mt-8 text-center">
+          <Link
+            href="/productos"
+            className="inline-block bg-navy hover:bg-navy-soft text-white font-bold px-8 py-4 rounded-xl transition-colors"
+          >
+            Ver el catálogo completo →
+          </Link>
+        </p>
       </section>
 
       {/* Ventanas de PVC */}
