@@ -190,12 +190,12 @@ export default function Header() {
         aria-label="Categorías de productos"
         className="hidden sm:block bg-brand"
       >
-        <div className="mx-auto max-w-7xl px-4 flex items-center overflow-x-auto thin-scroll">
+        <div className="flex items-center overflow-x-auto thin-scroll">
           {categories.map((c) => (
             <Link
               key={c.slug}
               href={`/productos/${c.slug}`}
-              className={`whitespace-nowrap px-4 py-3 text-[15px] font-bold transition-colors ${
+              className={`flex-1 text-center whitespace-nowrap px-3 py-3 text-[15px] font-bold transition-colors ${
                 pathname === `/productos/${c.slug}`
                   ? "bg-brand-dark text-white"
                   : "text-navy hover:bg-brand-dark hover:text-white"
