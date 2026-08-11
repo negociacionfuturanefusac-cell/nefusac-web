@@ -1,4 +1,4 @@
-<!-- @dsCard group="Secciones" name="Hero de portada" -->
+<!-- @dsCard group="Secciones" name="Hero de portada" subtitle="Pantalla completa con foto de perfiles" -->
 <!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hero</title><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Barlow:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"><style>
   :root{--brand:#80bc00;--brand-dark:#669600;--brand-light:#eef7d8;--navy:#061325;--navy-soft:#0d2036;--ink:#101828;--steel:#475467;--mist:#f4f6f0;--line:#e5e8e0;--wsp:#25d366}
   *{margin:0;padding:0;box-sizing:border-box}
@@ -6,21 +6,30 @@
   .display{font-family:'Barlow',system-ui,sans-serif}
   h1,h2,h3{font-family:'Barlow',system-ui,sans-serif}
 body{padding:0}
-   .hero{background:var(--navy);color:#fff;padding:56px 40px;display:grid;grid-template-columns:1.1fr 1fr;gap:40px;align-items:center}
-   .k{color:var(--brand);font-family:'Barlow';font-weight:700;text-transform:uppercase;letter-spacing:.16em;font-size:13px}
-   h1{font-size:44px;font-weight:800;line-height:1.08;letter-spacing:-.02em;margin-top:12px}
-   .sub{color:#ffffffcc;font-size:17px;line-height:1.6;margin-top:18px;max-width:520px}
-   .btns{display:flex;gap:12px;margin-top:28px}
-   .b1{background:var(--brand);color:#fff;font-weight:700;padding:14px 24px;border-radius:10px;text-decoration:none;font-size:15px}
-   .b2{border:1px solid #ffffff4d;color:#fff;font-weight:700;padding:14px 24px;border-radius:10px;text-decoration:none;font-size:15px}
-   .stats{display:flex;gap:36px;margin-top:36px}
-   .stats b{font-family:'Barlow';font-weight:800;font-size:30px;color:var(--brand);display:block}
-   .stats span{font-size:12px;color:#ffffffb3}
-   .img{border-radius:18px;overflow:hidden;aspect-ratio:4/3;box-shadow:0 24px 60px #00000059}
-   .img img{width:100%;height:100%;object-fit:cover}</style></head><body><div class="hero"><div>
+   .hero{position:relative;min-height:620px;background:var(--navy);color:#fff;display:flex;flex-direction:column;justify-content:center;overflow:hidden}
+   .hero>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+   .g1{position:absolute;inset:0;background:linear-gradient(to right,#061325f2,#061325b3 45%,#0613254d)}
+   .g2{position:absolute;left:0;right:0;bottom:0;height:220px;background:linear-gradient(to top,#061325d9,transparent)}
+   .inner{position:relative;max-width:1150px;margin:0 auto;width:100%;padding:80px 40px 150px}
+   .k{display:flex;align-items:center;gap:12px;color:var(--brand);font-family:'Barlow';font-weight:700;text-transform:uppercase;letter-spacing:.18em;font-size:13px}
+   .k::before{content:'';display:inline-block;height:2px;width:36px;background:var(--brand)}
+   h1{font-size:62px;font-weight:800;line-height:1.05;letter-spacing:-.02em;margin-top:14px;max-width:720px}
+   .sub{color:#ffffffd9;font-size:17px;line-height:1.6;margin-top:20px;max-width:520px}
+   .btns{display:flex;gap:14px;margin-top:32px}
+   .b1{background:var(--brand);color:#fff;font-weight:700;padding:16px 30px;border-radius:12px;text-decoration:none;font-size:15px;box-shadow:0 8px 24px #80bc0059}
+   .b2{border:1px solid #ffffff59;background:#ffffff1a;color:#fff;font-weight:700;padding:16px 30px;border-radius:12px;text-decoration:none;font-size:15px}
+   .bar{position:absolute;left:0;right:0;bottom:0;border-top:1px solid #ffffff26;background:#0613256b;backdrop-filter:blur(8px)}
+   .bar-in{max-width:1150px;margin:0 auto;padding:14px 40px;display:flex;justify-content:space-between;align-items:center}
+   .stats{display:flex;gap:48px}
+   .stats b{font-family:'Barlow';font-weight:800;font-size:28px;color:var(--brand);display:block}
+   .stats span{font-size:11px;color:#ffffffbf}
+   .cert{font-size:13px;font-weight:600;color:#ffffffd9;display:flex;align-items:center;gap:10px}
+   .cert::before{content:'';height:8px;width:8px;border-radius:99px;background:var(--brand)}</style></head><body><div class="hero"><img src="../assets/hero-perfiles.webp" alt=""><div class="g1"></div><div class="g2"></div>
+   <div class="inner">
     <p class="k">38 años construyendo calidad</p>
     <h1>Soluciones para los acabados de tu construcción</h1>
-    <p class="sub">Fabricamos productos de PVC e importamos perfiles decorativos en aluminio y acero inoxidable. Además, fabricamos e instalamos ventanas de PVC de alta prestación.</p>
+    <p class="sub">Fabricamos productos de PVC e importamos perfiles decorativos en aluminio y acero inoxidable.</p>
     <div class="btns"><a class="b1" href="#">Ver productos</a><a class="b2" href="#">Cotizar por WhatsApp</a></div>
-    <div class="stats"><div><b>38</b><span>años de experiencia</span></div><div><b>24</b><span>departamentos del Perú</span></div><div><b>3</b><span>certificaciones ISO</span></div></div>
-   </div><div class="img"><img src="../assets/hero-sala.webp" alt=""></div></div></body></html>
+   </div>
+   <div class="bar"><div class="bar-in"><div class="stats"><div><b>38</b><span>años de experiencia</span></div><div><b>24</b><span>departamentos del Perú</span></div><div><b>3</b><span>certificaciones ISO</span></div></div><p class="cert">Procesos certificados TRINORMA · ISO 9001 · 14001 · 45001</p></div></div>
+  </div></body></html>

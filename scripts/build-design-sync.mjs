@@ -12,11 +12,12 @@ for (const d of ['brand', 'components', 'secciones', 'assets']) {
 const ASSETS = [
   ['public/brand/mark-dark.png', 'assets/mark-dark.png'],
   ['public/brand/mark-white.png', 'assets/mark-white.png'],
-  ['public/images/ia/hero-1-sala-molduras.webp', 'assets/hero-sala.webp'],
-  ['public/images/ventanas-sitio/hero-sala-jardin-2k.webp', 'assets/ventana-jardin.webp'],
+  ['public/images/ia/hero-perfiles-pvc-aluminio.webp', 'assets/hero-perfiles.webp'],
+  ['public/images/ventanas-sitio/sala-jardin-sin-texto.webp', 'assets/ventana-jardin.webp'],
   ['public/images/juntas/junta_transicion_p-iguales/junta-para-pisos-iguales-grupal.webp', 'assets/producto-junta.webp'],
   ['public/images/juntas/junta_transicion_p-iguales/foto-ambientada.webp', 'assets/producto-junta-instalada.webp'],
   ['public/images/antideslizantes/grupal-antideslizantes.webp', 'assets/cat-antideslizantes.webp'],
+  ['public/images/tiles/molduras-decorativas.webp', 'assets/tile-molduras.webp'],
 ];
 for (const [src, dst] of ASSETS) fs.copyFileSync(src, path.join(OUT, dst));
 
@@ -182,28 +183,52 @@ files['components/footer.html'] = page(
 
 // ── SECCIONES ──────────────────────────────────────────
 files['secciones/hero.html'] = page(
-  'group="Secciones" name="Hero de portada"',
+  'group="Secciones" name="Hero de portada" subtitle="Pantalla completa con foto de perfiles"',
   'Hero',
   `body{padding:0}
-   .hero{background:var(--navy);color:#fff;padding:56px 40px;display:grid;grid-template-columns:1.1fr 1fr;gap:40px;align-items:center}
-   .k{color:var(--brand);font-family:'Barlow';font-weight:700;text-transform:uppercase;letter-spacing:.16em;font-size:13px}
-   h1{font-size:44px;font-weight:800;line-height:1.08;letter-spacing:-.02em;margin-top:12px}
-   .sub{color:#ffffffcc;font-size:17px;line-height:1.6;margin-top:18px;max-width:520px}
-   .btns{display:flex;gap:12px;margin-top:28px}
-   .b1{background:var(--brand);color:#fff;font-weight:700;padding:14px 24px;border-radius:10px;text-decoration:none;font-size:15px}
-   .b2{border:1px solid #ffffff4d;color:#fff;font-weight:700;padding:14px 24px;border-radius:10px;text-decoration:none;font-size:15px}
-   .stats{display:flex;gap:36px;margin-top:36px}
-   .stats b{font-family:'Barlow';font-weight:800;font-size:30px;color:var(--brand);display:block}
-   .stats span{font-size:12px;color:#ffffffb3}
-   .img{border-radius:18px;overflow:hidden;aspect-ratio:4/3;box-shadow:0 24px 60px #00000059}
-   .img img{width:100%;height:100%;object-fit:cover}`,
-  `<div class="hero"><div>
+   .hero{position:relative;min-height:620px;background:var(--navy);color:#fff;display:flex;flex-direction:column;justify-content:center;overflow:hidden}
+   .hero>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+   .g1{position:absolute;inset:0;background:linear-gradient(to right,#061325f2,#061325b3 45%,#0613254d)}
+   .g2{position:absolute;left:0;right:0;bottom:0;height:220px;background:linear-gradient(to top,#061325d9,transparent)}
+   .inner{position:relative;max-width:1150px;margin:0 auto;width:100%;padding:80px 40px 150px}
+   .k{display:flex;align-items:center;gap:12px;color:var(--brand);font-family:'Barlow';font-weight:700;text-transform:uppercase;letter-spacing:.18em;font-size:13px}
+   .k::before{content:'';display:inline-block;height:2px;width:36px;background:var(--brand)}
+   h1{font-size:62px;font-weight:800;line-height:1.05;letter-spacing:-.02em;margin-top:14px;max-width:720px}
+   .sub{color:#ffffffd9;font-size:17px;line-height:1.6;margin-top:20px;max-width:520px}
+   .btns{display:flex;gap:14px;margin-top:32px}
+   .b1{background:var(--brand);color:#fff;font-weight:700;padding:16px 30px;border-radius:12px;text-decoration:none;font-size:15px;box-shadow:0 8px 24px #80bc0059}
+   .b2{border:1px solid #ffffff59;background:#ffffff1a;color:#fff;font-weight:700;padding:16px 30px;border-radius:12px;text-decoration:none;font-size:15px}
+   .bar{position:absolute;left:0;right:0;bottom:0;border-top:1px solid #ffffff26;background:#0613256b;backdrop-filter:blur(8px)}
+   .bar-in{max-width:1150px;margin:0 auto;padding:14px 40px;display:flex;justify-content:space-between;align-items:center}
+   .stats{display:flex;gap:48px}
+   .stats b{font-family:'Barlow';font-weight:800;font-size:28px;color:var(--brand);display:block}
+   .stats span{font-size:11px;color:#ffffffbf}
+   .cert{font-size:13px;font-weight:600;color:#ffffffd9;display:flex;align-items:center;gap:10px}
+   .cert::before{content:'';height:8px;width:8px;border-radius:99px;background:var(--brand)}`,
+  `<div class="hero"><img src="../assets/hero-perfiles.webp" alt=""><div class="g1"></div><div class="g2"></div>
+   <div class="inner">
     <p class="k">38 años construyendo calidad</p>
     <h1>Soluciones para los acabados de tu construcción</h1>
-    <p class="sub">Fabricamos productos de PVC e importamos perfiles decorativos en aluminio y acero inoxidable. Además, fabricamos e instalamos ventanas de PVC de alta prestación.</p>
+    <p class="sub">Fabricamos productos de PVC e importamos perfiles decorativos en aluminio y acero inoxidable.</p>
     <div class="btns"><a class="b1" href="#">Ver productos</a><a class="b2" href="#">Cotizar por WhatsApp</a></div>
-    <div class="stats"><div><b>38</b><span>años de experiencia</span></div><div><b>24</b><span>departamentos del Perú</span></div><div><b>3</b><span>certificaciones ISO</span></div></div>
-   </div><div class="img"><img src="../assets/hero-sala.webp" alt=""></div></div>`
+   </div>
+   <div class="bar"><div class="bar-in"><div class="stats"><div><b>38</b><span>años de experiencia</span></div><div><b>24</b><span>departamentos del Perú</span></div><div><b>3</b><span>certificaciones ISO</span></div></div><p class="cert">Procesos certificados TRINORMA · ISO 9001 · 14001 · 45001</p></div></div>
+  </div>`
+);
+
+files['components/tile-categoria.html'] = page(
+  'group="Componentes" name="Tarjeta-menú de categoría" subtitle="Foto + frase de beneficio + Ver productos"',
+  'Tarjeta-menú de categoría',
+  `.tile{position:relative;display:block;width:360px;aspect-ratio:16/10;overflow:hidden;text-decoration:none;background:var(--navy)}
+   .tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:.5s}
+   .tile:hover img{transform:scale(1.05)}
+   .grad{position:absolute;inset:0;background:linear-gradient(to top,#000000bf,#00000040 55%,#0000001a)}
+   .txt{position:absolute;inset:0;padding:22px;display:flex;flex-direction:column;justify-content:flex-end}
+   .txt h3{font-size:22px;font-weight:800;color:#fff;line-height:1.15}
+   .txt p{margin-top:6px;color:#ffffffd9;font-size:13px;line-height:1.4;max-width:34ch}
+   .txt span{margin-top:12px;color:#fff;font-weight:700;font-size:13.5px;text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:2px}
+   .tile:hover .txt span{color:var(--brand)}`,
+  `<a class="tile" href="#"><img src="../assets/tile-molduras.webp" alt=""><div class="grad"></div><div class="txt"><h3 class="display">Techos que enamoran</h3><p>Molduras de poliestireno listas para pintar, ligeras y fáciles de instalar.</p><span>Ver productos →</span></div></a>`
 );
 
 files['secciones/ventanas.html'] = page(
