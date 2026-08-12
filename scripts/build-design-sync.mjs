@@ -18,6 +18,8 @@ const ASSETS = [
   ['public/images/juntas/junta_transicion_p-iguales/foto-ambientada.webp', 'assets/producto-junta-instalada.webp'],
   ['public/images/antideslizantes/grupal-antideslizantes.webp', 'assets/cat-antideslizantes.webp'],
   ['public/images/tiles/molduras-decorativas.webp', 'assets/tile-molduras.webp'],
+  ['public/brand/logo-negro.png', 'assets/logo-negro.png'],
+  ['public/brand/logo-blanco.png', 'assets/logo-blanco.png'],
 ];
 for (const [src, dst] of ASSETS) fs.copyFileSync(src, path.join(OUT, dst));
 
@@ -78,17 +80,15 @@ files['brand/tipografia.html'] = page(
 );
 
 files['brand/logo.html'] = page(
-  'group="Marca" name="Logo"',
+  'group="Marca" name="Logo oficial"',
   'Logo NEFUSAC',
   `.row{display:flex;gap:16px;flex-wrap:wrap}
-   .tile{border-radius:14px;padding:26px 34px;display:flex;align-items:center;gap:14px;border:1px solid var(--line)}
-   .word{font-family:'Barlow';font-weight:800;font-size:26px;letter-spacing:-.01em}
-   .tag{font-size:8.5px;letter-spacing:.14em;text-transform:uppercase;display:block}
-   img{height:40px;width:40px}`,
+   .tile{border-radius:14px;padding:28px 38px;display:flex;align-items:center;border:1px solid var(--line)}
+   img{height:44px;width:auto}`,
   `<div class="row">
-    <div class="tile" style="background:#fff"><span style="background:var(--brand);border-radius:10px;padding:7px;display:flex"><img src="../assets/mark-dark.png" alt=""></span><span><span class="word" style="color:var(--ink)">NEFUSAC</span><span class="tag" style="color:var(--steel)">Soluciones para la construcción</span></span></div>
-    <div class="tile" style="background:var(--navy)"><img src="../assets/mark-white.png" alt=""><span><span class="word" style="color:#fff">NEFUSAC</span><span class="tag" style="color:#ffffff99">Soluciones para la construcción</span></span></div>
-    <div class="tile" style="background:var(--brand)"><img src="../assets/mark-dark.png" alt=""><span><span class="word" style="color:var(--navy)">NEFUSAC</span><span class="tag" style="color:#06132599">Soluciones para la construcción</span></span></div>
+    <div class="tile" style="background:#fff"><img src="../assets/logo-negro.png" alt="NEFUSAC"></div>
+    <div class="tile" style="background:var(--navy)"><img src="../assets/logo-blanco.png" alt="NEFUSAC"></div>
+    <div class="tile" style="background:var(--brand)"><img src="../assets/logo-negro.png" alt="NEFUSAC"></div>
   </div>`
 );
 
