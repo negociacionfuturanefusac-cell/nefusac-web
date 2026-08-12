@@ -56,25 +56,15 @@ export default function Header() {
 
       {/* Barra principal */}
       <div className="mx-auto max-w-7xl px-4 h-16 sm:h-20 flex items-center justify-between gap-6">
-        <Link href="/" className="flex items-center gap-3 shrink-0">
-          <span className="bg-brand rounded-lg p-1.5 sm:p-2 flex items-center justify-center">
-            <Image
-              src="/brand/mark-dark.png"
-              alt=""
-              width={34}
-              height={34}
-              className="h-7 w-7 sm:h-8 sm:w-8"
-              priority
-            />
-          </span>
-          <span className="leading-none">
-            <span className="block font-display font-extrabold text-xl sm:text-2xl tracking-tight text-ink">
-              NEFUSAC
-            </span>
-            <span className="block text-[0.6rem] sm:text-[0.65rem] tracking-[0.14em] uppercase text-steel">
-              Soluciones para la construcción
-            </span>
-          </span>
+        <Link href="/" className="flex items-center shrink-0">
+          <Image
+            src="/brand/logo-negro.png"
+            alt="NEFUSAC"
+            width={594}
+            height={110}
+            className="h-8 sm:h-10 w-auto"
+            priority
+          />
         </Link>
 
         {/* Navegación escritorio */}

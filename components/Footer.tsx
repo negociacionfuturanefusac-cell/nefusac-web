@@ -9,21 +9,13 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-12 grid gap-10 md:grid-cols-2 lg:grid-cols-4">
         {/* Marca */}
         <div>
-          <div className="flex items-center gap-3">
-            <Image
-              src="/brand/mark-white.png"
-              alt="NEFUSAC"
-              width={40}
-              height={40}
-              className="h-10 w-10"
-            />
-            <div className="leading-none">
-              <p className="font-display font-extrabold text-xl">NEFUSAC</p>
-              <p className="text-[0.6rem] tracking-[0.14em] uppercase text-white/60">
-                Soluciones para la construcción
-              </p>
-            </div>
-          </div>
+          <Image
+            src="/brand/logo-blanco.png"
+            alt="NEFUSAC"
+            width={594}
+            height={110}
+            className="h-9 w-auto"
+          />
           <p className="mt-4 text-sm text-white/70 leading-relaxed">
             {SITE.years} años fabricando soluciones en PVC e importando
             perfiles decorativos en aluminio y acero inoxidable. Presentes en
